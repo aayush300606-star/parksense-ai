@@ -63,7 +63,7 @@ export default function CityMap({ hotspots = [] }: { hotspots: any[] }) {
                   <div className="flex justify-between items-center text-xs">
                     <span className="text-slate-500">CSI Score</span>
                     <span className={`font-semibold ${isCritical ? 'text-rose-600' : 'text-blue-600'}`}>
-                      {hotspot.csi.toFixed(1)}
+                      {Number(hotspot?.csi ?? 0).toFixed(1)}
                     </span>
                   </div>
                   <div className="flex justify-between items-center text-xs">
@@ -72,7 +72,7 @@ export default function CityMap({ hotspots = [] }: { hotspots: any[] }) {
                   </div>
                   <div className="flex justify-between items-center text-xs">
                     <span className="text-slate-500">Delay Impact</span>
-                    <span className="font-medium text-amber-600">+{hotspot.delay_minutes.toFixed(1)}m</span>
+                    <span className="font-medium text-amber-600">+{Number(hotspot?.delay_minutes ?? 0).toFixed(1)}m</span>
                   </div>
                 </div>
               </div>

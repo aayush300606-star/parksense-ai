@@ -117,17 +117,17 @@ export default function DigitalTwinWorkspace() {
                <div className="absolute inset-0 opacity-[0.03]" style={{ backgroundImage: 'radial-gradient(#000 1px, transparent 1px)', backgroundSize: '20px 20px' }}></div>
                <BarChart3 className="w-8 h-8 text-slate-400 mb-2" />
                <span className="text-slate-500 font-medium">Real-time Traffic Flow Model</span>
-               <div className="mt-2 text-sm text-slate-400">Current Speed: {Number(baseline?.current_speed_kmh || 0).toFixed(1) || 0} km/h</div>
+               <div className="mt-2 text-sm text-slate-400">Current Speed: {Number(baseline?.current_speed_kmh ?? 0).toFixed(1) || 0} km/h</div>
             </div>
 
             <div className="grid grid-cols-2 gap-4 mt-auto">
               <div className="bg-slate-50 p-5 rounded-xl border border-slate-200">
                 <div className="text-sm font-medium text-slate-500 mb-1">Baseline CSI</div>
-                <div className="text-3xl font-bold text-slate-900">{Number(baseline?.csi_score || 0).toFixed(1) || "..."}</div>
+                <div className="text-3xl font-bold text-slate-900">{Number(baseline?.csi_score ?? 0).toFixed(1) || "..."}</div>
               </div>
               <div className="bg-slate-50 p-5 rounded-xl border border-slate-200">
                 <div className="text-sm font-medium text-slate-500 mb-1">Baseline PIS</div>
-                <div className="text-3xl font-bold text-slate-900">{Number(baseline?.pis_score || 0).toFixed(1) || "..."}</div>
+                <div className="text-3xl font-bold text-slate-900">{Number(baseline?.pis_score ?? 0).toFixed(1) || "..."}</div>
               </div>
             </div>
           </div>
@@ -152,17 +152,17 @@ export default function DigitalTwinWorkspace() {
                <div className="absolute inset-0 opacity-[0.03]" style={{ backgroundImage: 'radial-gradient(#10b981 1px, transparent 1px)', backgroundSize: '20px 20px' }}></div>
                <ShieldCheck className="w-8 h-8 text-emerald-500 mb-2" />
                <span className="text-emerald-700 font-medium">Optimised Flow Model</span>
-               <div className="mt-2 text-sm text-emerald-600/70">Projected Speed: {Number(simulated?.current_speed_kmh || 0).toFixed(1) || 0} km/h (+{baseline?.current_speed_kmh ? Number(((deltas?.speed_kmh?.improvement / baseline.current_speed_kmh) * 100) || 0).toFixed(0) : 0}%)</div>
+               <div className="mt-2 text-sm text-emerald-600/70">Projected Speed: {Number(simulated?.current_speed_kmh ?? 0).toFixed(1) || 0} km/h (+{baseline?.current_speed_kmh ? Number(((deltas?.speed_kmh?.improvement / baseline.current_speed_kmh) * 100) || 0).toFixed(0) : 0}%)</div>
             </div>
 
             <div className="grid grid-cols-2 gap-4 mt-auto">
               <div className="bg-white p-5 rounded-xl border border-emerald-100 shadow-sm">
                 <div className="text-sm font-medium text-slate-500 mb-1">Projected CSI</div>
-                <div className="text-3xl font-bold text-slate-900">{Number(simulated?.csi_score || 0).toFixed(1) || "..."}</div>
+                <div className="text-3xl font-bold text-slate-900">{Number(simulated?.csi_score ?? 0).toFixed(1) || "..."}</div>
               </div>
               <div className="bg-emerald-500 p-5 rounded-xl shadow-sm text-white">
                 <div className="text-sm font-medium text-emerald-100 mb-1">CSI Reduction</div>
-                <div className="text-3xl font-bold">-{Number(deltas?.csi?.improvement || 0).toFixed(1) || 0} pts</div>
+                <div className="text-3xl font-bold">-{Number(deltas?.csi?.improvement ?? 0).toFixed(1) || 0} pts</div>
               </div>
             </div>
           </div>
@@ -199,14 +199,14 @@ export default function DigitalTwinWorkspace() {
                     {sim.scenario_name}
                     {sim.scenario_id === selectedScenarioId && <span className="ml-2 inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold bg-blue-100 text-blue-800 uppercase tracking-wider">Active</span>}
                   </td>
-                  <td className="px-6 py-4 whitespace-nowrap text-sm text-slate-500">{Number(sim.baseline_state?.csi_score || 0).toFixed(1)}</td>
+                  <td className="px-6 py-4 whitespace-nowrap text-sm text-slate-500">{Number(sim.baseline_state?.csi_score ?? 0).toFixed(1)}</td>
                   <td className="px-6 py-4 whitespace-nowrap">
                     <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-emerald-100 text-emerald-800">
-                      {Number(sim.simulated_state?.csi_score || 0).toFixed(1)}
+                      {Number(sim.simulated_state?.csi_score ?? 0).toFixed(1)}
                     </span>
                   </td>
                   <td className="px-6 py-4 whitespace-nowrap text-sm text-slate-500">+{sim.baseline_state.current_speed_kmh ? Number(((sim.deltas?.speed_kmh?.improvement / sim.baseline_state?.current_speed_kmh) * 100) || 0).toFixed(0) : 0}%</td>
-                  <td className="px-6 py-4 whitespace-nowrap text-sm text-slate-500">{Number(sim.benefit_score || 0).toFixed(0)}</td>
+                  <td className="px-6 py-4 whitespace-nowrap text-sm text-slate-500">{Number(sim.benefit_score ?? 0).toFixed(0)}</td>
                   <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-blue-600">{sim.roi}</td>
                 </tr>
               ))}

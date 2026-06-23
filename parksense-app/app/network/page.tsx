@@ -55,7 +55,7 @@ export default function NetworkIntelligenceDashboard() {
             <h3 className="text-sm font-semibold text-slate-500 uppercase tracking-wider">Network Risk</h3>
           </div>
           <div className="flex items-baseline gap-1">
-            <div className="text-3xl font-bold text-slate-900">{Number(avgRisk || 0).toFixed(1)}</div>
+            <div className="text-3xl font-bold text-slate-900">{Number(avgRisk ?? 0).toFixed(1)}</div>
             <div className="text-sm font-medium text-slate-400">/ 100</div>
           </div>
         </div>
@@ -104,7 +104,7 @@ export default function NetworkIntelligenceDashboard() {
                 </div>
                 <div className="text-right">
                   <div className={`text-lg font-bold ${node.network_fragility_score > 75 ? 'text-rose-600' : 'text-amber-600'}`}>
-                    {Number(node.network_fragility_score || 0).toFixed(1)}
+                    {Number(node.network_fragility_score ?? 0).toFixed(1)}
                   </div>
                   <div className="text-[10px] uppercase tracking-wider font-semibold text-slate-400">Fragility Score</div>
                 </div>
@@ -127,7 +127,7 @@ export default function NetworkIntelligenceDashboard() {
                     <span className="text-sm font-bold text-slate-700 group-hover:text-blue-600 transition-colors">Node #{node.hotspot_id}</span>
                   </div>
                   <span className={`text-sm font-bold ${node.network_fragility_score > 75 ? 'text-rose-600' : 'text-slate-900'}`}>
-                    {Number(node.network_fragility_score || 0).toFixed(1)}%
+                    {Number(node.network_fragility_score ?? 0).toFixed(1)}%
                   </span>
                 </div>
                 <div className="w-full bg-slate-100 rounded-full h-2.5 overflow-hidden shadow-inner relative">

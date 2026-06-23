@@ -80,9 +80,9 @@ export default function MapComponent({
               <div className="p-1">
                 <h3 className="font-bold text-slate-800">{h.location_name}</h3>
                 <p className="text-sm">Severity: <span className="font-semibold text-rose-600">{h.severity}</span></p>
-                <p className="text-sm">CSI Score: <b>{h.csi.toFixed(1)}</b></p>
+                <p className="text-sm">CSI Score: <b>{Number(h?.csi ?? 0).toFixed(1)}</b></p>
                 <p className="text-sm">Violations: {h.count}</p>
-                <p className="text-sm">Delay Impact: +{h.delay_minutes.toFixed(1)}m</p>
+                <p className="text-sm">Delay Impact: +{Number(h?.delay_minutes ?? 0).toFixed(1)}m</p>
               </div>
             </Popup>
           </CircleMarker>
@@ -94,7 +94,7 @@ export default function MapComponent({
           <Marker key={`pred-${i}`} position={[h.lat, h.lng]}>
             <Popup>
               <b>Predicted Hotspot</b><br/>
-              Probability: {(Math.random() * 40 + 50).toFixed(1)}%<br/>
+              Probability: {Number((Math.random() * 40 + 50) || 0).toFixed(1)}%<br/>
               Reason: Evening peak hour
             </Popup>
           </Marker>

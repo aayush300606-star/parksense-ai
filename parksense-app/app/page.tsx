@@ -16,7 +16,7 @@ export default function ExecutiveDashboard() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch(`${API_BASE_URL}/api/hotspots`)
+    fetch(`${API_BASE_URL}/api/legacy/hotspots.json`)
       .then(res => res.json())
       .then(data => {
         setHotspots(Array.isArray(data) ? data : []);
@@ -30,7 +30,7 @@ export default function ExecutiveDashboard() {
 
   const totalViolations = hotspots.reduce((acc, h) => acc + h.count, 0);
   const criticalZones = hotspots.filter(h => h.severity === 'Critical').length;
-  const avgDelay = hotspots.length ? (hotspots.reduce((acc, h) => acc + h.delay_minutes, 0) / hotspots.length).toFixed(1) : 0;
+  const avgDelay = hotspots?.length ? Number(hotspots.reduce((acc, h) => acc + (h.delay_minutes || 0), 0) / hotspots.length).toFixed(1) : 0;
   
   // Mock trend data for charts
   const trendData = [
@@ -162,7 +162,7 @@ export default function ExecutiveDashboard() {
             <div key={i}>
               <div className="flex justify-between text-sm mb-2">
                 <span className="text-slate-700 font-semibold">{h.location_name}</span>
-                <span className={`${h.width_loss_percent > 60 ? 'text-rose-600' : 'text-amber-600'} font-bold`}>{h.width_loss_percent.toFixed(1)}% Blocked</span>
+                <span className={`${h.width_loss_percent > 60 ? 'text-rose-600' : 'text-amber-600'} font-bold`}>{Number(h?.width_loss_percent ?? 0).toFixed(1)}% Blocked</span>
               </div>
               <div className="w-full h-2.5 bg-slate-100 rounded-full overflow-hidden flex shadow-inner">
                 <div className={`h-full ${h.width_loss_percent > 60 ? 'bg-gradient-to-r from-rose-500 to-rose-400' : 'bg-gradient-to-r from-amber-500 to-amber-400'}`} style={{ width: `${h.width_loss_percent}%` }}></div>
