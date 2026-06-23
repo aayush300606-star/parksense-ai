@@ -1,0 +1,802 @@
+[
+  {
+    "hotspot_id": 32,
+    "road_name": "Konanakunte Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 40.57,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 36,
+    "road_name": "Pusa Thippasandra Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 40.09,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 0,
+    "road_name": "5th Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 40.05,
+    "benefit_score": 70.0
+  },
+  {
+    "hotspot_id": 49,
+    "road_name": "3rd A Cross Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 39.99,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 4,
+    "road_name": "5th Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 39.77,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 69,
+    "road_name": "Chinmaya Mission Hospital Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 39.43,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 60,
+    "road_name": "3rd Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 39.29,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 57,
+    "road_name": "Sarjapura Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 39.11,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 86,
+    "road_name": "28th Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 39.11,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 37,
+    "road_name": "Kodigehalli Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 38.74,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 26,
+    "road_name": "Mysore Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 38.29,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 34,
+    "road_name": "Mallathahalli Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 37.61,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 8,
+    "road_name": "Kamaraj Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Good ROI",
+    "csi_improvement": 37.22,
+    "benefit_score": 85.0
+  },
+  {
+    "hotspot_id": 23,
+    "road_name": "Whitefield Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 37.13,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 78,
+    "road_name": "Vibgyor High School Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 37.05,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 1,
+    "road_name": "80 Feet Ring Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 36.95,
+    "benefit_score": 70.0
+  },
+  {
+    "hotspot_id": 55,
+    "road_name": "Professor K Venkatachalam Circle",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 36.81,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 65,
+    "road_name": "Hosur Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 36.78,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 83,
+    "road_name": "MS Ramaiah Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 36.66,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 61,
+    "road_name": "Old Airport Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 36.44,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 59,
+    "road_name": "Dr Vishwesha Teertha Swamy Gala Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 36.26,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 14,
+    "road_name": "Palace Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 36.22,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 54,
+    "road_name": "Dr BR Ambedkar Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 36.15,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 25,
+    "road_name": "Mumbai Bengaluru Highway",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 36.02,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 39,
+    "road_name": "Dr Siddaiah Puranik Marg",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 36.02,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 64,
+    "road_name": "3rd Cross Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 35.82,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 43,
+    "road_name": "Chikkabellanduru Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 35.8,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 76,
+    "road_name": "9th Cross Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 35.78,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 30,
+    "road_name": "RV Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 35.76,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 70,
+    "road_name": "Shri Ramalingeshwara Cave Temple Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 35.73,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 74,
+    "road_name": "Allalasandra Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 35.63,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 88,
+    "road_name": "8th Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 35.21,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 29,
+    "road_name": "O Shaughnessy Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 35.08,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 21,
+    "road_name": "ITPL Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 34.97,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 35,
+    "road_name": "Whitefield Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 34.86,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 81,
+    "road_name": "1st Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 34.74,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 96,
+    "road_name": "Old Kanakapura Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 34.73,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 38,
+    "road_name": "Hosur Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Good ROI",
+    "csi_improvement": 34.7,
+    "benefit_score": 85.0
+  },
+  {
+    "hotspot_id": 6,
+    "road_name": "Sahakar Nagar Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 34.61,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 42,
+    "road_name": "Amrutha College Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 34.61,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 7,
+    "road_name": "Sri Sri Sri Tiruchi Mahaswamiji Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 34.6,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 5,
+    "road_name": "New Horizon College Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Good ROI",
+    "csi_improvement": 34.53,
+    "benefit_score": 85.0
+  },
+  {
+    "hotspot_id": 98,
+    "road_name": "Road Number 1",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 34.51,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 41,
+    "road_name": "Chikka Banavara RS Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 34.47,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 50,
+    "road_name": "Bellary Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 34.46,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 51,
+    "road_name": "4th Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 34.31,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 52,
+    "road_name": "Konanakunte Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 34.18,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 31,
+    "road_name": "Domlur Inner Ring Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 34.0,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 87,
+    "road_name": "Banaswadi Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.99,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 85,
+    "road_name": "Bannerghatta Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.98,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 18,
+    "road_name": "Bellary Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.97,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 11,
+    "road_name": "Neeladri Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.95,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 72,
+    "road_name": "Hosur Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.88,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 94,
+    "road_name": "Siddhapura Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.85,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 13,
+    "road_name": "Unnamed Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.82,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 19,
+    "road_name": "Coles Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.78,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 2,
+    "road_name": "5th Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.74,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 3,
+    "road_name": "Srinivagilu Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.74,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 47,
+    "road_name": "Outer Ring Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.74,
+    "benefit_score": 70.0
+  },
+  {
+    "hotspot_id": 68,
+    "road_name": "Hosa Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.72,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 15,
+    "road_name": "Sri DV Gundappa Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.71,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 66,
+    "road_name": "ITPL Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.7,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 56,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.68,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 12,
+    "road_name": "Magadi Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.68,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 71,
+    "road_name": "RT Nagar Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.65,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 95,
+    "road_name": "Old Airport Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.64,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 62,
+    "road_name": "Mysore Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.64,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 92,
+    "road_name": "Jalahalli Cross Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.64,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 40,
+    "road_name": "Bagaluru Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.64,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 45,
+    "road_name": "20th Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.64,
+    "benefit_score": 70.0
+  },
+  {
+    "hotspot_id": 90,
+    "road_name": "C Chowdappa Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.63,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 93,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.62,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 16,
+    "road_name": "Sarjapura Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.62,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 24,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.62,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 48,
+    "road_name": "80 Feet Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.62,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 53,
+    "road_name": "Jakkur Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.6,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 99,
+    "road_name": "Mysore Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.59,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 44,
+    "road_name": "CMR Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.56,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 80,
+    "road_name": "J Lingaiah Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.56,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 79,
+    "road_name": "Mumbai Bengaluru Highway",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.56,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 58,
+    "road_name": "Bellary Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.51,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 89,
+    "road_name": "Hosur Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.45,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 10,
+    "road_name": "4th Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.45,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 67,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.43,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 28,
+    "road_name": "Gnana Bharathi Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.4,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 9,
+    "road_name": "Bengaluru Bellary Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.25,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 77,
+    "road_name": "Outer Ring Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.2,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 17,
+    "road_name": "MBT Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.17,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 33,
+    "road_name": "Sarjapura Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.14,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 97,
+    "road_name": "27th Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.05,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 91,
+    "road_name": "Jayamahal Main Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 33.0,
+    "benefit_score": 60.0
+  },
+  {
+    "hotspot_id": 73,
+    "road_name": "Bhadrappa Flyover",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 32.76,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 22,
+    "road_name": "Marathahalli Underpass",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 32.65,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 75,
+    "road_name": "1st Cross Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 32.65,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 27,
+    "road_name": "Konadasapura Cross Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 32.0,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 82,
+    "road_name": "7th Cross Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 30.51,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 20,
+    "road_name": "17th Cross Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 30.37,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 46,
+    "road_name": "18th Cross Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 30.27,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 63,
+    "road_name": "1st Cross Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 30.22,
+    "benefit_score": 75.0
+  },
+  {
+    "hotspot_id": 84,
+    "road_name": "5th Cross Road",
+    "best_scenario": "100% Illegal Parking Removal",
+    "roi": "Moderate ROI",
+    "csi_improvement": 30.09,
+    "benefit_score": 75.0
+  }
+]

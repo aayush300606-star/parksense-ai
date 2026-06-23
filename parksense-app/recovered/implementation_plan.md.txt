@@ -1,0 +1,35 @@
+# Implementation Plan: Traffic Intelligence Engine
+
+This module introduces macroscopic traffic flow modeling to quantify exactly how effective road width loss reduces vehicle speeds and increases travel times. 
+
+## 1. Enhancing Road Intelligence
+Before calculating traffic impact, we will refactor the existing Road Intelligence layer to support deeper geospatial requirements:
+- **MapMyIndia Integration Hook**: We will implement a structured API wrapper in `road_information.py` that checks for `MAPMYINDIA_API_KEY`. If present, it attempts live reverse-geocoding. If absent or if the request fails, it gracefully falls back to our robust deterministic heuristics.
+- **Granular Confidence Matrix**: Update `road_confidence_engine.py` to return distinct confidence scores (e.g., `road_name_confidence`, `geometry_confidence`).
+- **Extended Geometry**: Update `road_geometry_engine.py` to calculate explicit properties required for speed/time calculations: `road_length`, `start_node`, `end_node`, and `bearing` (degrees).
+
+## 2. Traffic Intelligence Core (`backend/ai/`)
+- **`base_speed_engine.py`**: Maps Road Hierarchies to standard free-flow speeds (Expressway: 80 km/h, Major Arterial: 60 km/h, etc.).
+- **`traffic_speed_engine.py`**: Uses a deterministic adaptation of the Greenshields macroscopic traffic model or the BPR (Bureau of Public Roads) function. 
+  - Formula base: `Current Speed = Base Speed * (1 - Capacity Loss % / 100)`. We will calibrate this to ensure speeds drop realistically as lane blockage increases.
+- **`travel_time_engine.py`**: 
+  - `Normal Time = (Length / Base Speed)`
+  - `Current Time = (Length / Current Speed)`
+- **`delay_estimation_engine.py`**:
+  - `Delay = Current Time - Normal Time`
+  - Maps to severity bounds (Minimal -> Critical).
+- **`congestion_impact_engine.py`**:
+  - An algorithmic aggregator weighing Speed Reduction, Delay, Lane Blockage, and Road Priority to output a 0-100 `Congestion Impact Score`.
+- **Traffic Explainability**: Extended to explain the physics of the delay (e.g., *"Capacity loss of 44% reduced vehicle throughput, causing speeds to drop from 60km/h to 34km/h, introducing a 3 minute delay."*)
+
+## 3. Services, Models & APIs
+- **Model**: `backend/models/traffic_intelligence.py` (Pydantic).
+- **Service**: `backend/services/traffic_intelligence_service.py` to orchestrate. Outputting specialized dashboard JSONs: `delay_analysis.json`, `speed_analysis.json`, `congestion_impact.json`.
+- **API**: `backend/api/traffic_intelligence.py` exposing `/api/traffic-intelligence`, `/api/delay-analysis`, etc.
+- **Bootstrapper**: Update `backend/main.py` to trigger the Traffic pipeline directly after the Width Loss pipeline.
+
+## 4. Documentation
+- `backend/docs/TRAFFIC_INTELLIGENCE_ENGINE.md` detailing the BPR/Greenshields physics adaptations.
+
+> [!IMPORTANT]
+> **Open Question:** Since `road_length` is required for Travel Time calculations, and we are dynamically generating bounding box geometries based on the DBSCAN cluster radius, I will use the geometric diameter of the cluster as the localized `road_length` over which the delay is calculated. Does this align with your expectations for the delay modeling?

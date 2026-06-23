@@ -1,0 +1,232 @@
+[
+  {
+    "id": 19,
+    "location_name": "Sri DV Gundappa Road, Shopper Junction, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)",
+    "lat": 12.943529292425765,
+    "lng": 77.57065467138676,
+    "scenarios": {
+      "current": {
+        "speed_kmh": 11.01329397694602,
+        "queue_length_m": 122.30929132297268,
+        "travel_time_mins": 19.82003625493519
+      },
+      "reduction_50": {
+        "speed_kmh": 28.144143059378436,
+        "queue_length_m": 64.8709793525851,
+        "travel_time_mins": 11.7005592807057
+      },
+      "reduction_100": {
+        "speed_kmh": 41.65883886931631,
+        "queue_length_m": 12.340562097781586,
+        "travel_time_mins": 5.497050388190661
+      }
+    }
+  },
+  {
+    "id": 25,
+    "location_name": "ITPL Main Road, Brigade Tech Gardens, Brookefield, Bengaluru, Karnataka. Pin-560037 (India)",
+    "lat": 12.964082042940936,
+    "lng": 77.71565415019357,
+    "scenarios": {
+      "current": {
+        "speed_kmh": 14.036360565050146,
+        "queue_length_m": 435.49013549576966,
+        "travel_time_mins": 21.696573052795074
+      },
+      "reduction_50": {
+        "speed_kmh": 25.26656932370676,
+        "queue_length_m": 45.883175268907465,
+        "travel_time_mins": 11.694764329533722
+      },
+      "reduction_100": {
+        "speed_kmh": 35.19408747753382,
+        "queue_length_m": 19.427842920333124,
+        "travel_time_mins": 4.375158864418762
+      }
+    }
+  },
+  {
+    "id": 0,
+    "location_name": "Kamaraj Road, Sri Nagamma Devi Circle, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)",
+    "lat": 12.980728638238357,
+    "lng": 77.57741766642326,
+    "scenarios": {
+      "current": {
+        "speed_kmh": 13.62618580698669,
+        "queue_length_m": 221.9927123440204,
+        "travel_time_mins": 25.73180088382916
+      },
+      "reduction_50": {
+        "speed_kmh": 29.202616602932927,
+        "queue_length_m": 68.63400309380701,
+        "travel_time_mins": 9.026614936274077
+      },
+      "reduction_100": {
+        "speed_kmh": 40.1447650044031,
+        "queue_length_m": 7.6591032885677945,
+        "travel_time_mins": 4.581534558164153
+      }
+    }
+  },
+  {
+    "id": 8,
+    "location_name": "MBT Road, Devasandra Junction, KR Puram, Bengaluru, Karnataka. Pin-560036 (India)",
+    "lat": 13.007890904837678,
+    "lng": 77.69319528864749,
+    "scenarios": {
+      "current": {
+        "speed_kmh": 15.27333494733465,
+        "queue_length_m": 470.9665572733449,
+        "travel_time_mins": 18.73202652377447
+      },
+      "reduction_50": {
+        "speed_kmh": 23.85729783239013,
+        "queue_length_m": 71.10108768815786,
+        "travel_time_mins": 10.534461030735127
+      },
+      "reduction_100": {
+        "speed_kmh": 40.51583898393887,
+        "queue_length_m": 13.75175271656402,
+        "travel_time_mins": 6.752243401216527
+      }
+    }
+  },
+  {
+    "id": 35,
+    "location_name": "17th Cross Road, Sector 7, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)",
+    "lat": 12.912354415060001,
+    "lng": 77.63618080966141,
+    "scenarios": {
+      "current": {
+        "speed_kmh": 10.727769288375018,
+        "queue_length_m": 303.3063288887063,
+        "travel_time_mins": 16.52810376632787
+      },
+      "reduction_50": {
+        "speed_kmh": 29.532189413228146,
+        "queue_length_m": 86.32835391534452,
+        "travel_time_mins": 8.910434730579755
+      },
+      "reduction_100": {
+        "speed_kmh": 42.51404420793554,
+        "queue_length_m": 15.602645628574,
+        "travel_time_mins": 4.033701023409271
+      }
+    }
+  },
+  {
+    "id": 5,
+    "location_name": "Outer Ring Road, Venkatappa Colony, Mahadevapura, Bengaluru, Karnataka. Pin-560016 (India)",
+    "lat": 12.99751592887798,
+    "lng": 77.67105718959355,
+    "scenarios": {
+      "current": {
+        "speed_kmh": 18.532442297152002,
+        "queue_length_m": 144.65229103249953,
+        "travel_time_mins": 20.275116390802694
+      },
+      "reduction_50": {
+        "speed_kmh": 29.07579801990319,
+        "queue_length_m": 80.42415920076297,
+        "travel_time_mins": 11.367113865455611
+      },
+      "reduction_100": {
+        "speed_kmh": 38.3229713128649,
+        "queue_length_m": 13.127457702824806,
+        "travel_time_mins": 3.852910404006404
+      }
+    }
+  },
+  {
+    "id": 16,
+    "location_name": "Bellary Road, Esteem Mall, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)",
+    "lat": 13.057657552844285,
+    "lng": 77.59107858686038,
+    "scenarios": {
+      "current": {
+        "speed_kmh": 17.34051070569421,
+        "queue_length_m": 129.93173431463157,
+        "travel_time_mins": 17.184275674691943
+      },
+      "reduction_50": {
+        "speed_kmh": 27.549149757166703,
+        "queue_length_m": 79.09303733853402,
+        "travel_time_mins": 13.340505306294478
+      },
+      "reduction_100": {
+        "speed_kmh": 41.250385228717484,
+        "queue_length_m": 15.996797788255012,
+        "travel_time_mins": 4.797325415466534
+      }
+    }
+  },
+  {
+    "id": 33,
+    "location_name": "Unnamed Road, Begur Chikkanahalli, Bengaluru, Karnataka. Pin-562149 (India)",
+    "lat": 13.185496557700471,
+    "lng": 77.68054599374999,
+    "scenarios": {
+      "current": {
+        "speed_kmh": 11.44933767182034,
+        "queue_length_m": 376.9372616031297,
+        "travel_time_mins": 17.54295757367129
+      },
+      "reduction_50": {
+        "speed_kmh": 25.61189180383689,
+        "queue_length_m": 53.79745502288842,
+        "travel_time_mins": 8.698530675704122
+      },
+      "reduction_100": {
+        "speed_kmh": 38.96434754737434,
+        "queue_length_m": 19.739684598505097,
+        "travel_time_mins": 3.1676182356593108
+      }
+    }
+  },
+  {
+    "id": 29,
+    "location_name": "Hosur Road, Ozone Manay Tech Park, Garvebhavi Palya, Bengaluru, Karnataka. Pin-560068 (India)",
+    "lat": 12.886924982105985,
+    "lng": 77.64086746075273,
+    "scenarios": {
+      "current": {
+        "speed_kmh": 11.317792795635778,
+        "queue_length_m": 137.74724507687873,
+        "travel_time_mins": 15.21945742863731
+      },
+      "reduction_50": {
+        "speed_kmh": 23.355052480434452,
+        "queue_length_m": 48.18190628948216,
+        "travel_time_mins": 12.341483629128236
+      },
+      "reduction_100": {
+        "speed_kmh": 43.576523667146674,
+        "queue_length_m": 15.789007655838015,
+        "travel_time_mins": 5.472994204291952
+      }
+    }
+  },
+  {
+    "id": 13,
+    "location_name": "5th Main Road, Shri Vinayaka Circle, Jayanagar, Bengaluru, Karnataka. Pin-560011 (India)",
+    "lat": 12.923311361774141,
+    "lng": 77.58118390397163,
+    "scenarios": {
+      "current": {
+        "speed_kmh": 19.52825937460007,
+        "queue_length_m": 118.29682949186599,
+        "travel_time_mins": 18.553458817011105
+      },
+      "reduction_50": {
+        "speed_kmh": 24.93520971604095,
+        "queue_length_m": 86.25352402598071,
+        "travel_time_mins": 13.928693975363426
+      },
+      "reduction_100": {
+        "speed_kmh": 36.95759502237355,
+        "queue_length_m": 0.4728772745651266,
+        "travel_time_mins": 3.3084187674129115
+      }
+    }
+  }
+]

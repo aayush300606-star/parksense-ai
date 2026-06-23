@@ -1,0 +1,22 @@
+{
+  "total_roads": 100,
+  "road_categories": {
+    "Arterial": 34,
+    "Local": 25,
+    "Residential": 34,
+    "Commercial": 5,
+    "Highway": 2
+  },
+  "lane_distribution": {
+    "6 Lanes": 36,
+    "2 Lanes": 59,
+    "4 Lanes": 5
+  },
+  "hierarchy_distribution": {
+    "Major Arterial": 36,
+    "Residential": 59,
+    "Collector": 5
+  },
+  "average_width_meters": 12.67,
+  "average_capacity_score": 37.66
+}

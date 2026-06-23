@@ -1,0 +1,75 @@
+import os
+import json
+from datetime import datetime
+from typing import List, Dict, Any
+
+from ..models.csi_intelligence import CSIIntelligence
+from ..ai.violation_density import DENSITY_JSON_PATH
+from ..services.road_service import ROAD_JSON_PATH
+from ..services.road_impact_service import ROAD_IMPACT_JSON_PATH
+from ..services.traffic_intelligence_service import TRAFFIC_JSON_PATH
+from ..services.context_intelligence_service import CONTEXT_JSON_PATH
+
+from ..ai.csi_component_engine import CSIComponentEngine
+from ..ai.adaptive_weighting_engine import AdaptiveWeightingEngine
+from ..ai.csi_engine import CSIEngine
+from ..ai.csi_contribution_engine import CSIContributionEngine
+from ..ai.csi_classification_engine import CSIClassificationEngine
+from ..ai.csi_explainability_engine import CSIExplainabilityEngine
+from ..ai.enforcement_priority_engine import EnforcementPriorityEngine
+from ..ai.temporal_pattern_engine import TemporalPatternEngine
+from ..ai.hotspot_ranking_engine import HotspotRankingEngine
+
+CSI_JSON_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'processed', 'csi_results.json')
+CSI_SUMMARY_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'processed', 'csi_summary.json')
+PRIORITY_RANKING_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'processed', 'priority_ranking.json')
+TOP_CRITICAL_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'processed', 'top_critical_hotspots.json')
+TOP_ROADS_PATH = os.path.join(os.path.dirname
+<truncated 21637 bytes>
+_CRITICAL_PATH, 'r') as f:
+            return json.load(f)
+
+    @staticmethod
+    def get_temporal_patterns() -> List[Dict[str, Any]]:
+        if not os.path.exists(TEMPORAL_JSON_PATH):
+            CSIService.generate_all()
+        with open(TEMPORAL_JSON_PATH, 'r') as f:
+            return json.load(f)
+
+    @staticmethod
+    def get_top_roads() -> List[Dict[str, Any]]:
+        if not os.path.exists(TOP_ROADS_PATH):
+            CSIService.generate_all()
+        with open(TOP_ROADS_PATH, 'r') as f:
+            return json.load(f)
+
+    @staticmethod
+    def get_heatmap_layer() -> List[Dict[str, Any]]:
+        """Returns a lightweight layer for heatmap rendering."""
+        all_csi = CSIService.get_all_csi()
+        return [{
+            "lat": d["latitude"],
+            "lng": d["longitude"],
+            "weight": d["csi_score"] / 100.0,
+            "csi_score": d["csi_score"],
+            "csi_level": d["csi_level"],
+            "csi_color": d["csi_color"],
+            "road_name": d["road_name"],
+            "hotspot_id": d["hotspot_id"],
+        } for d in all_csi]
+
+    @staticmethod
+    def get_priority_layer() -> List[Dict[str, Any]]:
+        """Returns a lightweight layer for priority marker rendering."""
+        all_csi = CSIService.get_all_csi()
+        return [{
+            "lat": d["latitude"],
+            "lng": d["longitude"],
+            "priority_level": d["priority_level"],
+            "priority_score": d["priority_score"],
+            "csi_score": d["csi_score"],
+            "csi_color": d["csi_color"],
+            "road_name": d["road_name"],
+            "hotspot_id": d["hotspot_id"],
+            "expected_capacity_recovery": d["expected_capacity_recovery"],
+        } for d in all_csi]

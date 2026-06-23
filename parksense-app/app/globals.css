@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #f8fafc; /* slate-50 */
+  --color-foreground: #0f172a; /* slate-900 */
+  --color-primary: #2563eb;    /* blue-600 */
+  --color-primary-foreground: #ffffff;
+  --color-card: #ffffff;
+  --color-border: #e2e8f0;     /* slate-200 */
+  --color-muted: #64748b;      /* slate-500 */
+  
+  --font-sans: 'Inter', system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+}
+
+@layer components {
+  /* Premium SaaS Card */
+  .saas-card {
+    background-color: var(--color-card);
+    border: 1px solid var(--color-border);
+    border-radius: 12px; /* 0.75rem */
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+    transition: box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
+  }
+}
+
+/* Light Theme Map Overrides */
+.leaflet-container {
+  background: #f8fafc !important;
+  font-family: var(--font-sans) !important;
+}
+
+/* Ensure map layers look standard, removing any invert filters */
+.leaflet-layer,
+.leaflet-control-zoom-in,
+.leaflet-control-zoom-out,
+.leaflet-control-attribution {
+  filter: none;
+}
+
+/* Custom Leaflet Popup Styling */
+.leaflet-popup-content-wrapper {
+  background: #ffffff;
+  color: #0f172a;
+  border-radius: 12px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+  padding: 0;
+  border: 1px solid #e2e8f0;
+}
+
+.leaflet-popup-tip {
+  background: #ffffff;
+  border-top: 1px solid #e2e8f0;
+  border-left: 1px solid #e2e8f0;
+}
+
+.leaflet-popup-content {
+  margin: 0;
+  line-height: 1.5;
+}
+
+.leaflet-container a.leaflet-popup-close-button {
+  color: #64748b;
+  padding: 4px;
+}
+
+.leaflet-container a.leaflet-popup-close-button:hover {
+  color: #0f172a;
+}

@@ -1,0 +1,902 @@
+[
+  {
+    "hotspot_id": 32,
+    "location_name": "Konanakunte Main Road",
+    "base_csi": 67.61,
+    "network_fragility": 36.22141589814827,
+    "network_csi": 61.332283179629655,
+    "ripple_effect_score": 18,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 36,
+    "location_name": "Pusa Thippasandra Main Road",
+    "base_csi": 66.81,
+    "network_fragility": 37.2987785669528,
+    "network_csi": 60.90775571339057,
+    "ripple_effect_score": 10,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 0,
+    "location_name": "5th Main Road",
+    "base_csi": 66.75,
+    "network_fragility": 40.33912729579474,
+    "network_csi": 61.46782545915895,
+    "ripple_effect_score": 11,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 49,
+    "location_name": "3rd A Cross Road",
+    "base_csi": 66.65,
+    "network_fragility": 24.293350327669017,
+    "network_csi": 58.17867006553381,
+    "ripple_effect_score": 7,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 4,
+    "location_name": "5th Main Road",
+    "base_csi": 66.28,
+    "network_fragility": 15.449975518927904,
+    "network_csi": 56.113995103785584,
+    "ripple_effect_score": 19,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 69,
+    "location_name": "Chinmaya Mission Hospital Road",
+    "base_csi": 65.72,
+    "network_fragility": 3.390146165533719,
+    "network_csi": 53.25402923310674,
+    "ripple_effect_score": 8,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 60,
+    "location_name": "3rd Main Road",
+    "base_csi": 65.48,
+    "network_fragility": 5.032020116337074,
+    "network_csi": 53.39040402326742,
+    "ripple_effect_score": 13,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 57,
+    "location_name": "Sarjapura Main Road",
+    "base_csi": 65.19,
+    "network_fragility": 2.3924697899552347,
+    "network_csi": 52.63049395799105,
+    "ripple_effect_score": 9,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 86,
+    "location_name": "28th Main Road",
+    "base_csi": 65.19,
+    "network_fragility": 33.45349778844998,
+    "network_csi": 58.84269955769,
+    "ripple_effect_score": 15,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 37,
+    "location_name": "Kodigehalli Main Road",
+    "base_csi": 64.57,
+    "network_fragility": 19.374263544778678,
+    "network_csi": 55.530852708955734,
+    "ripple_effect_score": 5,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 26,
+    "location_name": "Mysore Road",
+    "base_csi": 63.82,
+    "network_fragility": 23.759881723341866,
+    "network_csi": 55.807976344668376,
+    "ripple_effect_score": 16,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 34,
+    "location_name": "Mallathahalli Road",
+    "base_csi": 62.69,
+    "network_fragility": 27.800915317252247,
+    "network_csi": 55.71218306345045,
+    "ripple_effect_score": 13,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 8,
+    "location_name": "Kamaraj Road",
+    "base_csi": 62.03,
+    "network_fragility": 26.834191579388904,
+    "network_csi": 54.99083831587778,
+    "ripple_effect_score": 9,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 23,
+    "location_name": "Whitefield Road",
+    "base_csi": 61.88,
+    "network_fragility": 37.22972859497088,
+    "network_csi": 56.94994571899418,
+    "ripple_effect_score": 8,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 78,
+    "location_name": "Vibgyor High School Road",
+    "base_csi": 61.75,
+    "network_fragility": 7.530103537984367,
+    "network_csi": 50.90602070759688,
+    "ripple_effect_score": 9,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 1,
+    "location_name": "80 Feet Ring Road",
+    "base_csi": 61.59,
+    "network_fragility": 22.40160817676588,
+    "network_csi": 53.752321635353184,
+    "ripple_effect_score": 11,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 55,
+    "location_name": "Professor K Venkatachalam Circle",
+    "base_csi": 61.35,
+    "network_fragility": 3.009064219272698,
+    "network_csi": 49.681812843854544,
+    "ripple_effect_score": 8,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 65,
+    "location_name": "Hosur Road",
+    "base_csi": 61.3,
+    "network_fragility": 4.581306979977154,
+    "network_csi": 49.95626139599543,
+    "ripple_effect_score": 5,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 83,
+    "location_name": "MS Ramaiah Road",
+    "base_csi": 61.1,
+    "network_fragility": 28.451620287771814,
+    "network_csi": 54.570324057554366,
+    "ripple_effect_score": 14,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 61,
+    "location_name": "Old Airport Road",
+    "base_csi": 60.73,
+    "network_fragility": 4.542787244190066,
+    "network_csi": 49.492557448838014,
+    "ripple_effect_score": 9,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 59,
+    "location_name": "Dr Vishwesha Teertha Swamy Gala Road",
+    "base_csi": 60.44,
+    "network_fragility": 36.96469222255836,
+    "network_csi": 55.744938444511675,
+    "ripple_effect_score": 16,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 14,
+    "location_name": "Palace Road",
+    "base_csi": 60.37,
+    "network_fragility": 39.06164579968468,
+    "network_csi": 56.108329159936936,
+    "ripple_effect_score": 14,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 54,
+    "location_name": "Dr BR Ambedkar Road",
+    "base_csi": 60.25,
+    "network_fragility": 4.204805136827307,
+    "network_csi": 49.04096102736546,
+    "ripple_effect_score": 8,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 25,
+    "location_name": "Mumbai Bengaluru Highway",
+    "base_csi": 60.04,
+    "network_fragility": 30.563147731460138,
+    "network_csi": 54.14462954629203,
+    "ripple_effect_score": 11,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 39,
+    "location_name": "Dr Siddaiah Puranik Marg",
+    "base_csi": 60.03,
+    "network_fragility": 9.77606727841819,
+    "network_csi": 49.97921345568364,
+    "ripple_effect_score": 11,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 64,
+    "location_name": "3rd Cross Road",
+    "base_csi": 59.7,
+    "network_fragility": 24.780457964612584,
+    "network_csi": 52.716091592922524,
+    "ripple_effect_score": 16,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 43,
+    "location_name": "Chikkabellanduru Road",
+    "base_csi": 59.67,
+    "network_fragility": 1.8574085869581691,
+    "network_csi": 48.107481717391636,
+    "ripple_effect_score": 6,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 76,
+    "location_name": "9th Cross Road",
+    "base_csi": 59.63,
+    "network_fragility": 11.837035807651198,
+    "network_csi": 50.071407161530246,
+    "ripple_effect_score": 14,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 30,
+    "location_name": "RV Road",
+    "base_csi": 59.6,
+    "network_fragility": 20.810617138388,
+    "network_csi": 51.842123427677606,
+    "ripple_effect_score": 18,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 70,
+    "location_name": "Shri Ramalingeshwara Cave Temple Road",
+    "base_csi": 59.55,
+    "network_fragility": 3.0007830208942874,
+    "network_csi": 48.24015660417886,
+    "ripple_effect_score": 6,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 74,
+    "location_name": "Allalasandra Main Road",
+    "base_csi": 59.38,
+    "network_fragility": 14.261136348783184,
+    "network_csi": 50.356227269756644,
+    "ripple_effect_score": 8,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 88,
+    "location_name": "8th Main Road",
+    "base_csi": 58.68,
+    "network_fragility": 41.51303146883063,
+    "network_csi": 55.24660629376613,
+    "ripple_effect_score": 16,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 29,
+    "location_name": "O Shaughnessy Road",
+    "base_csi": 58.47,
+    "network_fragility": 42.03070542620512,
+    "network_csi": 55.18214108524103,
+    "ripple_effect_score": 15,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 21,
+    "location_name": "ITPL Main Road",
+    "base_csi": 58.28,
+    "network_fragility": 4.398313335501257,
+    "network_csi": 47.50366266710025,
+    "ripple_effect_score": 9,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 35,
+    "location_name": "Whitefield Road",
+    "base_csi": 58.1,
+    "network_fragility": 16.105770725603403,
+    "network_csi": 49.70115414512068,
+    "ripple_effect_score": 7,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 81,
+    "location_name": "1st Main Road",
+    "base_csi": 57.9,
+    "network_fragility": 41.085181222817155,
+    "network_csi": 54.53703624456343,
+    "ripple_effect_score": 19,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 96,
+    "location_name": "Old Kanakapura Road",
+    "base_csi": 57.89,
+    "network_fragility": 8.175163061266515,
+    "network_csi": 47.94703261225331,
+    "ripple_effect_score": 19,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 38,
+    "location_name": "Hosur Road",
+    "base_csi": 57.84,
+    "network_fragility": 35.15379541444455,
+    "network_csi": 53.30275908288892,
+    "ripple_effect_score": 11,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 6,
+    "location_name": "Sahakar Nagar Road",
+    "base_csi": 57.68,
+    "network_fragility": 39.66306383028439,
+    "network_csi": 54.07661276605688,
+    "ripple_effect_score": 7,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 42,
+    "location_name": "Amrutha College Road",
+    "base_csi": 57.68,
+    "network_fragility": 3.255238704929143,
+    "network_csi": 46.79504774098584,
+    "ripple_effect_score": 9,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 7,
+    "location_name": "Sri Sri Sri Tiruchi Mahaswamiji Road",
+    "base_csi": 57.67,
+    "network_fragility": 5.404830122885828,
+    "network_csi": 47.21696602457717,
+    "ripple_effect_score": 14,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 5,
+    "location_name": "New Horizon College Road",
+    "base_csi": 57.55,
+    "network_fragility": 37.92044038190857,
+    "network_csi": 53.62408807638171,
+    "ripple_effect_score": 9,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 98,
+    "location_name": "Road Number 1",
+    "base_csi": 57.51,
+    "network_fragility": 15.267730872423982,
+    "network_csi": 49.061546174484796,
+    "ripple_effect_score": 9,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 41,
+    "location_name": "Chikka Banavara RS Road",
+    "base_csi": 57.45,
+    "network_fragility": 4.5297826342597105,
+    "network_csi": 46.86595652685195,
+    "ripple_effect_score": 6,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 50,
+    "location_name": "Bellary Road",
+    "base_csi": 57.43,
+    "network_fragility": 35.93412832893579,
+    "network_csi": 53.130825665787164,
+    "ripple_effect_score": 13,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 51,
+    "location_name": "4th Main Road",
+    "base_csi": 57.18,
+    "network_fragility": 16.641638435308128,
+    "network_csi": 49.07232768706162,
+    "ripple_effect_score": 14,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 52,
+    "location_name": "Konanakunte Main Road",
+    "base_csi": 56.97,
+    "network_fragility": 2.1430864765429583,
+    "network_csi": 46.00461729530859,
+    "ripple_effect_score": 4,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 31,
+    "location_name": "Domlur Inner Ring Road",
+    "base_csi": 56.66,
+    "network_fragility": 10.545196777589368,
+    "network_csi": 47.437039355517875,
+    "ripple_effect_score": 11,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 87,
+    "location_name": "Banaswadi Main Road",
+    "base_csi": 56.65,
+    "network_fragility": 11.678952394456992,
+    "network_csi": 47.6557904788914,
+    "ripple_effect_score": 6,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 85,
+    "location_name": "Bannerghatta Main Road",
+    "base_csi": 56.63,
+    "network_fragility": 7.662370823850509,
+    "network_csi": 46.8364741647701,
+    "ripple_effect_score": 10,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 18,
+    "location_name": "Bellary Road",
+    "base_csi": 56.61,
+    "network_fragility": 37.925797999658336,
+    "network_csi": 52.87315959993167,
+    "ripple_effect_score": 17,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 11,
+    "location_name": "Neeladri Road",
+    "base_csi": 56.58,
+    "network_fragility": 3.2081767665158525,
+    "network_csi": 45.905635353303175,
+    "ripple_effect_score": 5,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 72,
+    "location_name": "Hosur Road",
+    "base_csi": 56.47,
+    "network_fragility": 21.25190336998305,
+    "network_csi": 49.42638067399661,
+    "ripple_effect_score": 9,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 94,
+    "location_name": "Siddhapura Road",
+    "base_csi": 56.41,
+    "network_fragility": 26.21250465925316,
+    "network_csi": 50.37050093185063,
+    "ripple_effect_score": 19,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 13,
+    "location_name": "Unnamed Road",
+    "base_csi": 56.36,
+    "network_fragility": 2.159181500779664,
+    "network_csi": 45.51983630015594,
+    "ripple_effect_score": 1,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 19,
+    "location_name": "Coles Road",
+    "base_csi": 56.3,
+    "network_fragility": 3.3492534032195564,
+    "network_csi": 45.70985068064391,
+    "ripple_effect_score": 8,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 2,
+    "location_name": "5th Main Road",
+    "base_csi": 56.24,
+    "network_fragility": 22.836839163170314,
+    "network_csi": 49.55936783263407,
+    "ripple_effect_score": 18,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 3,
+    "location_name": "Srinivagilu Main Road",
+    "base_csi": 56.23,
+    "network_fragility": 5.930016714667927,
+    "network_csi": 46.17000334293359,
+    "ripple_effect_score": 13,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 47,
+    "location_name": "Outer Ring Road",
+    "base_csi": 56.23,
+    "network_fragility": 34.98245151162145,
+    "network_csi": 51.98049030232429,
+    "ripple_effect_score": 7,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 68,
+    "location_name": "Hosa Road",
+    "base_csi": 56.2,
+    "network_fragility": 8.926770663761985,
+    "network_csi": 46.745354132752404,
+    "ripple_effect_score": 8,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 15,
+    "location_name": "Sri DV Gundappa Road",
+    "base_csi": 56.19,
+    "network_fragility": 6.9866425158936725,
+    "network_csi": 46.34932850317873,
+    "ripple_effect_score": 19,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 66,
+    "location_name": "ITPL Main Road",
+    "base_csi": 56.16,
+    "network_fragility": 20.885020266543265,
+    "network_csi": 49.10500405330865,
+    "ripple_effect_score": 11,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 56,
+    "location_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "base_csi": 56.14,
+    "network_fragility": 19.34118395739882,
+    "network_csi": 48.78023679147977,
+    "ripple_effect_score": 13,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 12,
+    "location_name": "Magadi Main Road",
+    "base_csi": 56.14,
+    "network_fragility": 3.1407580952415723,
+    "network_csi": 45.54015161904832,
+    "ripple_effect_score": 10,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 71,
+    "location_name": "RT Nagar Main Road",
+    "base_csi": 56.09,
+    "network_fragility": 37.604578529153414,
+    "network_csi": 52.39291570583069,
+    "ripple_effect_score": 16,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 95,
+    "location_name": "Old Airport Road",
+    "base_csi": 56.07,
+    "network_fragility": 4.041453335637582,
+    "network_csi": 45.66429066712752,
+    "ripple_effect_score": 10,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 62,
+    "location_name": "Mysore Road",
+    "base_csi": 56.06,
+    "network_fragility": 24.425681563328457,
+    "network_csi": 49.7331363126657,
+    "ripple_effect_score": 16,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 92,
+    "location_name": "Jalahalli Cross Road",
+    "base_csi": 56.06,
+    "network_fragility": 2.1934234083369,
+    "network_csi": 45.28668468166739,
+    "ripple_effect_score": 7,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 40,
+    "location_name": "Bagaluru Main Road",
+    "base_csi": 56.06,
+    "network_fragility": 3.5954506933891235,
+    "network_csi": 45.567090138677834,
+    "ripple_effect_score": 1,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 45,
+    "location_name": "20th Main Road",
+    "base_csi": 56.06,
+    "network_fragility": 40.435605289633784,
+    "network_csi": 52.935121057926764,
+    "ripple_effect_score": 16,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 90,
+    "location_name": "C Chowdappa Main Road",
+    "base_csi": 56.05,
+    "network_fragility": 30.14374771990873,
+    "network_csi": 50.86874954398175,
+    "ripple_effect_score": 13,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 93,
+    "location_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "base_csi": 56.04,
+    "network_fragility": 13.487425552791626,
+    "network_csi": 47.529485110558326,
+    "ripple_effect_score": 14,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 16,
+    "location_name": "Sarjapura Main Road",
+    "base_csi": 56.04,
+    "network_fragility": 16.950605718213385,
+    "network_csi": 48.22212114364268,
+    "ripple_effect_score": 11,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 24,
+    "location_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "base_csi": 56.03,
+    "network_fragility": 15.61680016195328,
+    "network_csi": 47.94736003239066,
+    "ripple_effect_score": 13,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 48,
+    "location_name": "80 Feet Road",
+    "base_csi": 56.03,
+    "network_fragility": 24.73925578902767,
+    "network_csi": 49.77185115780554,
+    "ripple_effect_score": 13,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 53,
+    "location_name": "Jakkur Main Road",
+    "base_csi": 56.0,
+    "network_fragility": 24.81459106659867,
+    "network_csi": 49.762918213319736,
+    "ripple_effect_score": 8,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 99,
+    "location_name": "Mysore Road",
+    "base_csi": 55.98,
+    "network_fragility": 11.70046469404083,
+    "network_csi": 47.12409293880817,
+    "ripple_effect_score": 15,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 44,
+    "location_name": "CMR Road",
+    "base_csi": 55.93,
+    "network_fragility": 10.014453166758937,
+    "network_csi": 46.74689063335179,
+    "ripple_effect_score": 5,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 80,
+    "location_name": "J Lingaiah Road",
+    "base_csi": 55.93,
+    "network_fragility": 35.50073435330205,
+    "network_csi": 51.84414687066041,
+    "ripple_effect_score": 14,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 79,
+    "location_name": "Mumbai Bengaluru Highway",
+    "base_csi": 55.93,
+    "network_fragility": 1.468121044678203,
+    "network_csi": 45.03762420893564,
+    "ripple_effect_score": 4,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 58,
+    "location_name": "Bellary Road",
+    "base_csi": 55.85,
+    "network_fragility": 25.793894852352384,
+    "network_csi": 49.838778970470486,
+    "ripple_effect_score": 15,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 89,
+    "location_name": "Hosur Road",
+    "base_csi": 55.75,
+    "network_fragility": 1.4862613514207101,
+    "network_csi": 44.89725227028414,
+    "ripple_effect_score": 2,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 10,
+    "location_name": "4th Main Road",
+    "base_csi": 55.75,
+    "network_fragility": 26.946660563984636,
+    "network_csi": 49.98933211279693,
+    "ripple_effect_score": 12,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 67,
+    "location_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "base_csi": 55.72,
+    "network_fragility": 22.61056589965834,
+    "network_csi": 49.098113179931666,
+    "ripple_effect_score": 15,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 28,
+    "location_name": "Gnana Bharathi Road",
+    "base_csi": 55.67,
+    "network_fragility": 21.45154314124116,
+    "network_csi": 48.826308628248235,
+    "ripple_effect_score": 17,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 9,
+    "location_name": "Bengaluru Bellary Road",
+    "base_csi": 55.41,
+    "network_fragility": 2.541104740806803,
+    "network_csi": 44.83622094816136,
+    "ripple_effect_score": 1,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 77,
+    "location_name": "Outer Ring Road",
+    "base_csi": 55.33,
+    "network_fragility": 36.66948605527637,
+    "network_csi": 51.597897211055276,
+    "ripple_effect_score": 12,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 17,
+    "location_name": "MBT Road",
+    "base_csi": 55.28,
+    "network_fragility": 5.742281903885066,
+    "network_csi": 45.37245638077702,
+    "ripple_effect_score": 5,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 33,
+    "location_name": "Sarjapura Main Road",
+    "base_csi": 55.24,
+    "network_fragility": 39.22238933211931,
+    "network_csi": 52.03647786642387,
+    "ripple_effect_score": 12,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 97,
+    "location_name": "27th Main Road",
+    "base_csi": 55.09,
+    "network_fragility": 39.91698878863334,
+    "network_csi": 52.05539775772667,
+    "ripple_effect_score": 12,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 91,
+    "location_name": "Jayamahal Main Road",
+    "base_csi": 55.0,
+    "network_fragility": 37.39702530215304,
+    "network_csi": 51.47940506043061,
+    "ripple_effect_score": 13,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 73,
+    "location_name": "Bhadrappa Flyover",
+    "base_csi": 54.6,
+    "network_fragility": 12.650946415526649,
+    "network_csi": 46.210189283105336,
+    "ripple_effect_score": 12,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 22,
+    "location_name": "Marathahalli Underpass",
+    "base_csi": 54.42,
+    "network_fragility": 38.39539650177034,
+    "network_csi": 51.21507930035407,
+    "ripple_effect_score": 11,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 75,
+    "location_name": "1st Cross Road",
+    "base_csi": 54.42,
+    "network_fragility": 10.880791102657618,
+    "network_csi": 45.71215822053153,
+    "ripple_effect_score": 15,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 27,
+    "location_name": "Konadasapura Cross Road",
+    "base_csi": 53.34,
+    "network_fragility": 10.619398071984648,
+    "network_csi": 44.79587961439693,
+    "ripple_effect_score": 0,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 82,
+    "location_name": "7th Cross Road",
+    "base_csi": 50.85,
+    "network_fragility": 37.39010806196768,
+    "network_csi": 48.15802161239354,
+    "ripple_effect_score": 16,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 20,
+    "location_name": "17th Cross Road",
+    "base_csi": 50.61,
+    "network_fragility": 41.614279961447224,
+    "network_csi": 48.81085599228945,
+    "ripple_effect_score": 15,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 46,
+    "location_name": "18th Cross Road",
+    "base_csi": 50.45,
+    "network_fragility": 16.141902764066934,
+    "network_csi": 43.58838055281339,
+    "ripple_effect_score": 12,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 63,
+    "location_name": "1st Cross Road",
+    "base_csi": 50.37,
+    "network_fragility": 42.3891740926374,
+    "network_csi": 48.773834818527476,
+    "ripple_effect_score": 17,
+    "is_critical_network_node": false
+  },
+  {
+    "hotspot_id": 84,
+    "location_name": "5th Cross Road",
+    "base_csi": 50.15,
+    "network_fragility": 8.943066532976669,
+    "network_csi": 41.90861330659534,
+    "ripple_effect_score": 5,
+    "is_critical_network_node": false
+  }
+]

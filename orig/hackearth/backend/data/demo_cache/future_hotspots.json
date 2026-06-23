@@ -1,0 +1,602 @@
+[
+  {
+    "hotspot_id": 0,
+    "road_name": "5th Main Road",
+    "predicted_probability_24h": 99.0,
+    "predicted_csi_24h": 85.13
+  },
+  {
+    "hotspot_id": 60,
+    "road_name": "3rd Main Road",
+    "predicted_probability_24h": 99.0,
+    "predicted_csi_24h": 84.68
+  },
+  {
+    "hotspot_id": 32,
+    "road_name": "Konanakunte Main Road",
+    "predicted_probability_24h": 98.5,
+    "predicted_csi_24h": 83.51
+  },
+  {
+    "hotspot_id": 37,
+    "road_name": "Kodigehalli Main Road",
+    "predicted_probability_24h": 97.4,
+    "predicted_csi_24h": 82.39
+  },
+  {
+    "hotspot_id": 49,
+    "road_name": "3rd A Cross Road",
+    "predicted_probability_24h": 97.3,
+    "predicted_csi_24h": 82.31
+  },
+  {
+    "hotspot_id": 36,
+    "road_name": "Pusa Thippasandra Main Road",
+    "predicted_probability_24h": 96.6,
+    "predicted_csi_24h": 81.63
+  },
+  {
+    "hotspot_id": 23,
+    "road_name": "Whitefield Road",
+    "predicted_probability_24h": 96.1,
+    "predicted_csi_24h": 81.12
+  },
+  {
+    "hotspot_id": 86,
+    "road_name": "28th Main Road",
+    "predicted_probability_24h": 95.8,
+    "predicted_csi_24h": 80.78
+  },
+  {
+    "hotspot_id": 69,
+    "road_name": "Chinmaya Mission Hospital Road",
+    "predicted_probability_24h": 95.6,
+    "predicted_csi_24h": 80.6
+  },
+  {
+    "hotspot_id": 57,
+    "road_name": "Sarjapura Main Road",
+    "predicted_probability_24h": 95.5,
+    "predicted_csi_24h": 80.51
+  },
+  {
+    "hotspot_id": 34,
+    "road_name": "Mallathahalli Road",
+    "predicted_probability_24h": 95.3,
+    "predicted_csi_24h": 80.31
+  },
+  {
+    "hotspot_id": 1,
+    "road_name": "80 Feet Ring Road",
+    "predicted_probability_24h": 94.6,
+    "predicted_csi_24h": 79.61
+  },
+  {
+    "hotspot_id": 26,
+    "road_name": "Mysore Road",
+    "predicted_probability_24h": 94.4,
+    "predicted_csi_24h": 79.37
+  },
+  {
+    "hotspot_id": 21,
+    "road_name": "ITPL Main Road",
+    "predicted_probability_24h": 94.4,
+    "predicted_csi_24h": 79.37
+  },
+  {
+    "hotspot_id": 4,
+    "road_name": "5th Main Road",
+    "predicted_probability_24h": 94.3,
+    "predicted_csi_24h": 79.26
+  },
+  {
+    "hotspot_id": 65,
+    "road_name": "Hosur Road",
+    "predicted_probability_24h": 94.0,
+    "predicted_csi_24h": 79.0
+  },
+  {
+    "hotspot_id": 31,
+    "road_name": "Domlur Inner Ring Road",
+    "predicted_probability_24h": 93.9,
+    "predicted_csi_24h": 78.93
+  },
+  {
+    "hotspot_id": 64,
+    "road_name": "3rd Cross Road",
+    "predicted_probability_24h": 93.3,
+    "predicted_csi_24h": 78.31
+  },
+  {
+    "hotspot_id": 25,
+    "road_name": "Mumbai Bengaluru Highway",
+    "predicted_probability_24h": 93.2,
+    "predicted_csi_24h": 78.23
+  },
+  {
+    "hotspot_id": 70,
+    "road_name": "Shri Ramalingeshwara Cave Temple Road",
+    "predicted_probability_24h": 93.2,
+    "predicted_csi_24h": 78.2
+  },
+  {
+    "hotspot_id": 55,
+    "road_name": "Professor K Venkatachalam Circle",
+    "predicted_probability_24h": 93.0,
+    "predicted_csi_24h": 77.98
+  },
+  {
+    "hotspot_id": 54,
+    "road_name": "Dr BR Ambedkar Road",
+    "predicted_probability_24h": 93.0,
+    "predicted_csi_24h": 77.96
+  },
+  {
+    "hotspot_id": 14,
+    "road_name": "Palace Road",
+    "predicted_probability_24h": 92.8,
+    "predicted_csi_24h": 77.84
+  },
+  {
+    "hotspot_id": 78,
+    "road_name": "Vibgyor High School Road",
+    "predicted_probability_24h": 92.8,
+    "predicted_csi_24h": 77.83
+  },
+  {
+    "hotspot_id": 5,
+    "road_name": "New Horizon College Road",
+    "predicted_probability_24h": 91.9,
+    "predicted_csi_24h": 76.91
+  },
+  {
+    "hotspot_id": 43,
+    "road_name": "Chikkabellanduru Road",
+    "predicted_probability_24h": 91.8,
+    "predicted_csi_24h": 76.81
+  },
+  {
+    "hotspot_id": 96,
+    "road_name": "Old Kanakapura Road",
+    "predicted_probability_24h": 91.8,
+    "predicted_csi_24h": 76.78
+  },
+  {
+    "hotspot_id": 8,
+    "road_name": "Kamaraj Road",
+    "predicted_probability_24h": 91.7,
+    "predicted_csi_24h": 76.74
+  },
+  {
+    "hotspot_id": 83,
+    "road_name": "MS Ramaiah Road",
+    "predicted_probability_24h": 91.7,
+    "predicted_csi_24h": 76.74
+  },
+  {
+    "hotspot_id": 59,
+    "road_name": "Dr Vishwesha Teertha Swamy Gala Road",
+    "predicted_probability_24h": 91.7,
+    "predicted_csi_24h": 76.74
+  },
+  {
+    "hotspot_id": 77,
+    "road_name": "Outer Ring Road",
+    "predicted_probability_24h": 91.6,
+    "predicted_csi_24h": 76.65
+  },
+  {
+    "hotspot_id": 53,
+    "road_name": "Jakkur Main Road",
+    "predicted_probability_24h": 91.5,
+    "predicted_csi_24h": 76.47
+  },
+  {
+    "hotspot_id": 39,
+    "road_name": "Dr Siddaiah Puranik Marg",
+    "predicted_probability_24h": 91.4,
+    "predicted_csi_24h": 76.41
+  },
+  {
+    "hotspot_id": 61,
+    "road_name": "Old Airport Road",
+    "predicted_probability_24h": 91.4,
+    "predicted_csi_24h": 76.38
+  },
+  {
+    "hotspot_id": 10,
+    "road_name": "4th Main Road",
+    "predicted_probability_24h": 91.4,
+    "predicted_csi_24h": 76.37
+  },
+  {
+    "hotspot_id": 98,
+    "road_name": "Road Number 1",
+    "predicted_probability_24h": 91.3,
+    "predicted_csi_24h": 76.27
+  },
+  {
+    "hotspot_id": 12,
+    "road_name": "Magadi Main Road",
+    "predicted_probability_24h": 91.1,
+    "predicted_csi_24h": 76.07
+  },
+  {
+    "hotspot_id": 58,
+    "road_name": "Bellary Road",
+    "predicted_probability_24h": 91.0,
+    "predicted_csi_24h": 76.04
+  },
+  {
+    "hotspot_id": 29,
+    "road_name": "O Shaughnessy Road",
+    "predicted_probability_24h": 91.0,
+    "predicted_csi_24h": 75.96
+  },
+  {
+    "hotspot_id": 38,
+    "road_name": "Hosur Road",
+    "predicted_probability_24h": 90.9,
+    "predicted_csi_24h": 75.9
+  },
+  {
+    "hotspot_id": 16,
+    "road_name": "Sarjapura Main Road",
+    "predicted_probability_24h": 90.9,
+    "predicted_csi_24h": 75.9
+  },
+  {
+    "hotspot_id": 79,
+    "road_name": "Mumbai Bengaluru Highway",
+    "predicted_probability_24h": 90.9,
+    "predicted_csi_24h": 75.9
+  },
+  {
+    "hotspot_id": 88,
+    "road_name": "8th Main Road",
+    "predicted_probability_24h": 90.9,
+    "predicted_csi_24h": 75.89
+  },
+  {
+    "hotspot_id": 19,
+    "road_name": "Coles Road",
+    "predicted_probability_24h": 90.9,
+    "predicted_csi_24h": 75.89
+  },
+  {
+    "hotspot_id": 6,
+    "road_name": "Sahakar Nagar Road",
+    "predicted_probability_24h": 90.7,
+    "predicted_csi_24h": 75.73
+  },
+  {
+    "hotspot_id": 42,
+    "road_name": "Amrutha College Road",
+    "predicted_probability_24h": 90.7,
+    "predicted_csi_24h": 75.72
+  },
+  {
+    "hotspot_id": 24,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "predicted_probability_24h": 90.7,
+    "predicted_csi_24h": 75.71
+  },
+  {
+    "hotspot_id": 74,
+    "road_name": "Allalasandra Main Road",
+    "predicted_probability_24h": 90.7,
+    "predicted_csi_24h": 75.68
+  },
+  {
+    "hotspot_id": 35,
+    "road_name": "Whitefield Road",
+    "predicted_probability_24h": 90.6,
+    "predicted_csi_24h": 75.55
+  },
+  {
+    "hotspot_id": 50,
+    "road_name": "Bellary Road",
+    "predicted_probability_24h": 90.4,
+    "predicted_csi_24h": 75.41
+  },
+  {
+    "hotspot_id": 94,
+    "road_name": "Siddhapura Road",
+    "predicted_probability_24h": 90.4,
+    "predicted_csi_24h": 75.35
+  },
+  {
+    "hotspot_id": 56,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "predicted_probability_24h": 90.4,
+    "predicted_csi_24h": 75.35
+  },
+  {
+    "hotspot_id": 30,
+    "road_name": "RV Road",
+    "predicted_probability_24h": 90.3,
+    "predicted_csi_24h": 75.34
+  },
+  {
+    "hotspot_id": 67,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "predicted_probability_24h": 90.3,
+    "predicted_csi_24h": 75.32
+  },
+  {
+    "hotspot_id": 72,
+    "road_name": "Hosur Road",
+    "predicted_probability_24h": 90.3,
+    "predicted_csi_24h": 75.29
+  },
+  {
+    "hotspot_id": 81,
+    "road_name": "1st Main Road",
+    "predicted_probability_24h": 90.3,
+    "predicted_csi_24h": 75.26
+  },
+  {
+    "hotspot_id": 3,
+    "road_name": "Srinivagilu Main Road",
+    "predicted_probability_24h": 90.3,
+    "predicted_csi_24h": 75.26
+  },
+  {
+    "hotspot_id": 33,
+    "road_name": "Sarjapura Main Road",
+    "predicted_probability_24h": 90.2,
+    "predicted_csi_24h": 75.21
+  },
+  {
+    "hotspot_id": 52,
+    "road_name": "Konanakunte Main Road",
+    "predicted_probability_24h": 90.2,
+    "predicted_csi_24h": 75.19
+  },
+  {
+    "hotspot_id": 51,
+    "road_name": "4th Main Road",
+    "predicted_probability_24h": 90.1,
+    "predicted_csi_24h": 75.06
+  },
+  {
+    "hotspot_id": 76,
+    "road_name": "9th Cross Road",
+    "predicted_probability_24h": 90.0,
+    "predicted_csi_24h": 74.97
+  },
+  {
+    "hotspot_id": 87,
+    "road_name": "Banaswadi Main Road",
+    "predicted_probability_24h": 90.0,
+    "predicted_csi_24h": 74.96
+  },
+  {
+    "hotspot_id": 66,
+    "road_name": "ITPL Main Road",
+    "predicted_probability_24h": 89.9,
+    "predicted_csi_24h": 74.94
+  },
+  {
+    "hotspot_id": 13,
+    "road_name": "Unnamed Road",
+    "predicted_probability_24h": 89.9,
+    "predicted_csi_24h": 74.93
+  },
+  {
+    "hotspot_id": 18,
+    "road_name": "Bellary Road",
+    "predicted_probability_24h": 89.9,
+    "predicted_csi_24h": 74.92
+  },
+  {
+    "hotspot_id": 9,
+    "road_name": "Bengaluru Bellary Road",
+    "predicted_probability_24h": 89.9,
+    "predicted_csi_24h": 74.92
+  },
+  {
+    "hotspot_id": 41,
+    "road_name": "Chikka Banavara RS Road",
+    "predicted_probability_24h": 89.9,
+    "predicted_csi_24h": 74.91
+  },
+  {
+    "hotspot_id": 2,
+    "road_name": "5th Main Road",
+    "predicted_probability_24h": 89.8,
+    "predicted_csi_24h": 74.81
+  },
+  {
+    "hotspot_id": 7,
+    "road_name": "Sri Sri Sri Tiruchi Mahaswamiji Road",
+    "predicted_probability_24h": 89.8,
+    "predicted_csi_24h": 74.79
+  },
+  {
+    "hotspot_id": 68,
+    "road_name": "Hosa Road",
+    "predicted_probability_24h": 89.8,
+    "predicted_csi_24h": 74.79
+  },
+  {
+    "hotspot_id": 99,
+    "road_name": "Mysore Road",
+    "predicted_probability_24h": 89.8,
+    "predicted_csi_24h": 74.79
+  },
+  {
+    "hotspot_id": 44,
+    "road_name": "CMR Road",
+    "predicted_probability_24h": 89.8,
+    "predicted_csi_24h": 74.79
+  },
+  {
+    "hotspot_id": 80,
+    "road_name": "J Lingaiah Road",
+    "predicted_probability_24h": 89.8,
+    "predicted_csi_24h": 74.79
+  },
+  {
+    "hotspot_id": 48,
+    "road_name": "80 Feet Road",
+    "predicted_probability_24h": 89.7,
+    "predicted_csi_24h": 74.7
+  },
+  {
+    "hotspot_id": 89,
+    "road_name": "Hosur Road",
+    "predicted_probability_24h": 89.7,
+    "predicted_csi_24h": 74.66
+  },
+  {
+    "hotspot_id": 93,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "predicted_probability_24h": 89.6,
+    "predicted_csi_24h": 74.56
+  },
+  {
+    "hotspot_id": 85,
+    "road_name": "Bannerghatta Main Road",
+    "predicted_probability_24h": 89.5,
+    "predicted_csi_24h": 74.48
+  },
+  {
+    "hotspot_id": 71,
+    "road_name": "RT Nagar Main Road",
+    "predicted_probability_24h": 89.5,
+    "predicted_csi_24h": 74.48
+  },
+  {
+    "hotspot_id": 40,
+    "road_name": "Bagaluru Main Road",
+    "predicted_probability_24h": 89.5,
+    "predicted_csi_24h": 74.48
+  },
+  {
+    "hotspot_id": 45,
+    "road_name": "20th Main Road",
+    "predicted_probability_24h": 89.5,
+    "predicted_csi_24h": 74.48
+  },
+  {
+    "hotspot_id": 90,
+    "road_name": "C Chowdappa Main Road",
+    "predicted_probability_24h": 89.5,
+    "predicted_csi_24h": 74.48
+  },
+  {
+    "hotspot_id": 92,
+    "road_name": "Jalahalli Cross Road",
+    "predicted_probability_24h": 89.2,
+    "predicted_csi_24h": 74.15
+  },
+  {
+    "hotspot_id": 28,
+    "road_name": "Gnana Bharathi Road",
+    "predicted_probability_24h": 89.2,
+    "predicted_csi_24h": 74.15
+  },
+  {
+    "hotspot_id": 95,
+    "road_name": "Old Airport Road",
+    "predicted_probability_24h": 89.1,
+    "predicted_csi_24h": 74.14
+  },
+  {
+    "hotspot_id": 62,
+    "road_name": "Mysore Road",
+    "predicted_probability_24h": 89.0,
+    "predicted_csi_24h": 74.02
+  },
+  {
+    "hotspot_id": 73,
+    "road_name": "Bhadrappa Flyover",
+    "predicted_probability_24h": 88.9,
+    "predicted_csi_24h": 73.93
+  },
+  {
+    "hotspot_id": 11,
+    "road_name": "Neeladri Road",
+    "predicted_probability_24h": 88.9,
+    "predicted_csi_24h": 73.92
+  },
+  {
+    "hotspot_id": 15,
+    "road_name": "Sri DV Gundappa Road",
+    "predicted_probability_24h": 88.9,
+    "predicted_csi_24h": 73.87
+  },
+  {
+    "hotspot_id": 97,
+    "road_name": "27th Main Road",
+    "predicted_probability_24h": 88.8,
+    "predicted_csi_24h": 73.84
+  },
+  {
+    "hotspot_id": 17,
+    "road_name": "MBT Road",
+    "predicted_probability_24h": 88.7,
+    "predicted_csi_24h": 73.74
+  },
+  {
+    "hotspot_id": 22,
+    "road_name": "Marathahalli Underpass",
+    "predicted_probability_24h": 88.7,
+    "predicted_csi_24h": 73.72
+  },
+  {
+    "hotspot_id": 47,
+    "road_name": "Outer Ring Road",
+    "predicted_probability_24h": 88.7,
+    "predicted_csi_24h": 73.69
+  },
+  {
+    "hotspot_id": 75,
+    "road_name": "1st Cross Road",
+    "predicted_probability_24h": 88.4,
+    "predicted_csi_24h": 73.38
+  },
+  {
+    "hotspot_id": 91,
+    "road_name": "Jayamahal Main Road",
+    "predicted_probability_24h": 88.2,
+    "predicted_csi_24h": 73.25
+  },
+  {
+    "hotspot_id": 20,
+    "road_name": "17th Cross Road",
+    "predicted_probability_24h": 87.8,
+    "predicted_csi_24h": 72.81
+  },
+  {
+    "hotspot_id": 82,
+    "road_name": "7th Cross Road",
+    "predicted_probability_24h": 86.9,
+    "predicted_csi_24h": 71.93
+  },
+  {
+    "hotspot_id": 46,
+    "road_name": "18th Cross Road",
+    "predicted_probability_24h": 86.5,
+    "predicted_csi_24h": 71.51
+  },
+  {
+    "hotspot_id": 27,
+    "road_name": "Konadasapura Cross Road",
+    "predicted_probability_24h": 86.5,
+    "predicted_csi_24h": 71.46
+  },
+  {
+    "hotspot_id": 63,
+    "road_name": "1st Cross Road",
+    "predicted_probability_24h": 86.3,
+    "predicted_csi_24h": 71.34
+  },
+  {
+    "hotspot_id": 84,
+    "road_name": "5th Cross Road",
+    "predicted_probability_24h": 86.3,
+    "predicted_csi_24h": 71.33
+  }
+]

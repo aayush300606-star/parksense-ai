@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "location_name": "Sri DV Gundappa Road, Shopper Junction, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)",
+    "lat": 12.943529292425765,
+    "lng": 77.57065467138676,
+    "priority_score": 197.07124252853265,
+    "action": "Issue automated challans",
+    "eta_mins": 10
+  },
+  {
+    "rank": 2,
+    "location_name": "ITPL Main Road, Brigade Tech Gardens, Brookefield, Bengaluru, Karnataka. Pin-560037 (India)",
+    "lat": 12.964082042940936,
+    "lng": 77.71565415019357,
+    "priority_score": 274.4840841742991,
+    "action": "Setup barricades",
+    "eta_mins": 18
+  },
+  {
+    "rank": 3,
+    "location_name": "Kamaraj Road, Sri Nagamma Devi Circle, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)",
+    "lat": 12.980728638238357,
+    "lng": 77.57741766642326,
+    "priority_score": 8687.41490751153,
+    "action": "Send traffic patrol",
+    "eta_mins": 6
+  },
+  {
+    "rank": 4,
+    "location_name": "MBT Road, Devasandra Junction, KR Puram, Bengaluru, Karnataka. Pin-560036 (India)",
+    "lat": 13.007890904837678,
+    "lng": 77.69319528864749,
+    "priority_score": 331.9368540861214,
+    "action": "Setup barricades",
+    "eta_mins": 20
+  },
+  {
+    "rank": 5,
+    "location_name": "17th Cross Road, Sector 7, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)",
+    "lat": 12.912354415060001,
+    "lng": 77.63618080966141,
+    "priority_score": 163.82001119143337,
+    "action": "Setup barricades",
+    "eta_mins": 20
+  },
+  {
+    "rank": 6,
+    "location_name": "Outer Ring Road, Venkatappa Colony, Mahadevapura, Bengaluru, Karnataka. Pin-560016 (India)",
+    "lat": 12.99751592887798,
+    "lng": 77.67105718959355,
+    "priority_score": 285.8692543816837,
+    "action": "Issue automated challans",
+    "eta_mins": 23
+  },
+  {
+    "rank": 7,
+    "location_name": "Bellary Road, Esteem Mall, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)",
+    "lat": 13.057657552844285,
+    "lng": 77.59107858686038,
+    "priority_score": 145.0932238857048,
+    "action": "Deploy tow truck",
+    "eta_mins": 20
+  },
+  {
+    "rank": 8,
+    "location_name": "Unnamed Road, Begur Chikkanahalli, Bengaluru, Karnataka. Pin-562149 (India)",
+    "lat": 13.185496557700471,
+    "lng": 77.68054599374999,
+    "priority_score": 297.1634388654967,
+    "action": "Setup barricades",
+    "eta_mins": 19
+  },
+  {
+    "rank": 9,
+    "location_name": "Hosur Road, Ozone Manay Tech Park, Garvebhavi Palya, Bengaluru, Karnataka. Pin-560068 (India)",
+    "lat": 12.886924982105985,
+    "lng": 77.64086746075273,
+    "priority_score": 161.76861832005568,
+    "action": "Issue automated challans",
+    "eta_mins": 13
+  },
+  {
+    "rank": 10,
+    "location_name": "5th Main Road, Shri Vinayaka Circle, Jayanagar, Bengaluru, Karnataka. Pin-560011 (India)",
+    "lat": 12.923311361774141,
+    "lng": 77.58118390397163,
+    "priority_score": 267.3899138648914,
+    "action": "Send traffic patrol",
+    "eta_mins": 5
+  },
+  {
+    "rank": 11,
+    "location_name": "Mysore Road, Satellite Bus Stand Junction, New Timber Yard Layout, Bengaluru, Karnataka. Pin-560026 (India)",
+    "lat": 12.953005895006266,
+    "lng": 77.54200571278474,
+    "priority_score": 139.5771846122099,
+    "action": "Setup barricades",
+    "eta_mins": 7
+  },
+  {
+    "rank": 12,
+    "location_name": "80 Feet Road, Block 2, Armane Nagar, Bengaluru, Karnataka. Pin-560094 (India)",
+    "lat": 13.026754232873174,
+    "lng": 77.57878440772667,
+    "priority_score": 150.88500305237787,
+    "action": "Setup barricades",
+    "eta_mins": 11
+  },
+  {
+    "rank": 13,
+    "location_name": "Bellary Road, Vinayaka Nagar, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)",
+    "lat": 13.035619874350388,
+    "lng": 77.58908477332042,
+    "priority_score": 218.27489684923205,
+    "action": "Send traffic patrol",
+    "eta_mins": 19
+  },
+  {
+    "rank": 14,
+    "location_name": "Domlur Inner Ring Road, HAL Stage 2, Indiranagar, Bengaluru, Karnataka. Pin-560008 (India)",
+    "lat": 12.964944006315962,
+    "lng": 77.64472876885729,
+    "priority_score": 278.67047133781017,
+    "action": "Deploy tow truck",
+    "eta_mins": 16
+  },
+  {
+    "rank": 15,
+    "location_name": "20th Main Road, Block 7, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)",
+    "lat": 12.934040774728434,
+    "lng": 77.61266385552716,
+    "priority_score": 227.3694515939927,
+    "action": "Send traffic patrol",
+    "eta_mins": 14
+  },
+  {
+    "rank": 16,
+    "location_name": "Sahakar Nagar Road, Fortuna Acacia, Byatarayanapura, Bengaluru, Karnataka. Pin-560092 (India)",
+    "lat": 13.07098700896254,
+    "lng": 77.58836758576382,
+    "priority_score": 349.5895285183723,
+    "action": "Setup barricades",
+    "eta_mins": 17
+  },
+  {
+    "rank": 17,
+    "location_name": "Hosapalya Main Road, BKL Colony, Bommanahalli, Bengaluru, Karnataka. Pin-560068 (India)",
+    "lat": 12.907779296248979,
+    "lng": 77.62917056228636,
+    "priority_score": 125.17733106895801,
+    "action": "Deploy tow truck",
+    "eta_mins": 5
+  },
+  {
+    "rank": 18,
+    "location_name": "Mumbai Bengaluru Highway, Gorguntepalya Junction, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)",
+    "lat": 13.02928807500816,
+    "lng": 77.53920368297554,
+    "priority_score": 111.70924486236495,
+    "action": "Send traffic patrol",
+    "eta_mins": 17
+  },
+  {
+    "rank": 19,
+    "location_name": "New Horizon College Road, New Horizon College of Engineering, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)",
+    "lat": 12.937165126021533,
+    "lng": 77.69174314005144,
+    "priority_score": 1007.15045950564,
+    "action": "Issue automated challans",
+    "eta_mins": 14
+  },
+  {
+    "rank": 20,
+    "location_name": "Neeladri Road, Ajmera Annex, Karuna Nagar, Doddathogur, Bengaluru, Karnataka. Pin-560100 (India)",
+    "lat": 12.841802166569767,
+    "lng": 77.64605969418605,
+    "priority_score": 137.37623392655007,
+    "action": "Issue automated challans",
+    "eta_mins": 15
+  }
+]

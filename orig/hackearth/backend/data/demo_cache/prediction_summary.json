@@ -1,0 +1,44 @@
+{
+  "total_predictions": 100,
+  "high_risk_zones_identified": 100,
+  "patrol_recommendations_generated": 2,
+  "model_health": {
+    "status": "Healthy",
+    "last_trained": "Just now",
+    "models_active": {
+      "csi_forecaster": "HistGradientBoosting (LightGBM approx)",
+      "pis_forecaster": "HistGradientBoosting (LightGBM approx)"
+    },
+    "performance": {
+      "csi_r2": 0.777,
+      "pis_r2": 0.777
+    },
+    "drift_detection": {
+      "feature_drift": "None Detected",
+      "prediction_drift": "None Detected"
+    },
+    "retraining_triggers": "Scheduled weekly or if R2 drops below 0.70"
+  },
+  "top_global_drivers": [
+    {
+      "feature": "poi_density",
+      "importance_pct": 21.7
+    },
+    {
+      "feature": "is_peak_hour",
+      "importance_pct": 13.1
+    },
+    {
+      "feature": "capacity_loss",
+      "importance_pct": 10.6
+    },
+    {
+      "feature": "road_hierarchy_encoded",
+      "importance_pct": 9.1
+    },
+    {
+      "feature": "dow_cos",
+      "importance_pct": 8.0
+    }
+  ]
+}

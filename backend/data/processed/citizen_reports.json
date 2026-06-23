@@ -1,0 +1,24 @@
+[
+  {
+    "id": "REP-2572",
+    "loc": "MG Road",
+    "description": "Test obstacle",
+    "type": "Obstructive Parking",
+    "severity": "Low",
+    "status": "Under Review",
+    "timestamp": "2026-06-23T16:37:20.440315",
+    "time": "Just now",
+    "evidence_path": "/uploads/REP-2572.jpg"
+  },
+  {
+    "id": "REP-5989",
+    "loc": "Test Ave",
+    "description": "traffic jam hospital ambulance block",
+    "type": "Obstructive Parking",
+    "severity": "Critical",
+    "status": "Patrol Dispatched",
+    "timestamp": "2026-06-23T13:46:15.229084",
+    "time": "Just now",
+    "evidence_path": null
+  }
+]

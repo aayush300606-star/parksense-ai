@@ -1,0 +1,9 @@
+# Vercel deployment configuration
+# This tells Vercel where the Next.js app root is
+
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "installCommand": "npm install",
+  "framework": "nextjs"
+}

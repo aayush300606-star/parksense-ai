@@ -1,0 +1,9 @@
+{
+  "total_hotspots_analyzed": 100,
+  "city_wide_daily_impact": {
+    "fuel_wasted_liters": 9188.0,
+    "co2_emissions_kg": 21593.0,
+    "economic_burden_inr": 2684476,
+    "commuters_affected": 2701363
+  }
+}

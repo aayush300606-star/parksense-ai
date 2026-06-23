@@ -1,0 +1,5602 @@
+[
+  {
+    "hotspot_id": 0,
+    "road_name": "5th Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.57727021788268,
+            12.937325
+          ],
+          [
+            77.57727021788268,
+            13.013474
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.539195,
+          12.937325,
+          77.615345,
+          13.013474
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 8452.61
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.867684"
+  },
+  {
+    "hotspot_id": 1,
+    "road_name": "80 Feet Ring Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.54988054545456,
+            12.957418
+          ],
+          [
+            77.54988054545456,
+            13.02486
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.51616,
+          12.957418,
+          77.583601,
+          13.02486
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 7486.04
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.867684"
+  },
+  {
+    "hotspot_id": 2,
+    "road_name": "5th Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.56672426595746,
+            12.936949
+          ],
+          [
+            77.56672426595746,
+            12.947013
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.561692,
+          12.936949,
+          77.571756,
+          12.947013
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1117.1
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.867684"
+  },
+  {
+    "hotspot_id": 3,
+    "road_name": "Srinivagilu Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.6320824113924,
+            12.924506
+          ],
+          [
+            77.6320824113924,
+            12.937603
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.625534,
+          12.924506,
+          77.638631,
+          12.937603
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1453.79
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.867684"
+  },
+  {
+    "hotspot_id": 4,
+    "road_name": "5th Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.58367477265239,
+            12.9189
+          ],
+          [
+            77.58367477265239,
+            12.944028
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.571111,
+          12.9189,
+          77.596239,
+          12.944028
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 2789.19
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.867684"
+  },
+  {
+    "hotspot_id": 5,
+    "road_name": "New Horizon College Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.661231,
+            12.934637685515872
+          ],
+          [
+            77.719134,
+            12.934637685515872
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.661231,
+          12.905686,
+          77.719134,
+          12.963589
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 6427.25
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.867684"
+  },
+  {
+    "hotspot_id": 6,
+    "road_name": "Sahakar Nagar Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.58846463917526,
+            13.063113
+          ],
+          [
+            77.58846463917526,
+            13.078937
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.580553,
+          13.063113,
+          77.596377,
+          13.078937
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1756.47
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.867684"
+  },
+  {
+    "hotspot_id": 7,
+    "road_name": "Sri Sri Sri Tiruchi Mahaswamiji Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.513732,
+            12.936009812499998
+          ],
+          [
+            77.522204,
+            12.936009812499998
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.513732,
+          12.931774,
+          77.522204,
+          12.940246
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 940.37
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.867684"
+  },
+  {
+    "hotspot_id": 8,
+    "road_name": "Kamaraj Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.583806,
+            12.980822183403895
+          ],
+          [
+            77.631759,
+            12.980822183403895
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.583806,
+          12.956845,
+          77.631759,
+          13.004799
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 5322.84
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.867684"
+  },
+  {
+    "hotspot_id": 9,
+    "road_name": "Bengaluru Bellary Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.6462868060606,
+            13.187039
+          ],
+          [
+            77.6462868060606,
+            13.195526
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.642043,
+          13.187039,
+          77.65053,
+          13.195526
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 942.04
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.867684"
+  },
+  {
+    "hotspot_id": 10,
+    "road_name": "4th Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.559214,
+            12.996373245762712
+          ],
+          [
+            77.566672,
+            12.996373245762712
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.559214,
+          12.992644,
+          77.566672,
+          13.000102
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 827.88
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.867684"
+  },
+  {
+    "hotspot_id": 11,
+    "road_name": "Neeladri Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.64596373224043,
+            12.835396
+          ],
+          [
+            77.64596373224043,
+            12.848275
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.639524,
+          12.835396,
+          77.652403,
+          12.848275
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1429.53
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.867684"
+  },
+  {
+    "hotspot_id": 12,
+    "road_name": "Magadi Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50199798507462,
+            12.98494
+          ],
+          [
+            77.50199798507462,
+            12.994407
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.497264,
+          12.98494,
+          77.506732,
+          12.994407
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1050.86
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.867684"
+  },
+  {
+    "hotspot_id": 13,
+    "road_name": "Unnamed Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.6804374701055,
+            13.174429
+          ],
+          [
+            77.6804374701055,
+            13.196238
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.669533,
+          13.174429,
+          77.691342,
+          13.196238
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 2420.78
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.867684"
+  },
+  {
+    "hotspot_id": 14,
+    "road_name": "Palace Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.581355,
+            12.992156880872486
+          ],
+          [
+            77.597597,
+            12.992156880872486
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.581355,
+          12.984036,
+          77.597597,
+          13.000278
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 1802.81
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.867684"
+  },
+  {
+    "hotspot_id": 15,
+    "road_name": "Sri DV Gundappa Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.57147686240786,
+            12.93845
+          ],
+          [
+            77.57147686240786,
+            12.949406
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.565999,
+          12.93845,
+          77.576955,
+          12.949406
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1216.16
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.867684"
+  },
+  {
+    "hotspot_id": 16,
+    "road_name": "Sarjapura Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.67965790789474,
+            12.907184
+          ],
+          [
+            77.67965790789474,
+            12.918887
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.673807,
+          12.907184,
+          77.685509,
+          12.918887
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1298.98
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.867684"
+  },
+  {
+    "hotspot_id": 17,
+    "road_name": "MBT Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.6930826387316,
+            12.997457
+          ],
+          [
+            77.6930826387316,
+            13.018266
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.682678,
+          12.997457,
+          77.703487,
+          13.018266
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 2309.81
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 18,
+    "road_name": "Bellary Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.58906303690686,
+            13.027672
+          ],
+          [
+            77.58906303690686,
+            13.043508
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.581145,
+          13.027672,
+          77.596981,
+          13.043508
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1757.82
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 19,
+    "road_name": "Coles Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.603504,
+            12.996432941284404
+          ],
+          [
+            77.621495,
+            12.996432941284404
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.603504,
+          12.987437,
+          77.621495,
+          13.005428
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 1996.99
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 20,
+    "road_name": "17th Cross Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.622733,
+            12.910590239197528
+          ],
+          [
+            77.643469,
+            12.910590239197528
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.622733,
+          12.900222,
+          77.643469,
+          12.920958
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 2301.66
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 21,
+    "road_name": "ITPL Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.708341,
+            12.962910084313725
+          ],
+          [
+            77.72605,
+            12.962910084313725
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.708341,
+          12.954056,
+          77.72605,
+          12.971764
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 1965.67
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 22,
+    "road_name": "Marathahalli Underpass",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.70155595945945,
+            12.950959
+          ],
+          [
+            77.70155595945945,
+            12.964672
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.694699,
+          12.950959,
+          77.708413,
+          12.964672
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1522.16
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 23,
+    "road_name": "Whitefield Road",
+    "road_category": "Commercial",
+    "road_hierarchy": "Collector",
+    "road_type": "Collector Road",
+    "road_priority_score": 60,
+    "lane_count": 4,
+    "estimated_road_width": 15.0,
+    "speed_limit": 40,
+    "capacity_factor": "Medium",
+    "capacity_score": 40.32,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.69565286206895,
+            12.989716
+          ],
+          [
+            77.69565286206895,
+            13.001542
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.68974,
+          12.989716,
+          77.701566,
+          13.001542
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1312.68
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 24,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.52679994186046,
+            13.002939
+          ],
+          [
+            77.52679994186046,
+            13.011489
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.522525,
+          13.002939,
+          77.531075,
+          13.011489
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 949.13
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 25,
+    "road_name": "Mumbai Bengaluru Highway",
+    "road_category": "Highway",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Expressway",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 80,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.53908799484536,
+            13.020184
+          ],
+          [
+            77.53908799484536,
+            13.038468
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.529946,
+          13.020184,
+          77.54823,
+          13.038468
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 2029.47
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 26,
+    "road_name": "Mysore Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.54231374172184,
+            12.946313
+          ],
+          [
+            77.54231374172184,
+            12.960095
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.535423,
+          12.946313,
+          77.549205,
+          12.960095
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1529.82
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 27,
+    "road_name": "Konadasapura Cross Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.75040191666666,
+            13.044955
+          ],
+          [
+            77.75040191666666,
+            13.046932
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.749413,
+          13.044955,
+          77.75139,
+          13.046932
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 219.43
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 28,
+    "road_name": "Gnana Bharathi Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.51948595081969,
+            12.94806
+          ],
+          [
+            77.51948595081969,
+            12.963369
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.511832,
+          12.94806,
+          77.52714,
+          12.963369
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1699.25
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 29,
+    "road_name": "O Shaughnessy Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.593615,
+            12.962090217021276
+          ],
+          [
+            77.603075,
+            12.962090217021276
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.593615,
+          12.95736,
+          77.603075,
+          12.966821
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 1050.13
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 30,
+    "road_name": "RV Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.572945,
+            12.948673513513512
+          ],
+          [
+            77.583494,
+            12.948673513513512
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.572945,
+          12.943399,
+          77.583494,
+          12.953948
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 1171.01
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 31,
+    "road_name": "Domlur Inner Ring Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.64448005562913,
+            12.955394
+          ],
+          [
+            77.64448005562913,
+            12.976343
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.634005,
+          12.955394,
+          77.654955,
+          12.976343
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 2325.35
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 32,
+    "road_name": "Konanakunte Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.57460192893402,
+            12.906964
+          ],
+          [
+            77.57460192893402,
+            12.923612
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.566278,
+          12.906964,
+          77.582926,
+          12.923612
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1847.96
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 33,
+    "road_name": "Sarjapura Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.67221115384615,
+            12.914039
+          ],
+          [
+            77.67221115384615,
+            12.920764
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.668849,
+          12.914039,
+          77.675573,
+          12.920764
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 746.4
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 34,
+    "road_name": "Mallathahalli Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.508763,
+            12.960980573333332
+          ],
+          [
+            77.514572,
+            12.960980573333332
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.508763,
+          12.958076,
+          77.514572,
+          12.963885
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 644.78
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 35,
+    "road_name": "Whitefield Road",
+    "road_category": "Commercial",
+    "road_hierarchy": "Collector",
+    "road_type": "Collector Road",
+    "road_priority_score": 60,
+    "lane_count": 4,
+    "estimated_road_width": 15.0,
+    "speed_limit": 40,
+    "capacity_factor": "Medium",
+    "capacity_score": 40.32,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.73440932727274,
+            12.982273
+          ],
+          [
+            77.73440932727274,
+            12.992517
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.729287,
+          12.982273,
+          77.739531,
+          12.992517
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1137.12
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 36,
+    "road_name": "Pusa Thippasandra Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.65807568877551,
+            12.968668
+          ],
+          [
+            77.65807568877551,
+            12.974848
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.654986,
+          12.968668,
+          77.661166,
+          12.974848
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 686.0
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 37,
+    "road_name": "Kodigehalli Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.72347889999999,
+            13.002819
+          ],
+          [
+            77.72347889999999,
+            13.004094
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.722841,
+          13.002819,
+          77.724117,
+          13.004094
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 141.58
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 38,
+    "road_name": "Hosur Road",
+    "road_category": "Commercial",
+    "road_hierarchy": "Collector",
+    "road_type": "Collector Road",
+    "road_priority_score": 60,
+    "lane_count": 4,
+    "estimated_road_width": 15.0,
+    "speed_limit": 40,
+    "capacity_factor": "Medium",
+    "capacity_score": 40.32,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.63948506644519,
+            12.877732
+          ],
+          [
+            77.63948506644519,
+            12.900682
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.62801,
+          12.877732,
+          77.65096,
+          12.900682
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 2547.45
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 39,
+    "road_name": "Dr Siddaiah Puranik Marg",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.532232,
+            12.988577400000002
+          ],
+          [
+            77.543174,
+            12.988577400000002
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.532232,
+          12.983106,
+          77.543174,
+          12.994048
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 1214.57
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 40,
+    "road_name": "Bagaluru Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.63096538596491,
+            13.11682
+          ],
+          [
+            77.63096538596491,
+            13.126534
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.626108,
+          13.11682,
+          77.635823,
+          13.126534
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1078.29
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 41,
+    "road_name": "Chikka Banavara RS Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.523839,
+            13.050509069767443
+          ],
+          [
+            77.527189,
+            13.050509069767443
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.523839,
+          13.048834,
+          77.527189,
+          13.052184
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 371.86
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 42,
+    "road_name": "Amrutha College Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.670678,
+            12.900188523364488
+          ],
+          [
+            77.680363,
+            12.900188523364488
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.670678,
+          12.895346,
+          77.680363,
+          12.905031
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 1075.01
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 43,
+    "road_name": "Chikkabellanduru Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.70385477142858,
+            12.900563
+          ],
+          [
+            77.70385477142858,
+            12.907127
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.700573,
+          12.900563,
+          77.707137,
+          12.907127
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 728.66
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 44,
+    "road_name": "CMR Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.635026,
+            13.022182660714288
+          ],
+          [
+            77.642554,
+            13.022182660714288
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.635026,
+          13.018418,
+          77.642554,
+          13.025947
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 835.65
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 45,
+    "road_name": "20th Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.596982,
+            12.934085778
+          ],
+          [
+            77.625696,
+            12.934085778
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.596982,
+          12.919729,
+          77.625696,
+          12.948443
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 3187.29
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 46,
+    "road_name": "18th Cross Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.642029,
+            12.910867457142857
+          ],
+          [
+            77.647317,
+            12.910867457142857
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.642029,
+          12.908223,
+          77.647317,
+          12.913512
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 586.99
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 47,
+    "road_name": "Outer Ring Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.67097512530414,
+            12.982542
+          ],
+          [
+            77.67097512530414,
+            13.012422
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.656036,
+          12.982542,
+          77.685915,
+          13.012422
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 3316.58
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 48,
+    "road_name": "80 Feet Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.57510127350427,
+            13.020874
+          ],
+          [
+            77.57510127350427,
+            13.034881
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.568098,
+          13.020874,
+          77.582105,
+          13.034881
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1554.74
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 49,
+    "road_name": "3rd A Cross Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.58868473170732,
+            13.099031
+          ],
+          [
+            77.58868473170732,
+            13.100343
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.588029,
+          13.099031,
+          77.589341,
+          13.100343
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 145.67
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 50,
+    "road_name": "Bellary Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.59112166060606,
+            13.046831
+          ],
+          [
+            77.59112166060606,
+            13.068785
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.580145,
+          13.046831,
+          77.602098,
+          13.068785
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 2436.83
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 51,
+    "road_name": "4th Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.525509,
+            12.960829761904762
+          ],
+          [
+            77.531049,
+            12.960829761904762
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.525509,
+          12.95806,
+          77.531049,
+          12.9636
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 614.97
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 52,
+    "road_name": "Konanakunte Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.558935,
+            12.888396791666667
+          ],
+          [
+            77.566454,
+            12.888396791666667
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.558935,
+          12.884638,
+          77.566454,
+          12.892156
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 834.55
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 53,
+    "road_name": "Jakkur Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.59939073469387,
+            13.093374
+          ],
+          [
+            77.59939073469387,
+            13.100912
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.595622,
+          13.093374,
+          77.60316,
+          13.100912
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 836.68
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 54,
+    "road_name": "Dr BR Ambedkar Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.665216,
+            12.958642921874999
+          ],
+          [
+            77.670861,
+            12.958642921874999
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.665216,
+          12.95582,
+          77.670861,
+          12.961465
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 626.6
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 55,
+    "road_name": "Professor K Venkatachalam Circle",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.61866783333335,
+            12.984922
+          ],
+          [
+            77.61866783333335,
+            12.989996
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.616131,
+          12.984922,
+          77.621205,
+          12.989996
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 563.21
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 56,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.526617,
+            13.018853390070921
+          ],
+          [
+            77.536687,
+            13.018853390070921
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.526617,
+          13.013818,
+          77.536687,
+          13.023889
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 1117.84
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 57,
+    "road_name": "Sarjapura Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.692843,
+            12.906884948717947
+          ],
+          [
+            77.700164,
+            12.906884948717947
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.692843,
+          12.903224,
+          77.700164,
+          12.910546
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 812.65
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 58,
+    "road_name": "Bellary Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.579594,
+            13.024655747826088
+          ],
+          [
+            77.591244,
+            13.024655747826088
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.579594,
+          13.018831,
+          77.591244,
+          13.030481
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 1293.15
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 59,
+    "road_name": "Dr Vishwesha Teertha Swamy Gala Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.548244,
+            12.926711491525424
+          ],
+          [
+            77.55321,
+            12.926711491525424
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.548244,
+          12.924228,
+          77.55321,
+          12.929195
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 551.26
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 60,
+    "road_name": "3rd Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.576798,
+            13.006856209302322
+          ],
+          [
+            77.582097,
+            13.006856209302322
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.576798,
+          13.004207,
+          77.582097,
+          13.009505
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 588.14
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 61,
+    "road_name": "Old Airport Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.63680097560976,
+            12.959344
+          ],
+          [
+            77.63680097560976,
+            12.963047
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.63495,
+          12.959344,
+          77.638652,
+          12.963047
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 411.0
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 62,
+    "road_name": "Mysore Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.52486395454547,
+            12.937181
+          ],
+          [
+            77.52486395454547,
+            12.945031
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.520939,
+          12.937181,
+          77.528789,
+          12.945031
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 871.34
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 63,
+    "road_name": "1st Cross Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.61884619090908,
+            12.920343
+          ],
+          [
+            77.61884619090908,
+            12.930234
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.613901,
+          12.920343,
+          77.623792,
+          12.930234
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1097.9
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 64,
+    "road_name": "3rd Cross Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.504797,
+            12.97208103030303
+          ],
+          [
+            77.510961,
+            12.97208103030303
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.504797,
+          12.968999,
+          77.510961,
+          12.975163
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 684.13
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 65,
+    "road_name": "Hosur Road",
+    "road_category": "Commercial",
+    "road_hierarchy": "Collector",
+    "road_type": "Collector Road",
+    "road_priority_score": 60,
+    "lane_count": 4,
+    "estimated_road_width": 15.0,
+    "speed_limit": 40,
+    "capacity_factor": "Medium",
+    "capacity_score": 40.32,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.674569,
+            12.840678780821918
+          ],
+          [
+            77.678892,
+            12.840678780821918
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.674569,
+          12.838517,
+          77.678892,
+          12.842841
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 479.92
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 66,
+    "road_name": "ITPL Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.71164070329671,
+            12.965496
+          ],
+          [
+            77.71164070329671,
+            12.980743
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.704017,
+          12.965496,
+          77.719264,
+          12.980743
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1692.42
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 67,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.51952582857142,
+            12.985297
+          ],
+          [
+            77.51952582857142,
+            12.988741
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.517804,
+          12.985297,
+          77.521247,
+          12.988741
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 382.2
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 68,
+    "road_name": "Hosa Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.649512,
+            12.870680436363635
+          ],
+          [
+            77.660145,
+            12.870680436363635
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.649512,
+          12.865364,
+          77.660145,
+          12.875997
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 1180.31
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 69,
+    "road_name": "Chinmaya Mission Hospital Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.634323,
+            12.97862032142857
+          ],
+          [
+            77.645785,
+            12.97862032142857
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.634323,
+          12.972889,
+          77.645785,
+          12.984351
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 1272.27
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 70,
+    "road_name": "Shri Ramalingeshwara Cave Temple Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.592253,
+            12.876158088607598
+          ],
+          [
+            77.599492,
+            12.876158088607598
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.592253,
+          12.872539,
+          77.599492,
+          12.879777
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 803.51
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 71,
+    "road_name": "RT Nagar Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.58636,
+            13.022331979999997
+          ],
+          [
+            77.598803,
+            13.022331979999997
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.58636,
+          13.01611,
+          77.598803,
+          13.028554
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 1381.21
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 72,
+    "road_name": "Hosur Road",
+    "road_category": "Commercial",
+    "road_hierarchy": "Collector",
+    "road_type": "Collector Road",
+    "road_priority_score": 60,
+    "lane_count": 4,
+    "estimated_road_width": 15.0,
+    "speed_limit": 40,
+    "capacity_factor": "Medium",
+    "capacity_score": 40.32,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.64777481355934,
+            12.872379
+          ],
+          [
+            77.64777481355934,
+            12.879596
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.644166,
+          12.872379,
+          77.651384,
+          12.879596
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 801.14
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 73,
+    "road_name": "Bhadrappa Flyover",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.57558714210526,
+            13.042591
+          ],
+          [
+            77.57558714210526,
+            13.052592
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.570587,
+          13.042591,
+          77.580587,
+          13.052592
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1110.07
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 74,
+    "road_name": "Allalasandra Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.59421284415583,
+            13.092281
+          ],
+          [
+            77.59421284415583,
+            13.094925
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.592891,
+          13.092281,
+          77.595535,
+          13.094925
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 293.49
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 75,
+    "road_name": "1st Cross Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.60080342056074,
+            12.905466
+          ],
+          [
+            77.60080342056074,
+            12.91043
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.598322,
+          12.905466,
+          77.603285,
+          12.91043
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 550.98
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 76,
+    "road_name": "9th Cross Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.580907,
+            12.912993521126761
+          ],
+          [
+            77.590761,
+            12.912993521126761
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.580907,
+          12.908066,
+          77.590761,
+          12.917921
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 1093.84
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 77,
+    "road_name": "Outer Ring Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.69518404761905,
+            12.975187
+          ],
+          [
+            77.69518404761905,
+            12.983163
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.691196,
+          12.975187,
+          77.699172,
+          12.983163
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 885.3
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 78,
+    "road_name": "Vibgyor High School Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.71745701333332,
+            12.949569
+          ],
+          [
+            77.71745701333332,
+            12.953225
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.715629,
+          12.949569,
+          77.719285,
+          12.953225
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 405.84
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 79,
+    "road_name": "Mumbai Bengaluru Highway",
+    "road_category": "Highway",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Expressway",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 80,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.50121383783784,
+            13.038709
+          ],
+          [
+            77.50121383783784,
+            13.056153
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.492492,
+          13.038709,
+          77.509935,
+          13.056153
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1936.19
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 80,
+    "road_name": "J Lingaiah Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.58320631428572,
+            12.992227
+          ],
+          [
+            77.58320631428572,
+            13.00254
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.57805,
+          12.992227,
+          77.588363,
+          13.00254
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 1144.7
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 81,
+    "road_name": "1st Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.590844,
+            12.946774349056602
+          ],
+          [
+            77.601554,
+            12.946774349056602
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.590844,
+          12.941419,
+          77.601554,
+          12.95213
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 1188.86
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.868686"
+  },
+  {
+    "hotspot_id": 82,
+    "road_name": "7th Cross Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.60663248039216,
+            12.90943
+          ],
+          [
+            77.60663248039216,
+            12.918097
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.602299,
+          12.90943,
+          77.610966,
+          12.918097
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 961.98
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  },
+  {
+    "hotspot_id": 83,
+    "road_name": "MS Ramaiah Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.55775320930232,
+            13.029658
+          ],
+          [
+            77.55775320930232,
+            13.037906
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.553629,
+          13.029658,
+          77.561877,
+          13.037906
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 915.53
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  },
+  {
+    "hotspot_id": 84,
+    "road_name": "5th Cross Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.619233,
+            13.034918243902439
+          ],
+          [
+            77.629426,
+            13.034918243902439
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.619233,
+          13.029822,
+          77.629426,
+          13.040015
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 1131.41
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  },
+  {
+    "hotspot_id": 85,
+    "road_name": "Bannerghatta Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.595439,
+            12.89481862857143
+          ],
+          [
+            77.602825,
+            12.89481862857143
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.595439,
+          12.891126,
+          77.602825,
+          12.898512
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 819.84
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  },
+  {
+    "hotspot_id": 86,
+    "road_name": "28th Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.59604091666668,
+            12.913737
+          ],
+          [
+            77.59604091666668,
+            12.920688
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.592565,
+          12.913737,
+          77.599517,
+          12.920688
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 771.58
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  },
+  {
+    "hotspot_id": 87,
+    "road_name": "Banaswadi Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.62445295454546,
+            12.995496
+          ],
+          [
+            77.62445295454546,
+            13.003552
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.620425,
+          12.995496,
+          77.628481,
+          13.003552
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 894.17
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  },
+  {
+    "hotspot_id": 88,
+    "road_name": "8th Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.535546,
+            12.934996906976744
+          ],
+          [
+            77.537455,
+            12.934996906976744
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.535546,
+          12.934042,
+          77.537455,
+          12.935952
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 211.99
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  },
+  {
+    "hotspot_id": 89,
+    "road_name": "Hosur Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.684582,
+            12.818872586956521
+          ],
+          [
+            77.692958,
+            12.818872586956521
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.684582,
+          12.814684,
+          77.692958,
+          12.823061
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 929.82
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  },
+  {
+    "hotspot_id": 90,
+    "road_name": "C Chowdappa Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.55536665151516,
+            12.954203
+          ],
+          [
+            77.55536665151516,
+            12.972572
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.546182,
+          12.954203,
+          77.564551,
+          12.972572
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 2039.02
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  },
+  {
+    "hotspot_id": 91,
+    "road_name": "Jayamahal Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.59366488571429,
+            13.002126
+          ],
+          [
+            77.59366488571429,
+            13.009127
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.590164,
+          13.002126,
+          77.597165,
+          13.009127
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 777.1
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  },
+  {
+    "hotspot_id": 92,
+    "road_name": "Jalahalli Cross Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.512246,
+            13.040229555555555
+          ],
+          [
+            77.523169,
+            13.040229555555555
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.512246,
+          13.034768,
+          77.523169,
+          13.045691
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 1212.48
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  },
+  {
+    "hotspot_id": 93,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.52566043478261,
+            12.999305
+          ],
+          [
+            77.52566043478261,
+            13.003679
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.523473,
+          12.999305,
+          77.527848,
+          13.003679
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 485.55
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  },
+  {
+    "hotspot_id": 94,
+    "road_name": "Siddhapura Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.586945,
+            12.946708638888888
+          ],
+          [
+            77.592052,
+            12.946708638888888
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.586945,
+          12.944155,
+          77.592052,
+          12.949262
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 566.81
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  },
+  {
+    "hotspot_id": 95,
+    "road_name": "Old Airport Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.65529061290322,
+            12.956649
+          ],
+          [
+            77.65529061290322,
+            12.961604
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.652813,
+          12.956649,
+          77.657768,
+          12.961604
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 550.06
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  },
+  {
+    "hotspot_id": 96,
+    "road_name": "Old Kanakapura Road",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.575514,
+            12.93885302631579
+          ],
+          [
+            77.58048,
+            12.93885302631579
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.575514,
+          12.93637,
+          77.58048,
+          12.941336
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 551.24
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  },
+  {
+    "hotspot_id": 97,
+    "road_name": "27th Main Road",
+    "road_category": "Arterial",
+    "road_hierarchy": "Major Arterial",
+    "road_type": "Major Road",
+    "road_priority_score": 90,
+    "lane_count": 6,
+    "estimated_road_width": 20.0,
+    "speed_limit": 60,
+    "capacity_factor": "High",
+    "capacity_score": 69.12,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.65172443333333,
+            12.91424
+          ],
+          [
+            77.65172443333333,
+            12.920082
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.648803,
+          12.91424,
+          77.654646,
+          12.920082
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 648.52
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  },
+  {
+    "hotspot_id": 98,
+    "road_name": "Road Number 1",
+    "road_category": "Local",
+    "road_hierarchy": "Residential",
+    "road_type": "Street",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.654439,
+            12.850813999999998
+          ],
+          [
+            77.660497,
+            12.850813999999998
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.654439,
+          12.847785,
+          77.660497,
+          12.853843
+        ],
+        "direction_metadata": "East-West",
+        "road_segment_length_m": 672.52
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  },
+  {
+    "hotspot_id": 99,
+    "road_name": "Mysore Road",
+    "road_category": "Residential",
+    "road_hierarchy": "Residential",
+    "road_type": "Minor Road",
+    "road_priority_score": 40,
+    "lane_count": 2,
+    "estimated_road_width": 8.0,
+    "speed_limit": 30,
+    "capacity_factor": "Very Low",
+    "capacity_score": 18.24,
+    "geometry": {
+      "type": "Feature",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.53426638461538,
+            12.945433
+          ],
+          [
+            77.53426638461538,
+            12.950311
+          ]
+        ]
+      },
+      "properties": {
+        "bbox": [
+          77.531828,
+          12.945433,
+          77.536705,
+          12.950311
+        ],
+        "direction_metadata": "North-South",
+        "road_segment_length_m": 541.4
+      }
+    },
+    "confidence_scores": {
+      "road_name_confidence": 0.85,
+      "road_width_confidence": 0.82,
+      "lane_count_confidence": 0.8,
+      "road_category_confidence": 0.88,
+      "road_hierarchy_confidence": 0.88,
+      "speed_limit_confidence": 0.85,
+      "geometry_confidence": 0.75
+    },
+    "source": "Deterministic Algorithm",
+    "generated_at": "2026-06-21 08:20:43.869686"
+  }
+]

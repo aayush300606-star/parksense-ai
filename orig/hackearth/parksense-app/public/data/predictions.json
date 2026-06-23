@@ -1,0 +1,202 @@
+[
+  {
+    "lat": 12.943529292425765,
+    "lng": 77.57065467138676,
+    "location_name": "Sri DV Gundappa Road, Shopper Junction, Basavanagudi, Bengaluru, Karnataka. Pin-560004 (India)",
+    "prob_1h": 0.7805065171095356,
+    "prob_6h": 0.5621557777134223,
+    "prob_24h": 0.5129687247783121,
+    "confidence": 0.8588086244010162,
+    "key_factor": "Historical evening pattern"
+  },
+  {
+    "lat": 12.964082042940936,
+    "lng": 77.71565415019357,
+    "location_name": "ITPL Main Road, Brigade Tech Gardens, Brookefield, Bengaluru, Karnataka. Pin-560037 (India)",
+    "prob_1h": 0.7071078905878224,
+    "prob_6h": 0.8918252348611689,
+    "prob_24h": 0.42141677308304637,
+    "confidence": 0.9133174134184971,
+    "key_factor": "Peak commute hour expected"
+  },
+  {
+    "lat": 12.980728638238357,
+    "lng": 77.57741766642326,
+    "location_name": "Kamaraj Road, Sri Nagamma Devi Circle, Sivanchetti Gardens, Bengaluru, Karnataka. Pin-560042 (India)",
+    "prob_1h": 0.783017945341343,
+    "prob_6h": 0.8221453503183029,
+    "prob_24h": 0.6821566543719388,
+    "confidence": 0.9130663456048155,
+    "key_factor": "Historical evening pattern"
+  },
+  {
+    "lat": 13.007890904837678,
+    "lng": 77.69319528864749,
+    "location_name": "MBT Road, Devasandra Junction, KR Puram, Bengaluru, Karnataka. Pin-560036 (India)",
+    "prob_1h": 0.7719039635557917,
+    "prob_6h": 0.5992809336139706,
+    "prob_24h": 0.8345730075371742,
+    "confidence": 0.8135711408326373,
+    "key_factor": "Weekend market activity"
+  },
+  {
+    "lat": 12.912354415060001,
+    "lng": 77.63618080966141,
+    "location_name": "17th Cross Road, Sector 7, HSR Layout, Bengaluru, Karnataka. Pin-560102 (India)",
+    "prob_1h": 0.5716888904278257,
+    "prob_6h": 0.7197370854152554,
+    "prob_24h": 0.6169454446760605,
+    "confidence": 0.9026388810325101,
+    "key_factor": "Weekend market activity"
+  },
+  {
+    "lat": 12.99751592887798,
+    "lng": 77.67105718959355,
+    "location_name": "Outer Ring Road, Venkatappa Colony, Mahadevapura, Bengaluru, Karnataka. Pin-560016 (India)",
+    "prob_1h": 0.6723563506544045,
+    "prob_6h": 0.48248754020540424,
+    "prob_24h": 0.6351259062268727,
+    "confidence": 0.7605051746082022,
+    "key_factor": "Nearby event scheduled"
+  },
+  {
+    "lat": 13.057657552844285,
+    "lng": 77.59107858686038,
+    "location_name": "Bellary Road, Esteem Mall, Hebbal Kempapura, Bengaluru, Karnataka. Pin-560024 (India)",
+    "prob_1h": 0.5865984575724497,
+    "prob_6h": 0.5713332588575724,
+    "prob_24h": 0.7488031616764573,
+    "confidence": 0.825335421923092,
+    "key_factor": "Nearby event scheduled"
+  },
+  {
+    "lat": 13.185496557700471,
+    "lng": 77.68054599374999,
+    "location_name": "Unnamed Road, Begur Chikkanahalli, Bengaluru, Karnataka. Pin-562149 (India)",
+    "prob_1h": 0.6236939048820991,
+    "prob_6h": 0.44067512960677296,
+    "prob_24h": 0.4719733258330732,
+    "confidence": 0.769883671483784,
+    "key_factor": "Nearby event scheduled"
+  },
+  {
+    "lat": 12.886924982105985,
+    "lng": 77.64086746075273,
+    "location_name": "Hosur Road, Ozone Manay Tech Park, Garvebhavi Palya, Bengaluru, Karnataka. Pin-560068 (India)",
+    "prob_1h": 0.662326136016932,
+    "prob_6h": 0.47810518454965095,
+    "prob_24h": 0.9011075902430573,
+    "confidence": 0.8444246872751299,
+    "key_factor": "Weekend market activity"
+  },
+  {
+    "lat": 12.923311361774141,
+    "lng": 77.58118390397163,
+    "location_name": "5th Main Road, Shri Vinayaka Circle, Jayanagar, Bengaluru, Karnataka. Pin-560011 (India)",
+    "prob_1h": 0.6293886713655976,
+    "prob_6h": 0.5201849141069673,
+    "prob_24h": 0.7490213393810203,
+    "confidence": 0.7533747202800511,
+    "key_factor": "Historical evening pattern"
+  },
+  {
+    "lat": 12.953005895006266,
+    "lng": 77.54200571278474,
+    "location_name": "Mysore Road, Satellite Bus Stand Junction, New Timber Yard Layout, Bengaluru, Karnataka. Pin-560026 (India)",
+    "prob_1h": 0.6016737094410015,
+    "prob_6h": 0.6875003768789903,
+    "prob_24h": 0.5707896134763495,
+    "confidence": 0.8993657668455424,
+    "key_factor": "Weekend market activity"
+  },
+  {
+    "lat": 13.026754232873174,
+    "lng": 77.57878440772667,
+    "location_name": "80 Feet Road, Block 2, Armane Nagar, Bengaluru, Karnataka. Pin-560094 (India)",
+    "prob_1h": 0.566758808641751,
+    "prob_6h": 0.7385742460356439,
+    "prob_24h": 0.6999554182764013,
+    "confidence": 0.8476220141091448,
+    "key_factor": "Historical evening pattern"
+  },
+  {
+    "lat": 13.035619874350388,
+    "lng": 77.58908477332042,
+    "location_name": "Bellary Road, Vinayaka Nagar, Hebbal, Bengaluru, Karnataka. Pin-560024 (India)",
+    "prob_1h": 0.47819278402730253,
+    "prob_6h": 0.6692648780075972,
+    "prob_24h": 0.4603887998594141,
+    "confidence": 0.9411754196243165,
+    "key_factor": "Peak commute hour expected"
+  },
+  {
+    "lat": 12.964944006315962,
+    "lng": 77.64472876885729,
+    "location_name": "Domlur Inner Ring Road, HAL Stage 2, Indiranagar, Bengaluru, Karnataka. Pin-560008 (India)",
+    "prob_1h": 0.4996064286167693,
+    "prob_6h": 0.49356559846461984,
+    "prob_24h": 0.6183526713224444,
+    "confidence": 0.9154325067607058,
+    "key_factor": "Nearby event scheduled"
+  },
+  {
+    "lat": 12.934040774728434,
+    "lng": 77.61266385552716,
+    "location_name": "20th Main Road, Block 7, Koramangala, Bengaluru, Karnataka. Pin-560095 (India)",
+    "prob_1h": 0.5770945549263493,
+    "prob_6h": 0.6379333053892409,
+    "prob_24h": 0.40963075882304983,
+    "confidence": 0.8496958057945135,
+    "key_factor": "Nearby event scheduled"
+  },
+  {
+    "lat": 13.07098700896254,
+    "lng": 77.58836758576382,
+    "location_name": "Sahakar Nagar Road, Fortuna Acacia, Byatarayanapura, Bengaluru, Karnataka. Pin-560092 (India)",
+    "prob_1h": 0.47268752608270903,
+    "prob_6h": 0.537221131305296,
+    "prob_24h": 0.7789923878615715,
+    "confidence": 0.9132152970473164,
+    "key_factor": "Weekend market activity"
+  },
+  {
+    "lat": 12.907779296248979,
+    "lng": 77.62917056228636,
+    "location_name": "Hosapalya Main Road, BKL Colony, Bommanahalli, Bengaluru, Karnataka. Pin-560068 (India)",
+    "prob_1h": 0.586443841605831,
+    "prob_6h": 0.40839060370352337,
+    "prob_24h": 0.7384373254918183,
+    "confidence": 0.7810889082787908,
+    "key_factor": "Weekend market activity"
+  },
+  {
+    "lat": 13.02928807500816,
+    "lng": 77.53920368297554,
+    "location_name": "Mumbai Bengaluru Highway, Gorguntepalya Junction, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)",
+    "prob_1h": 0.4931339513267056,
+    "prob_6h": 0.5011187585080333,
+    "prob_24h": 0.7327671940144417,
+    "confidence": 0.8753156143726929,
+    "key_factor": "Weekend market activity"
+  },
+  {
+    "lat": 12.937165126021533,
+    "lng": 77.69174314005144,
+    "location_name": "New Horizon College Road, New Horizon College of Engineering, Kadubisanahalli, Bengaluru, Karnataka. Pin-560103 (India)",
+    "prob_1h": 0.551216080739579,
+    "prob_6h": 0.5697326874567451,
+    "prob_24h": 0.7093772814041118,
+    "confidence": 0.9377344569041113,
+    "key_factor": "Peak commute hour expected"
+  },
+  {
+    "lat": 12.841802166569767,
+    "lng": 77.64605969418605,
+    "location_name": "Neeladri Road, Ajmera Annex, Karuna Nagar, Doddathogur, Bengaluru, Karnataka. Pin-560100 (India)",
+    "prob_1h": 0.5017453993563944,
+    "prob_6h": 0.4556872446046004,
+    "prob_24h": 0.5336178134327118,
+    "confidence": 0.9323884272099954,
+    "key_factor": "Weekend market activity"
+  }
+]

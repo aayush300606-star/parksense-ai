@@ -1,0 +1,67 @@
+C:\Users\Aayus\Desktop\hackearth\backend\ai	emporal_pattern_engine.py:43: DtypeWarning: Columns (19,20,21,22,23) have mixed types. Specify dtype option on import or set low_memory=False.\r
+  df = pd.read_csv(TemporalPatternEngine.CLEANED_DATA_PATH)\r
+--- Initializing AI Data Foundation ---\r
+Loading raw dataset from C:\Users\Aayus\Desktop\hackearth\backend\ai\..\..\jan to may police violation_anonymized791b166.csv...\r
+Removing duplicates. Initial rows: 298450\r
+Rows after removing duplicates: 298450\r
+Saving cleaned dataset to C:\Users\Aayus\Desktop\hackearth\backend\ai\..\data\processed\cleaned_dataset.csv...\r
+Preprocessing completed.\r
+Extracting coordinates for clustering...\r
+Running DBSCAN algorithm...\r
+Detected 100 valid clusters.\r
+Saving 100 hotspots to C:\Users\Aayus\Desktop\hackearth\backend\ai\..\data\processed\hotspots.json\r
+Saving 100 density-scored hotspots to C:\Users\Aayus\Desktop\hackearth\backend\ai\..\data\processed\hotspots_with_density.json\r
+Legacy frontend compatibility file updated at C:\Users\Aayus\Desktop\hackearth\backend\..\parksense-app\public\data\hotspots.json\r
+--- Initializing Road Intelligence Layer ---\r
+Road Intelligence layer generated for 100 locations.\r
+--- Initializing Effective Road Width Engine ---\r
+Road Impact Intelligence generated for 100 roads.\r
+--- Initializing Traffic Intelligence Engine ---\r
+Traffic Intelligence generated for 100 hotspots.\r
+--- Initializing Context Intelligence Engine ---\r
+  Building KDTr
+<truncated 438 bytes>
+orical dataset for ML training...\r
+  Training ML Models (Random Forest / Gradient Boosting)...\r
+  Predicting horizon: 1h...\r
+  Predicting horizon: 6h...\r
+  Predicting horizon: 24h...\r
+  Predicting horizon: 7d...\r
+Prediction Engine generated forecasts for 100 locations.\r
+--- Initializing Digital Twin Simulation Engine ---\r
+  Running multi-scenario simulations for all hotspots...\r
+Digital Twin Engine completed 400 scenario simulations.\r
+\r
+\r
+=== DIGITAL TWIN ENGINE TEST RESULTS ===\r
+\r
+--- Top 3 Interventions by Benefit Score ---\r
+\r
+[8] Kamaraj Road\r
+Recommended Intervention: 100% Illegal Parking Removal\r
+Expected ROI: Good ROI\r
+CSI Improvement: -37.22 points\r
+Total Benefit Score: 85.0/100\r
+\r
+[38] Hosur Road\r
+Recommended Intervention: 100% Illegal Parking Removal\r
+Expected ROI: Good ROI\r
+CSI Improvement: -34.7 points\r
+Total Benefit Score: 85.0/100\r
+\r
+[5] New Horizon College Road\r
+Recommended Intervention: 100% Illegal Parking Removal\r
+Expected ROI: Good ROI\r
+CSI Improvement: -34.53 points\r
+Total Benefit Score: 85.0/100\r
+\r
+--- Detailed Digital Twin Output (Top Hotspot) ---\r
+Explanation: Executing '100% Illegal Parking Removal' restored 8.0m of usable carriageway. Traffic speed improved from 9.1 km/h to 40.0 km/h. CSI improved by 37.2 points. Total daily delay reduced by 144.6 hours, saving 73.5 liters of fuel.\r
+Deltas:\r
+  csi: Before 62.03 -> After 24.81 (Improvement: 37.22)\r
+  pis: Before 25.15 -> After 5.7 (Improvement: 19.45)\r
+  capacity_loss_pct: Before 100.0 -> After 0.0 (Improvement: 100.0)\r
+  speed_kmh: Before 9.07 -> After 40.0 (Improvement: 30.9)\r
+  delay_hours: Before 187.0 -> After 42.4 (Improvement: 144.6)\r
+  fuel_wasted_liters: Before 95.0 -> After 21.5 (Improvement: 73.5)\r
+  economic_burden_inr: Before 43160 -> After 9786.53 (Improvement: 33373.47)\r

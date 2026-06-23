@@ -1,0 +1,68 @@
+import os
+import json
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+from .api import hotspots, road, road_impact
+
+app = FastAPI(
+    title="ParkSense AI Data Foundation",
+    description="Production-grade AI pipeline for smart city parking intelligence.",
+    version="1.0.0"
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+app.include_router(hotspots.router)
+app.include_router(road.router)
+app.include_router(road_impact.router)
+
+@app.on_event("startup")
+async def startup_event():
+    """
+    On startup, we ensure the pipeline has run and we update the legacy frontend's JSON file 
+    so that the existing Next.js app stays perfectly functional without any frontend code changes.
+    """
+    from .ai.preprocessing import preprocess_data
+    from .ai.hotspot_detection import detect_hotspots
+    from .ai.violation_density import calculate_violation_density
+    from .services.hotspot_service import HotspotService
+    from .services.road_service import RoadService
+    from .services.road_impact_service import RoadImpactService
+
+    print("--- Initializing AI Data Foundation ---")
+    
+    # Run Pipeline
+    try:
+        df = preprocess_data()
+        detected_hotspots = detect_hotspots(df)
+        calculate_violation_density(detected_hotspots)
+        
+        # Overwrite legacy hotspots.json in the Next.js public directory
+        legacy_data = HotspotService.generate_frontend_compatible_hotspots()
+        legacy_path = os.path.join(os.path.dirname(__file__), '..', 'parksense-app', 'public', 'data', 'hotspots.json')
+        
+        if os.path.exists(os.path.dirname(legacy_path)):
+            with open(legacy_path, 'w') as f:
+                json.dump(legacy_data, f, indent=2)
+            print(f"Legacy frontend compatibility file updated at {legacy_path}")
+            
+        print("--- Initializing Road Intelligence Layer ---")
+        RoadService.generate_all()
+        
+        print("--- Initializing Effective Road Width Engine ---")
+        RoadImpactService.generate_all()
+            
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+        print(f"Pipeline initialization failed (maybe dataset is missing?): {e}")
+
+@app.get("/")
+def read_root():
+    return {"status": "AI Data Foundation is running."}

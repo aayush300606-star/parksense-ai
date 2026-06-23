@@ -1,0 +1,1496 @@
+[
+  {
+    "hotspot_id": 0,
+    "road_name": "5th Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 1,
+    "road_name": "80 Feet Ring Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "MALL",
+        "poi_name": "Malleshwaram West",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 2,
+    "road_name": "5th Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 3,
+    "road_name": "Srinivagilu Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 4,
+    "road_name": "5th Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 5,
+    "road_name": "New Horizon College Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "COLLEGE",
+        "poi_name": "New Horizon College Road",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 6,
+    "road_name": "Sahakar Nagar Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 7,
+    "road_name": "Sri Sri Sri Tiruchi Mahaswamiji Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "MALL",
+        "poi_name": "Gopalan Arcade",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 8,
+    "road_name": "Kamaraj Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "PARK",
+        "poi_name": "Sivanchetti Gardens",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 9,
+    "road_name": "Bengaluru Bellary Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 10,
+    "road_name": "4th Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 11,
+    "road_name": "Neeladri Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 12,
+    "road_name": "Magadi Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 13,
+    "road_name": "Unnamed Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 14,
+    "road_name": "Palace Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 15,
+    "road_name": "Sri DV Gundappa Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "PARK",
+        "poi_name": "Krest Park Apartment",
+        "distance_m": 904.2,
+        "radius_band": 1000,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.7
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 16,
+    "road_name": "Sarjapura Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 17,
+    "road_name": "MBT Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 18,
+    "road_name": "Bellary Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 19,
+    "road_name": "Coles Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 20,
+    "road_name": "17th Cross Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 21,
+    "road_name": "ITPL Main Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "PARK",
+        "poi_name": "Brigade Tech Gardens",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 22,
+    "road_name": "Marathahalli Underpass",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 23,
+    "road_name": "Whitefield Road",
+    "poi_count_300m": 4,
+    "poi_count_500m": 4,
+    "poi_count_1000m": 4,
+    "total_unique_pois": 4,
+    "pois": [
+      {
+        "poi_type": "MARKET",
+        "poi_name": "Phoenix Marketcity",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      },
+      {
+        "poi_type": "MALL",
+        "poi_name": "Phoenix Marketcity",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      },
+      {
+        "poi_type": "INDUSTRIAL_AREA",
+        "poi_name": "Dyavasandra Industrial Estate Phase 2",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      },
+      {
+        "poi_type": "BUSINESS_DISTRICT",
+        "poi_name": "Whitefield Road",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 24,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 25,
+    "road_name": "Mumbai Bengaluru Highway",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 26,
+    "road_name": "Mysore Road",
+    "poi_count_300m": 2,
+    "poi_count_500m": 2,
+    "poi_count_1000m": 2,
+    "total_unique_pois": 2,
+    "pois": [
+      {
+        "poi_type": "BUS_STATION",
+        "poi_name": "Satellite Bus Stand Junction",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      },
+      {
+        "poi_type": "TRANSIT_HUB",
+        "poi_name": "Satellite Bus Stand Junction",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 27,
+    "road_name": "Konadasapura Cross Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 28,
+    "road_name": "Gnana Bharathi Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 29,
+    "road_name": "O Shaughnessy Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "PARK",
+        "poi_name": "Langford Garden",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 30,
+    "road_name": "RV Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 31,
+    "road_name": "Domlur Inner Ring Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 32,
+    "road_name": "Konanakunte Main Road",
+    "poi_count_300m": 2,
+    "poi_count_500m": 2,
+    "poi_count_1000m": 2,
+    "total_unique_pois": 2,
+    "pois": [
+      {
+        "poi_type": "BUS_STATION",
+        "poi_name": "Banashankari Bus Stand Junction",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      },
+      {
+        "poi_type": "TRANSIT_HUB",
+        "poi_name": "Banashankari Bus Stand Junction",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 33,
+    "road_name": "Sarjapura Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 34,
+    "road_name": "Mallathahalli Road",
+    "poi_count_300m": 2,
+    "poi_count_500m": 2,
+    "poi_count_1000m": 2,
+    "total_unique_pois": 2,
+    "pois": [
+      {
+        "poi_type": "MALL",
+        "poi_name": "Mallathahalli Road",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      },
+      {
+        "poi_type": "GOVERNMENT_OFFICE",
+        "poi_name": "BDA Layout",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 35,
+    "road_name": "Whitefield Road",
+    "poi_count_300m": 2,
+    "poi_count_500m": 2,
+    "poi_count_1000m": 2,
+    "total_unique_pois": 2,
+    "pois": [
+      {
+        "poi_type": "INDUSTRIAL_AREA",
+        "poi_name": "Sadaramangala Industrial Area",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      },
+      {
+        "poi_type": "BUSINESS_DISTRICT",
+        "poi_name": "Whitefield Road",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 36,
+    "road_name": "Pusa Thippasandra Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 37,
+    "road_name": "Kodigehalli Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 38,
+    "road_name": "Hosur Road",
+    "poi_count_300m": 2,
+    "poi_count_500m": 2,
+    "poi_count_1000m": 2,
+    "total_unique_pois": 2,
+    "pois": [
+      {
+        "poi_type": "BUSINESS_DISTRICT",
+        "poi_name": "Ozone Manay Tech Park",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      },
+      {
+        "poi_type": "PARK",
+        "poi_name": "Ozone Manay Tech Park",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 39,
+    "road_name": "Dr Siddaiah Puranik Marg",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 40,
+    "road_name": "Bagaluru Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 41,
+    "road_name": "Chikka Banavara RS Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 42,
+    "road_name": "Amrutha College Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "COLLEGE",
+        "poi_name": "Amrutha College Road",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 43,
+    "road_name": "Chikkabellanduru Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 44,
+    "road_name": "CMR Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 45,
+    "road_name": "20th Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 46,
+    "road_name": "18th Cross Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 47,
+    "road_name": "Outer Ring Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 48,
+    "road_name": "80 Feet Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 49,
+    "road_name": "3rd A Cross Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 50,
+    "road_name": "Bellary Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "MALL",
+        "poi_name": "Esteem Mall",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 51,
+    "road_name": "4th Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 52,
+    "road_name": "Konanakunte Main Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "MALL",
+        "poi_name": "Gopalan Jewels",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 53,
+    "road_name": "Jakkur Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 54,
+    "road_name": "Dr BR Ambedkar Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 55,
+    "road_name": "Professor K Venkatachalam Circle",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "PARK",
+        "poi_name": "Sivanchetti Gardens",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 56,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 57,
+    "road_name": "Sarjapura Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 58,
+    "road_name": "Bellary Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 59,
+    "road_name": "Dr Vishwesha Teertha Swamy Gala Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 60,
+    "road_name": "3rd Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 61,
+    "road_name": "Old Airport Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 62,
+    "road_name": "Mysore Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "MALL",
+        "poi_name": "Gopalan Arcade",
+        "distance_m": 937.79,
+        "radius_band": 1000,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.7
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 63,
+    "road_name": "1st Cross Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 64,
+    "road_name": "3rd Cross Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 65,
+    "road_name": "Hosur Road",
+    "poi_count_300m": 3,
+    "poi_count_500m": 3,
+    "poi_count_1000m": 3,
+    "total_unique_pois": 3,
+    "pois": [
+      {
+        "poi_type": "INDUSTRIAL_AREA",
+        "poi_name": "Veerasandra Industrial Area",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      },
+      {
+        "poi_type": "BUSINESS_DISTRICT",
+        "poi_name": "Salarpuria Sattva Alexandria Tech Park",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      },
+      {
+        "poi_type": "PARK",
+        "poi_name": "Salarpuria Sattva Alexandria Tech Park",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 66,
+    "road_name": "ITPL Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 67,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 68,
+    "road_name": "Hosa Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "INDUSTRIAL_AREA",
+        "poi_name": "Singasandra Industrial Estate",
+        "distance_m": 965.63,
+        "radius_band": 1000,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.7
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 69,
+    "road_name": "Chinmaya Mission Hospital Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "HOSPITAL",
+        "poi_name": "Chinmaya Mission Hospital Road",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 70,
+    "road_name": "Shri Ramalingeshwara Cave Temple Road",
+    "poi_count_300m": 2,
+    "poi_count_500m": 2,
+    "poi_count_1000m": 2,
+    "total_unique_pois": 2,
+    "pois": [
+      {
+        "poi_type": "MALL",
+        "poi_name": "Royal Meenakshi Mall",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      },
+      {
+        "poi_type": "RELIGIOUS_PLACE",
+        "poi_name": "Shri Ramalingeshwara Cave Temple Road",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 71,
+    "road_name": "RT Nagar Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 72,
+    "road_name": "Hosur Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "INDUSTRIAL_AREA",
+        "poi_name": "Singasandra Industrial Estate",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 73,
+    "road_name": "Bhadrappa Flyover",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 74,
+    "road_name": "Allalasandra Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 75,
+    "road_name": "1st Cross Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "INDUSTRIAL_AREA",
+        "poi_name": "Sarakki Industrial Layout",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 76,
+    "road_name": "9th Cross Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 77,
+    "road_name": "Outer Ring Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 78,
+    "road_name": "Vibgyor High School Road",
+    "poi_count_300m": 2,
+    "poi_count_500m": 2,
+    "poi_count_1000m": 2,
+    "total_unique_pois": 2,
+    "pois": [
+      {
+        "poi_type": "SCHOOL",
+        "poi_name": "Vibgyor High School Road",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      },
+      {
+        "poi_type": "PARK",
+        "poi_name": "Green Garden Layout",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 79,
+    "road_name": "Mumbai Bengaluru Highway",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 80,
+    "road_name": "J Lingaiah Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 81,
+    "road_name": "1st Main Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "PARK",
+        "poi_name": "Wilson Garden",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 82,
+    "road_name": "7th Cross Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "INDUSTRIAL_AREA",
+        "poi_name": "Sarakki Industrial Layout",
+        "distance_m": 903.93,
+        "radius_band": 1000,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.7
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 83,
+    "road_name": "MS Ramaiah Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "RELIGIOUS_PLACE",
+        "poi_name": "Mathikere",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 84,
+    "road_name": "5th Cross Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 85,
+    "road_name": "Bannerghatta Main Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "COLLEGE",
+        "poi_name": "Indian Institute of Management",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 86,
+    "road_name": "28th Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 87,
+    "road_name": "Banaswadi Main Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "PARK",
+        "poi_name": "Prestige Woodland Park",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 88,
+    "road_name": "8th Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 89,
+    "road_name": "Hosur Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 90,
+    "road_name": "C Chowdappa Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 91,
+    "road_name": "Jayamahal Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 92,
+    "road_name": "Jalahalli Cross Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "INDUSTRIAL_AREA",
+        "poi_name": "Peenya",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 93,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 94,
+    "road_name": "Siddhapura Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "PARK",
+        "poi_name": "Wilson Garden",
+        "distance_m": 726.09,
+        "radius_band": 1000,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.7
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 95,
+    "road_name": "Old Airport Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 96,
+    "road_name": "Old Kanakapura Road",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "PARK",
+        "poi_name": "Krest Park Apartment",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 97,
+    "road_name": "27th Main Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 98,
+    "road_name": "Road Number 1",
+    "poi_count_300m": 1,
+    "poi_count_500m": 1,
+    "poi_count_1000m": 1,
+    "total_unique_pois": 1,
+    "pois": [
+      {
+        "poi_type": "BUSINESS_DISTRICT",
+        "poi_name": "Electronic City",
+        "distance_m": 0.0,
+        "radius_band": 300,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "source": "Deterministic Geospatial Analysis",
+        "confidence": 0.8
+      }
+    ],
+    "source": "Deterministic Geospatial Analysis"
+  },
+  {
+    "hotspot_id": 99,
+    "road_name": "Mysore Road",
+    "poi_count_300m": 0,
+    "poi_count_500m": 0,
+    "poi_count_1000m": 0,
+    "total_unique_pois": 0,
+    "pois": [],
+    "source": "Deterministic Geospatial Analysis"
+  }
+]

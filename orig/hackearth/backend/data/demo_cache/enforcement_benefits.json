@@ -1,0 +1,802 @@
+[
+  {
+    "hotspot_id": 32,
+    "road_name": "Konanakunte Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 86.2,
+    "expected_economic_benefit_inr": 25094,
+    "enforcement_benefit_score": 5.02
+  },
+  {
+    "hotspot_id": 36,
+    "road_name": "Pusa Thippasandra Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 32.0,
+    "expected_economic_benefit_inr": 9321,
+    "enforcement_benefit_score": 1.86
+  },
+  {
+    "hotspot_id": 0,
+    "road_name": "5th Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 394.5,
+    "expected_economic_benefit_inr": 114810,
+    "enforcement_benefit_score": 22.96
+  },
+  {
+    "hotspot_id": 49,
+    "road_name": "3rd A Cross Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 1.8,
+    "expected_economic_benefit_inr": 405,
+    "enforcement_benefit_score": 0.08
+  },
+  {
+    "hotspot_id": 4,
+    "road_name": "5th Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 130.2,
+    "expected_economic_benefit_inr": 37889,
+    "enforcement_benefit_score": 7.58
+  },
+  {
+    "hotspot_id": 69,
+    "road_name": "Chinmaya Mission Hospital Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 15.4,
+    "expected_economic_benefit_inr": 3548,
+    "enforcement_benefit_score": 0.71
+  },
+  {
+    "hotspot_id": 60,
+    "road_name": "3rd Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 27.4,
+    "expected_economic_benefit_inr": 7986,
+    "enforcement_benefit_score": 1.6
+  },
+  {
+    "hotspot_id": 57,
+    "road_name": "Sarjapura Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 37.9,
+    "expected_economic_benefit_inr": 11036,
+    "enforcement_benefit_score": 2.21
+  },
+  {
+    "hotspot_id": 86,
+    "road_name": "28th Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 36.0,
+    "expected_economic_benefit_inr": 10482,
+    "enforcement_benefit_score": 2.1
+  },
+  {
+    "hotspot_id": 37,
+    "road_name": "Kodigehalli Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 6.6,
+    "expected_economic_benefit_inr": 1923,
+    "enforcement_benefit_score": 0.38
+  },
+  {
+    "hotspot_id": 26,
+    "road_name": "Mysore Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 18.5,
+    "expected_economic_benefit_inr": 4264,
+    "enforcement_benefit_score": 0.85
+  },
+  {
+    "hotspot_id": 34,
+    "road_name": "Mallathahalli Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 7.8,
+    "expected_economic_benefit_inr": 1794,
+    "enforcement_benefit_score": 0.36
+  },
+  {
+    "hotspot_id": 8,
+    "road_name": "Kamaraj Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 64.3,
+    "expected_economic_benefit_inr": 14847,
+    "enforcement_benefit_score": 2.97
+  },
+  {
+    "hotspot_id": 23,
+    "road_name": "Whitefield Road",
+    "capacity_recovered_pct": 75.0,
+    "expected_delay_reduction_hours": 36.5,
+    "expected_economic_benefit_inr": 9149,
+    "enforcement_benefit_score": 1.83
+  },
+  {
+    "hotspot_id": 78,
+    "road_name": "Vibgyor High School Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 4.9,
+    "expected_economic_benefit_inr": 1136,
+    "enforcement_benefit_score": 0.23
+  },
+  {
+    "hotspot_id": 1,
+    "road_name": "80 Feet Ring Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 349.4,
+    "expected_economic_benefit_inr": 101688,
+    "enforcement_benefit_score": 20.34
+  },
+  {
+    "hotspot_id": 55,
+    "road_name": "Professor K Venkatachalam Circle",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 6.8,
+    "expected_economic_benefit_inr": 1573,
+    "enforcement_benefit_score": 0.31
+  },
+  {
+    "hotspot_id": 65,
+    "road_name": "Hosur Road",
+    "capacity_recovered_pct": 75.0,
+    "expected_delay_reduction_hours": 13.4,
+    "expected_economic_benefit_inr": 3351,
+    "enforcement_benefit_score": 0.67
+  },
+  {
+    "hotspot_id": 83,
+    "road_name": "MS Ramaiah Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 11.1,
+    "expected_economic_benefit_inr": 2557,
+    "enforcement_benefit_score": 0.51
+  },
+  {
+    "hotspot_id": 61,
+    "road_name": "Old Airport Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 5.0,
+    "expected_economic_benefit_inr": 1142,
+    "enforcement_benefit_score": 0.23
+  },
+  {
+    "hotspot_id": 59,
+    "road_name": "Dr Vishwesha Teertha Swamy Gala Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 6.7,
+    "expected_economic_benefit_inr": 1541,
+    "enforcement_benefit_score": 0.31
+  },
+  {
+    "hotspot_id": 14,
+    "road_name": "Palace Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 21.8,
+    "expected_economic_benefit_inr": 5026,
+    "enforcement_benefit_score": 1.01
+  },
+  {
+    "hotspot_id": 54,
+    "road_name": "Dr BR Ambedkar Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 7.6,
+    "expected_economic_benefit_inr": 1747,
+    "enforcement_benefit_score": 0.35
+  },
+  {
+    "hotspot_id": 25,
+    "road_name": "Mumbai Bengaluru Highway",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 94.7,
+    "expected_economic_benefit_inr": 27572,
+    "enforcement_benefit_score": 5.51
+  },
+  {
+    "hotspot_id": 39,
+    "road_name": "Dr Siddaiah Puranik Marg",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 14.7,
+    "expected_economic_benefit_inr": 3390,
+    "enforcement_benefit_score": 0.68
+  },
+  {
+    "hotspot_id": 64,
+    "road_name": "3rd Cross Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 8.3,
+    "expected_economic_benefit_inr": 1905,
+    "enforcement_benefit_score": 0.38
+  },
+  {
+    "hotspot_id": 43,
+    "road_name": "Chikkabellanduru Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 8.8,
+    "expected_economic_benefit_inr": 2032,
+    "enforcement_benefit_score": 0.41
+  },
+  {
+    "hotspot_id": 76,
+    "road_name": "9th Cross Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 13.2,
+    "expected_economic_benefit_inr": 3048,
+    "enforcement_benefit_score": 0.61
+  },
+  {
+    "hotspot_id": 30,
+    "road_name": "RV Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 14.1,
+    "expected_economic_benefit_inr": 3263,
+    "enforcement_benefit_score": 0.65
+  },
+  {
+    "hotspot_id": 70,
+    "road_name": "Shri Ramalingeshwara Cave Temple Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 9.7,
+    "expected_economic_benefit_inr": 2238,
+    "enforcement_benefit_score": 0.45
+  },
+  {
+    "hotspot_id": 74,
+    "road_name": "Allalasandra Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 13.7,
+    "expected_economic_benefit_inr": 3985,
+    "enforcement_benefit_score": 0.8
+  },
+  {
+    "hotspot_id": 88,
+    "road_name": "8th Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 9.9,
+    "expected_economic_benefit_inr": 2873,
+    "enforcement_benefit_score": 0.57
+  },
+  {
+    "hotspot_id": 29,
+    "road_name": "O Shaughnessy Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 12.7,
+    "expected_economic_benefit_inr": 2928,
+    "enforcement_benefit_score": 0.59
+  },
+  {
+    "hotspot_id": 21,
+    "road_name": "ITPL Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 91.8,
+    "expected_economic_benefit_inr": 26701,
+    "enforcement_benefit_score": 5.34
+  },
+  {
+    "hotspot_id": 35,
+    "road_name": "Whitefield Road",
+    "capacity_recovered_pct": 75.0,
+    "expected_delay_reduction_hours": 31.6,
+    "expected_economic_benefit_inr": 7931,
+    "enforcement_benefit_score": 1.59
+  },
+  {
+    "hotspot_id": 81,
+    "road_name": "1st Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 55.5,
+    "expected_economic_benefit_inr": 16146,
+    "enforcement_benefit_score": 3.23
+  },
+  {
+    "hotspot_id": 96,
+    "road_name": "Old Kanakapura Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 6.7,
+    "expected_economic_benefit_inr": 1541,
+    "enforcement_benefit_score": 0.31
+  },
+  {
+    "hotspot_id": 38,
+    "road_name": "Hosur Road",
+    "capacity_recovered_pct": 75.0,
+    "expected_delay_reduction_hours": 70.8,
+    "expected_economic_benefit_inr": 17765,
+    "enforcement_benefit_score": 3.55
+  },
+  {
+    "hotspot_id": 6,
+    "road_name": "Sahakar Nagar Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 21.2,
+    "expected_economic_benefit_inr": 4897,
+    "enforcement_benefit_score": 0.98
+  },
+  {
+    "hotspot_id": 42,
+    "road_name": "Amrutha College Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 13.0,
+    "expected_economic_benefit_inr": 3001,
+    "enforcement_benefit_score": 0.6
+  },
+  {
+    "hotspot_id": 7,
+    "road_name": "Sri Sri Sri Tiruchi Mahaswamiji Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 11.4,
+    "expected_economic_benefit_inr": 2621,
+    "enforcement_benefit_score": 0.52
+  },
+  {
+    "hotspot_id": 5,
+    "road_name": "New Horizon College Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 77.7,
+    "expected_economic_benefit_inr": 17927,
+    "enforcement_benefit_score": 3.59
+  },
+  {
+    "hotspot_id": 98,
+    "road_name": "Road Number 1",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 8.1,
+    "expected_economic_benefit_inr": 1874,
+    "enforcement_benefit_score": 0.37
+  },
+  {
+    "hotspot_id": 41,
+    "road_name": "Chikka Banavara RS Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 4.5,
+    "expected_economic_benefit_inr": 1041,
+    "enforcement_benefit_score": 0.21
+  },
+  {
+    "hotspot_id": 50,
+    "road_name": "Bellary Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 29.4,
+    "expected_economic_benefit_inr": 6796,
+    "enforcement_benefit_score": 1.36
+  },
+  {
+    "hotspot_id": 51,
+    "road_name": "4th Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 28.7,
+    "expected_economic_benefit_inr": 8348,
+    "enforcement_benefit_score": 1.67
+  },
+  {
+    "hotspot_id": 52,
+    "road_name": "Konanakunte Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 39.0,
+    "expected_economic_benefit_inr": 11338,
+    "enforcement_benefit_score": 2.27
+  },
+  {
+    "hotspot_id": 31,
+    "road_name": "Domlur Inner Ring Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 108.5,
+    "expected_economic_benefit_inr": 31580,
+    "enforcement_benefit_score": 6.32
+  },
+  {
+    "hotspot_id": 87,
+    "road_name": "Banaswadi Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 41.8,
+    "expected_economic_benefit_inr": 12149,
+    "enforcement_benefit_score": 2.43
+  },
+  {
+    "hotspot_id": 85,
+    "road_name": "Bannerghatta Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 38.3,
+    "expected_economic_benefit_inr": 11142,
+    "enforcement_benefit_score": 2.23
+  },
+  {
+    "hotspot_id": 18,
+    "road_name": "Bellary Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 21.2,
+    "expected_economic_benefit_inr": 4897,
+    "enforcement_benefit_score": 0.98
+  },
+  {
+    "hotspot_id": 11,
+    "road_name": "Neeladri Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 17.3,
+    "expected_economic_benefit_inr": 3985,
+    "enforcement_benefit_score": 0.8
+  },
+  {
+    "hotspot_id": 72,
+    "road_name": "Hosur Road",
+    "capacity_recovered_pct": 75.0,
+    "expected_delay_reduction_hours": 22.3,
+    "expected_economic_benefit_inr": 5590,
+    "enforcement_benefit_score": 1.12
+  },
+  {
+    "hotspot_id": 94,
+    "road_name": "Siddhapura Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 6.8,
+    "expected_economic_benefit_inr": 1579,
+    "enforcement_benefit_score": 0.32
+  },
+  {
+    "hotspot_id": 13,
+    "road_name": "Unnamed Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 29.2,
+    "expected_economic_benefit_inr": 6749,
+    "enforcement_benefit_score": 1.35
+  },
+  {
+    "hotspot_id": 19,
+    "road_name": "Coles Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 24.1,
+    "expected_economic_benefit_inr": 5564,
+    "enforcement_benefit_score": 1.11
+  },
+  {
+    "hotspot_id": 2,
+    "road_name": "5th Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 52.1,
+    "expected_economic_benefit_inr": 15173,
+    "enforcement_benefit_score": 3.03
+  },
+  {
+    "hotspot_id": 3,
+    "road_name": "Srinivagilu Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 67.9,
+    "expected_economic_benefit_inr": 19747,
+    "enforcement_benefit_score": 3.95
+  },
+  {
+    "hotspot_id": 47,
+    "road_name": "Outer Ring Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 154.8,
+    "expected_economic_benefit_inr": 45046,
+    "enforcement_benefit_score": 9.01
+  },
+  {
+    "hotspot_id": 68,
+    "road_name": "Hosa Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 14.3,
+    "expected_economic_benefit_inr": 3295,
+    "enforcement_benefit_score": 0.66
+  },
+  {
+    "hotspot_id": 15,
+    "road_name": "Sri DV Gundappa Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 14.7,
+    "expected_economic_benefit_inr": 3390,
+    "enforcement_benefit_score": 0.68
+  },
+  {
+    "hotspot_id": 66,
+    "road_name": "ITPL Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 79.0,
+    "expected_economic_benefit_inr": 22987,
+    "enforcement_benefit_score": 4.6
+  },
+  {
+    "hotspot_id": 56,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 13.5,
+    "expected_economic_benefit_inr": 3121,
+    "enforcement_benefit_score": 0.62
+  },
+  {
+    "hotspot_id": 12,
+    "road_name": "Magadi Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 49.0,
+    "expected_economic_benefit_inr": 14272,
+    "enforcement_benefit_score": 2.85
+  },
+  {
+    "hotspot_id": 71,
+    "road_name": "RT Nagar Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 64.5,
+    "expected_economic_benefit_inr": 18763,
+    "enforcement_benefit_score": 3.75
+  },
+  {
+    "hotspot_id": 95,
+    "road_name": "Old Airport Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 6.6,
+    "expected_economic_benefit_inr": 1532,
+    "enforcement_benefit_score": 0.31
+  },
+  {
+    "hotspot_id": 62,
+    "road_name": "Mysore Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 10.5,
+    "expected_economic_benefit_inr": 2427,
+    "enforcement_benefit_score": 0.49
+  },
+  {
+    "hotspot_id": 92,
+    "road_name": "Jalahalli Cross Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 14.7,
+    "expected_economic_benefit_inr": 3380,
+    "enforcement_benefit_score": 0.68
+  },
+  {
+    "hotspot_id": 40,
+    "road_name": "Bagaluru Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 50.3,
+    "expected_economic_benefit_inr": 14645,
+    "enforcement_benefit_score": 2.93
+  },
+  {
+    "hotspot_id": 45,
+    "road_name": "20th Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 148.8,
+    "expected_economic_benefit_inr": 43296,
+    "enforcement_benefit_score": 8.66
+  },
+  {
+    "hotspot_id": 90,
+    "road_name": "C Chowdappa Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 95.2,
+    "expected_economic_benefit_inr": 27700,
+    "enforcement_benefit_score": 5.54
+  },
+  {
+    "hotspot_id": 93,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 5.9,
+    "expected_economic_benefit_inr": 1358,
+    "enforcement_benefit_score": 0.27
+  },
+  {
+    "hotspot_id": 16,
+    "road_name": "Sarjapura Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 60.7,
+    "expected_economic_benefit_inr": 17651,
+    "enforcement_benefit_score": 3.53
+  },
+  {
+    "hotspot_id": 24,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 11.5,
+    "expected_economic_benefit_inr": 2642,
+    "enforcement_benefit_score": 0.53
+  },
+  {
+    "hotspot_id": 48,
+    "road_name": "80 Feet Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 18.8,
+    "expected_economic_benefit_inr": 4333,
+    "enforcement_benefit_score": 0.87
+  },
+  {
+    "hotspot_id": 53,
+    "road_name": "Jakkur Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 39.1,
+    "expected_economic_benefit_inr": 11365,
+    "enforcement_benefit_score": 2.27
+  },
+  {
+    "hotspot_id": 99,
+    "road_name": "Mysore Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 6.5,
+    "expected_economic_benefit_inr": 1510,
+    "enforcement_benefit_score": 0.3
+  },
+  {
+    "hotspot_id": 44,
+    "road_name": "CMR Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 10.1,
+    "expected_economic_benefit_inr": 2332,
+    "enforcement_benefit_score": 0.47
+  },
+  {
+    "hotspot_id": 80,
+    "road_name": "J Lingaiah Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 13.8,
+    "expected_economic_benefit_inr": 3190,
+    "enforcement_benefit_score": 0.64
+  },
+  {
+    "hotspot_id": 79,
+    "road_name": "Mumbai Bengaluru Highway",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 90.4,
+    "expected_economic_benefit_inr": 26305,
+    "enforcement_benefit_score": 5.26
+  },
+  {
+    "hotspot_id": 58,
+    "road_name": "Bellary Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 15.6,
+    "expected_economic_benefit_inr": 3605,
+    "enforcement_benefit_score": 0.72
+  },
+  {
+    "hotspot_id": 89,
+    "road_name": "Hosur Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 11.2,
+    "expected_economic_benefit_inr": 2595,
+    "enforcement_benefit_score": 0.52
+  },
+  {
+    "hotspot_id": 10,
+    "road_name": "4th Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 38.6,
+    "expected_economic_benefit_inr": 11244,
+    "enforcement_benefit_score": 2.25
+  },
+  {
+    "hotspot_id": 67,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 4.6,
+    "expected_economic_benefit_inr": 1063,
+    "enforcement_benefit_score": 0.21
+  },
+  {
+    "hotspot_id": 28,
+    "road_name": "Gnana Bharathi Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 20.5,
+    "expected_economic_benefit_inr": 4738,
+    "enforcement_benefit_score": 0.95
+  },
+  {
+    "hotspot_id": 9,
+    "road_name": "Bengaluru Bellary Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 11.4,
+    "expected_economic_benefit_inr": 2627,
+    "enforcement_benefit_score": 0.53
+  },
+  {
+    "hotspot_id": 77,
+    "road_name": "Outer Ring Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 41.3,
+    "expected_economic_benefit_inr": 12021,
+    "enforcement_benefit_score": 2.4
+  },
+  {
+    "hotspot_id": 17,
+    "road_name": "MBT Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 27.9,
+    "expected_economic_benefit_inr": 6438,
+    "enforcement_benefit_score": 1.29
+  },
+  {
+    "hotspot_id": 33,
+    "road_name": "Sarjapura Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 34.9,
+    "expected_economic_benefit_inr": 10143,
+    "enforcement_benefit_score": 2.03
+  },
+  {
+    "hotspot_id": 97,
+    "road_name": "27th Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 30.3,
+    "expected_economic_benefit_inr": 8808,
+    "enforcement_benefit_score": 1.76
+  },
+  {
+    "hotspot_id": 91,
+    "road_name": "Jayamahal Main Road",
+    "capacity_recovered_pct": 85.0,
+    "expected_delay_reduction_hours": 36.3,
+    "expected_economic_benefit_inr": 10554,
+    "enforcement_benefit_score": 2.11
+  },
+  {
+    "hotspot_id": 73,
+    "road_name": "Bhadrappa Flyover",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 13.4,
+    "expected_economic_benefit_inr": 3095,
+    "enforcement_benefit_score": 0.62
+  },
+  {
+    "hotspot_id": 22,
+    "road_name": "Marathahalli Underpass",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 18.4,
+    "expected_economic_benefit_inr": 4248,
+    "enforcement_benefit_score": 0.85
+  },
+  {
+    "hotspot_id": 75,
+    "road_name": "1st Cross Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 6.7,
+    "expected_economic_benefit_inr": 1541,
+    "enforcement_benefit_score": 0.31
+  },
+  {
+    "hotspot_id": 27,
+    "road_name": "Konadasapura Cross Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 2.6,
+    "expected_economic_benefit_inr": 610,
+    "enforcement_benefit_score": 0.12
+  },
+  {
+    "hotspot_id": 82,
+    "road_name": "7th Cross Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 11.6,
+    "expected_economic_benefit_inr": 2684,
+    "enforcement_benefit_score": 0.54
+  },
+  {
+    "hotspot_id": 20,
+    "road_name": "17th Cross Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 27.8,
+    "expected_economic_benefit_inr": 6413,
+    "enforcement_benefit_score": 1.28
+  },
+  {
+    "hotspot_id": 46,
+    "road_name": "18th Cross Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 7.1,
+    "expected_economic_benefit_inr": 1636,
+    "enforcement_benefit_score": 0.33
+  },
+  {
+    "hotspot_id": 63,
+    "road_name": "1st Cross Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 13.3,
+    "expected_economic_benefit_inr": 3064,
+    "enforcement_benefit_score": 0.61
+  },
+  {
+    "hotspot_id": 84,
+    "road_name": "5th Cross Road",
+    "capacity_recovered_pct": 60.0,
+    "expected_delay_reduction_hours": 13.7,
+    "expected_economic_benefit_inr": 3153,
+    "enforcement_benefit_score": 0.63
+  }
+]

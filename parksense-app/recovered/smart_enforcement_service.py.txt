@@ -1,0 +1,78 @@
+import os
+import json
+from datetime import datetime
+from typing import List, Dict, Any
+
+from ..models.smart_enforcement_intelligence import SmartEnforcementIntelligence
+from ..services.csi_service import CSI_JSON_PATH
+from ..services.pis_service import PIS_JSON_PATH
+from ..services.prediction_service import PREDICTIONS_JSON_PATH
+from ..services.digital_twin_service import SIMULATION_RESULTS_PATH
+
+from ..ai.enforcement_priority_engine import EnforcementPriorityEngine
+from ..ai.time_window_engine import TimeWindowEngine
+from ..ai.scenario_selection_engine import ScenarioSelectionEngine
+from ..ai.resource_allocation_engine import ResourceAllocationEngine
+from ..ai.patrol_optimization_engine import PatrolOptimizationEngine
+from ..ai.enforcement_explainability_engine import EnforcementExplainabilityEngine
+from ..ai.daily_enforcement_engine import DailyEnforcementEngine
+from ..ai.weekly_strategy_engine import WeeklyStrategyEngine
+
+ENFORCEMENT_PLAN_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'processed', 'enforcement_plan.json')
+DAILY_PLAN_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'processed', 'daily_plan.json')
+WEEKLY_STRATEGY_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'processed', 'weekly_strategy.json')
+
+class SmartEnforcementService:
+    """
+    Orchestrator for the Smart Enforcement Planner (SEP).
+    Combines intelligence to build physical patrol schedules.
+    """
+
+    @staticmethod
+ 
+<truncated 5665 bytes>
+ # 6. Daily Plan
+        daily_plan = DailyEnforcementEngine.compile_plan(optimized_routes)
+        
+        # 7. Weekly Strategy
+        weekly_plan = WeeklyStrategyEngine.compile_strategy([daily_plan])
+        
+        # Save Outputs
+        os.makedirs(os.path.dirname(ENFORCEMENT_PLAN_PATH), exist_ok=True)
+        
+        with open(ENFORCEMENT_PLAN_PATH, 'w') as f:
+            json.dump(enforcement_objects, f, indent=2, default=str)
+        with open(DAILY_PLAN_PATH, 'w') as f:
+            json.dump(daily_plan, f, indent=2, default=str)
+        with open(WEEKLY_STRATEGY_PATH, 'w') as f:
+            json.dump(weekly_plan, f, indent=2, default=str)
+            
+        print(f"Smart Enforcement Planner generated {len(enforcement_objects)} prioritized orders across {available_teams} teams.")
+        return enforcement_objects
+
+    @staticmethod
+    def get_enforcement_plan() -> List[Dict[str, Any]]:
+        if not os.path.exists(ENFORCEMENT_PLAN_PATH):
+            SmartEnforcementService.generate_all()
+        with open(ENFORCEMENT_PLAN_PATH, 'r') as f:
+            return json.load(f)
+            
+    @staticmethod
+    def get_daily_plan() -> Dict[str, Any]:
+        if not os.path.exists(DAILY_PLAN_PATH):
+            SmartEnforcementService.generate_all()
+        with open(DAILY_PLAN_PATH, 'r') as f:
+            return json.load(f)
+            
+    @staticmethod
+    def get_weekly_plan() -> Dict[str, Any]:
+        if not os.path.exists(WEEKLY_STRATEGY_PATH):
+            SmartEnforcementService.generate_all()
+        with open(WEEKLY_STRATEGY_PATH, 'r') as f:
+            return json.load(f)
+
+def csi_map(csi_data, hid):
+    for c in csi_data:
+        if c['hotspot_id'] == hid:
+            return c
+    return {}

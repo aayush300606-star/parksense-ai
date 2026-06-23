@@ -1,0 +1,86 @@
+{
+  "total_hotspots_analyzed": 100,
+  "csi_statistics": {
+    "mean": 57.95,
+    "median": 56.63,
+    "min": 50.15,
+    "max": 67.61,
+    "std_dev": 3.7
+  },
+  "priority_statistics": {
+    "mean": 71.17,
+    "median": 71.5,
+    "min": 67.8,
+    "max": 87.4
+  },
+  "csi_severity_distribution": {
+    "Unknown": 100
+  },
+  "priority_distribution": {
+    "P1 - Critical Priority": 1,
+    "P2 - High Priority": 99
+  },
+  "road_hierarchy_analysis": {
+    "Major Arterial": {
+      "count": 36,
+      "avg_csi": 58.82
+    },
+    "Residential": {
+      "count": 59,
+      "avg_csi": 57.33
+    },
+    "Collector": {
+      "count": 5,
+      "avg_csi": 59.12
+    }
+  },
+  "total_annual_delay_vehicle_hours": 2942737.0,
+  "emergency_route_hotspots": 1,
+  "top_5_worst_hotspots": [
+    {
+      "rank": 1,
+      "hotspot_id": 32,
+      "road_name": "Konanakunte Main Road",
+      "csi_score": 67.61,
+      "priority_level": "P1 - Critical Priority"
+    },
+    {
+      "rank": 2,
+      "hotspot_id": 36,
+      "road_name": "Pusa Thippasandra Main Road",
+      "csi_score": 66.81,
+      "priority_level": "P2 - High Priority"
+    },
+    {
+      "rank": 3,
+      "hotspot_id": 0,
+      "road_name": "5th Main Road",
+      "csi_score": 66.75,
+      "priority_level": "P2 - High Priority"
+    },
+    {
+      "rank": 4,
+      "hotspot_id": 49,
+      "road_name": "3rd A Cross Road",
+      "csi_score": 66.65,
+      "priority_level": "P2 - High Priority"
+    },
+    {
+      "rank": 5,
+      "hotspot_id": 4,
+      "road_name": "5th Main Road",
+      "csi_score": 66.28,
+      "priority_level": "P2 - High Priority"
+    }
+  ],
+  "adaptive_weighting_stats": {
+    "adaptive_profiles": 93,
+    "base_profiles": 7,
+    "adaptive_percentage": 93.0
+  },
+  "dominant_factor_distribution": {
+    "traffic_impact": 86,
+    "junction_influence": 4,
+    "capacity_loss": 10
+  }
+}

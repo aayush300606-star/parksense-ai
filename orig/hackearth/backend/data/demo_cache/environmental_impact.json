@@ -1,0 +1,702 @@
+[
+  {
+    "hotspot_id": 32,
+    "road_name": "Konanakunte Main Road",
+    "fuel_wasted_liters": 237.5,
+    "co2_emissions_kg": 558.1,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 36,
+    "road_name": "Pusa Thippasandra Main Road",
+    "fuel_wasted_liters": 88.2,
+    "co2_emissions_kg": 207.3,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 0,
+    "road_name": "5th Main Road",
+    "fuel_wasted_liters": 1086.7,
+    "co2_emissions_kg": 2553.7,
+    "environmental_level": "Moderate"
+  },
+  {
+    "hotspot_id": 49,
+    "road_name": "3rd A Cross Road",
+    "fuel_wasted_liters": 2.6,
+    "co2_emissions_kg": 6.1,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 4,
+    "road_name": "5th Main Road",
+    "fuel_wasted_liters": 358.6,
+    "co2_emissions_kg": 842.7,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 69,
+    "road_name": "Chinmaya Mission Hospital Road",
+    "fuel_wasted_liters": 22.7,
+    "co2_emissions_kg": 53.3,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 60,
+    "road_name": "3rd Main Road",
+    "fuel_wasted_liters": 75.6,
+    "co2_emissions_kg": 177.7,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 57,
+    "road_name": "Sarjapura Main Road",
+    "fuel_wasted_liters": 104.5,
+    "co2_emissions_kg": 245.6,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 86,
+    "road_name": "28th Main Road",
+    "fuel_wasted_liters": 99.2,
+    "co2_emissions_kg": 233.1,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 37,
+    "road_name": "Kodigehalli Main Road",
+    "fuel_wasted_liters": 18.2,
+    "co2_emissions_kg": 42.8,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 26,
+    "road_name": "Mysore Road",
+    "fuel_wasted_liters": 27.3,
+    "co2_emissions_kg": 64.2,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 34,
+    "road_name": "Mallathahalli Road",
+    "fuel_wasted_liters": 11.5,
+    "co2_emissions_kg": 27.0,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 8,
+    "road_name": "Kamaraj Road",
+    "fuel_wasted_liters": 95.0,
+    "co2_emissions_kg": 223.2,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 23,
+    "road_name": "Whitefield Road",
+    "fuel_wasted_liters": 65.5,
+    "co2_emissions_kg": 153.9,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 78,
+    "road_name": "Vibgyor High School Road",
+    "fuel_wasted_liters": 7.3,
+    "co2_emissions_kg": 17.2,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 1,
+    "road_name": "80 Feet Ring Road",
+    "fuel_wasted_liters": 962.5,
+    "co2_emissions_kg": 2261.9,
+    "environmental_level": "Moderate"
+  },
+  {
+    "hotspot_id": 55,
+    "road_name": "Professor K Venkatachalam Circle",
+    "fuel_wasted_liters": 10.1,
+    "co2_emissions_kg": 23.7,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 65,
+    "road_name": "Hosur Road",
+    "fuel_wasted_liters": 24.0,
+    "co2_emissions_kg": 56.4,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 83,
+    "road_name": "MS Ramaiah Road",
+    "fuel_wasted_liters": 16.4,
+    "co2_emissions_kg": 38.5,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 61,
+    "road_name": "Old Airport Road",
+    "fuel_wasted_liters": 7.3,
+    "co2_emissions_kg": 17.2,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 59,
+    "road_name": "Dr Vishwesha Teertha Swamy Gala Road",
+    "fuel_wasted_liters": 9.9,
+    "co2_emissions_kg": 23.3,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 14,
+    "road_name": "Palace Road",
+    "fuel_wasted_liters": 32.2,
+    "co2_emissions_kg": 75.7,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 54,
+    "road_name": "Dr BR Ambedkar Road",
+    "fuel_wasted_liters": 11.2,
+    "co2_emissions_kg": 26.3,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 25,
+    "road_name": "Mumbai Bengaluru Highway",
+    "fuel_wasted_liters": 261.0,
+    "co2_emissions_kg": 613.4,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 39,
+    "road_name": "Dr Siddaiah Puranik Marg",
+    "fuel_wasted_liters": 21.7,
+    "co2_emissions_kg": 51.0,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 64,
+    "road_name": "3rd Cross Road",
+    "fuel_wasted_liters": 12.2,
+    "co2_emissions_kg": 28.7,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 43,
+    "road_name": "Chikkabellanduru Road",
+    "fuel_wasted_liters": 13.0,
+    "co2_emissions_kg": 30.6,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 76,
+    "road_name": "9th Cross Road",
+    "fuel_wasted_liters": 19.5,
+    "co2_emissions_kg": 45.8,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 30,
+    "road_name": "RV Road",
+    "fuel_wasted_liters": 20.9,
+    "co2_emissions_kg": 49.1,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 70,
+    "road_name": "Shri Ramalingeshwara Cave Temple Road",
+    "fuel_wasted_liters": 14.3,
+    "co2_emissions_kg": 33.6,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 74,
+    "road_name": "Allalasandra Main Road",
+    "fuel_wasted_liters": 37.7,
+    "co2_emissions_kg": 88.6,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 88,
+    "road_name": "8th Main Road",
+    "fuel_wasted_liters": 27.2,
+    "co2_emissions_kg": 63.9,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 29,
+    "road_name": "O Shaughnessy Road",
+    "fuel_wasted_liters": 18.7,
+    "co2_emissions_kg": 43.9,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 21,
+    "road_name": "ITPL Main Road",
+    "fuel_wasted_liters": 252.7,
+    "co2_emissions_kg": 593.8,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 35,
+    "road_name": "Whitefield Road",
+    "fuel_wasted_liters": 56.8,
+    "co2_emissions_kg": 133.5,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 81,
+    "road_name": "1st Main Road",
+    "fuel_wasted_liters": 152.8,
+    "co2_emissions_kg": 359.1,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 96,
+    "road_name": "Old Kanakapura Road",
+    "fuel_wasted_liters": 9.9,
+    "co2_emissions_kg": 23.3,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 38,
+    "road_name": "Hosur Road",
+    "fuel_wasted_liters": 127.2,
+    "co2_emissions_kg": 298.9,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 6,
+    "road_name": "Sahakar Nagar Road",
+    "fuel_wasted_liters": 31.3,
+    "co2_emissions_kg": 73.6,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 42,
+    "road_name": "Amrutha College Road",
+    "fuel_wasted_liters": 19.2,
+    "co2_emissions_kg": 45.1,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 7,
+    "road_name": "Sri Sri Sri Tiruchi Mahaswamiji Road",
+    "fuel_wasted_liters": 16.8,
+    "co2_emissions_kg": 39.5,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 5,
+    "road_name": "New Horizon College Road",
+    "fuel_wasted_liters": 114.7,
+    "co2_emissions_kg": 269.5,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 98,
+    "road_name": "Road Number 1",
+    "fuel_wasted_liters": 12.0,
+    "co2_emissions_kg": 28.2,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 41,
+    "road_name": "Chikka Banavara RS Road",
+    "fuel_wasted_liters": 6.7,
+    "co2_emissions_kg": 15.7,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 50,
+    "road_name": "Bellary Road",
+    "fuel_wasted_liters": 43.5,
+    "co2_emissions_kg": 102.2,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 51,
+    "road_name": "4th Main Road",
+    "fuel_wasted_liters": 79.0,
+    "co2_emissions_kg": 185.7,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 52,
+    "road_name": "Konanakunte Main Road",
+    "fuel_wasted_liters": 107.3,
+    "co2_emissions_kg": 252.2,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 31,
+    "road_name": "Domlur Inner Ring Road",
+    "fuel_wasted_liters": 298.9,
+    "co2_emissions_kg": 702.4,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 87,
+    "road_name": "Banaswadi Main Road",
+    "fuel_wasted_liters": 115.0,
+    "co2_emissions_kg": 270.2,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 85,
+    "road_name": "Bannerghatta Main Road",
+    "fuel_wasted_liters": 105.5,
+    "co2_emissions_kg": 247.9,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 18,
+    "road_name": "Bellary Road",
+    "fuel_wasted_liters": 31.3,
+    "co2_emissions_kg": 73.6,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 11,
+    "road_name": "Neeladri Road",
+    "fuel_wasted_liters": 25.5,
+    "co2_emissions_kg": 59.9,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 72,
+    "road_name": "Hosur Road",
+    "fuel_wasted_liters": 40.0,
+    "co2_emissions_kg": 94.0,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 94,
+    "road_name": "Siddhapura Road",
+    "fuel_wasted_liters": 10.1,
+    "co2_emissions_kg": 23.7,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 13,
+    "road_name": "Unnamed Road",
+    "fuel_wasted_liters": 43.2,
+    "co2_emissions_kg": 101.5,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 19,
+    "road_name": "Coles Road",
+    "fuel_wasted_liters": 35.6,
+    "co2_emissions_kg": 83.7,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 2,
+    "road_name": "5th Main Road",
+    "fuel_wasted_liters": 143.6,
+    "co2_emissions_kg": 337.5,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 3,
+    "road_name": "Srinivagilu Main Road",
+    "fuel_wasted_liters": 186.9,
+    "co2_emissions_kg": 439.2,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 47,
+    "road_name": "Outer Ring Road",
+    "fuel_wasted_liters": 426.4,
+    "co2_emissions_kg": 1002.0,
+    "environmental_level": "Low"
+  },
+  {
+    "hotspot_id": 68,
+    "road_name": "Hosa Road",
+    "fuel_wasted_liters": 21.1,
+    "co2_emissions_kg": 49.6,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 15,
+    "road_name": "Sri DV Gundappa Road",
+    "fuel_wasted_liters": 21.7,
+    "co2_emissions_kg": 51.0,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 66,
+    "road_name": "ITPL Main Road",
+    "fuel_wasted_liters": 217.6,
+    "co2_emissions_kg": 511.4,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 56,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "fuel_wasted_liters": 20.0,
+    "co2_emissions_kg": 47.0,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 12,
+    "road_name": "Magadi Main Road",
+    "fuel_wasted_liters": 135.1,
+    "co2_emissions_kg": 317.5,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 71,
+    "road_name": "RT Nagar Main Road",
+    "fuel_wasted_liters": 177.6,
+    "co2_emissions_kg": 417.4,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 95,
+    "road_name": "Old Airport Road",
+    "fuel_wasted_liters": 9.8,
+    "co2_emissions_kg": 23.0,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 62,
+    "road_name": "Mysore Road",
+    "fuel_wasted_liters": 15.5,
+    "co2_emissions_kg": 36.4,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 92,
+    "road_name": "Jalahalli Cross Road",
+    "fuel_wasted_liters": 21.6,
+    "co2_emissions_kg": 50.8,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 40,
+    "road_name": "Bagaluru Main Road",
+    "fuel_wasted_liters": 138.6,
+    "co2_emissions_kg": 325.7,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 45,
+    "road_name": "20th Main Road",
+    "fuel_wasted_liters": 409.8,
+    "co2_emissions_kg": 963.0,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 90,
+    "road_name": "C Chowdappa Main Road",
+    "fuel_wasted_liters": 262.2,
+    "co2_emissions_kg": 616.2,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 93,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "fuel_wasted_liters": 8.7,
+    "co2_emissions_kg": 20.4,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 16,
+    "road_name": "Sarjapura Main Road",
+    "fuel_wasted_liters": 167.1,
+    "co2_emissions_kg": 392.7,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 24,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "fuel_wasted_liters": 16.9,
+    "co2_emissions_kg": 39.7,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 48,
+    "road_name": "80 Feet Road",
+    "fuel_wasted_liters": 27.7,
+    "co2_emissions_kg": 65.1,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 53,
+    "road_name": "Jakkur Main Road",
+    "fuel_wasted_liters": 107.6,
+    "co2_emissions_kg": 252.9,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 99,
+    "road_name": "Mysore Road",
+    "fuel_wasted_liters": 9.7,
+    "co2_emissions_kg": 22.8,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 44,
+    "road_name": "CMR Road",
+    "fuel_wasted_liters": 14.9,
+    "co2_emissions_kg": 35.0,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 80,
+    "road_name": "J Lingaiah Road",
+    "fuel_wasted_liters": 20.4,
+    "co2_emissions_kg": 47.9,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 79,
+    "road_name": "Mumbai Bengaluru Highway",
+    "fuel_wasted_liters": 249.0,
+    "co2_emissions_kg": 585.1,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 58,
+    "road_name": "Bellary Road",
+    "fuel_wasted_liters": 23.1,
+    "co2_emissions_kg": 54.3,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 89,
+    "road_name": "Hosur Road",
+    "fuel_wasted_liters": 16.6,
+    "co2_emissions_kg": 39.0,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 10,
+    "road_name": "4th Main Road",
+    "fuel_wasted_liters": 106.4,
+    "co2_emissions_kg": 250.0,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 67,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "fuel_wasted_liters": 6.8,
+    "co2_emissions_kg": 16.0,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 28,
+    "road_name": "Gnana Bharathi Road",
+    "fuel_wasted_liters": 30.3,
+    "co2_emissions_kg": 71.2,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 9,
+    "road_name": "Bengaluru Bellary Road",
+    "fuel_wasted_liters": 16.8,
+    "co2_emissions_kg": 39.5,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 77,
+    "road_name": "Outer Ring Road",
+    "fuel_wasted_liters": 113.8,
+    "co2_emissions_kg": 267.4,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 17,
+    "road_name": "MBT Road",
+    "fuel_wasted_liters": 41.2,
+    "co2_emissions_kg": 96.8,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 33,
+    "road_name": "Sarjapura Main Road",
+    "fuel_wasted_liters": 96.0,
+    "co2_emissions_kg": 225.6,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 97,
+    "road_name": "27th Main Road",
+    "fuel_wasted_liters": 83.4,
+    "co2_emissions_kg": 196.0,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 91,
+    "road_name": "Jayamahal Main Road",
+    "fuel_wasted_liters": 99.9,
+    "co2_emissions_kg": 234.8,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 73,
+    "road_name": "Bhadrappa Flyover",
+    "fuel_wasted_liters": 19.8,
+    "co2_emissions_kg": 46.5,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 22,
+    "road_name": "Marathahalli Underpass",
+    "fuel_wasted_liters": 27.2,
+    "co2_emissions_kg": 63.9,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 75,
+    "road_name": "1st Cross Road",
+    "fuel_wasted_liters": 9.9,
+    "co2_emissions_kg": 23.3,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 27,
+    "road_name": "Konadasapura Cross Road",
+    "fuel_wasted_liters": 3.9,
+    "co2_emissions_kg": 9.2,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 82,
+    "road_name": "7th Cross Road",
+    "fuel_wasted_liters": 17.2,
+    "co2_emissions_kg": 40.4,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 20,
+    "road_name": "17th Cross Road",
+    "fuel_wasted_liters": 41.0,
+    "co2_emissions_kg": 96.4,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 46,
+    "road_name": "18th Cross Road",
+    "fuel_wasted_liters": 10.5,
+    "co2_emissions_kg": 24.7,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 63,
+    "road_name": "1st Cross Road",
+    "fuel_wasted_liters": 19.6,
+    "co2_emissions_kg": 46.1,
+    "environmental_level": "Minimal"
+  },
+  {
+    "hotspot_id": 84,
+    "road_name": "5th Cross Road",
+    "fuel_wasted_liters": 20.2,
+    "co2_emissions_kg": 47.5,
+    "environmental_level": "Minimal"
+  }
+]

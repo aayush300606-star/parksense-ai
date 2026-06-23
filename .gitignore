@@ -1,0 +1,40 @@
+# Root-level .gitignore for hackearth project
+
+# Raw data - too large for git (109MB CSV)
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Python virtual environments
+venv/
+env/
+.venv/
+python/
+
+# Backend processed data - KEEP processed JSON files (they are pre-computed artifacts)
+# Do NOT ignore backend/data/processed/*.json - these are needed for production
+backend/data/uploads/*
+!backend/data/uploads/.gitkeep
+
+# Node / frontend (managed by parksense-app/.gitignore)
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.bak

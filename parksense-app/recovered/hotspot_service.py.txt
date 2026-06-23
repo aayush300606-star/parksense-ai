@@ -1,0 +1,81 @@
+import os
+import json
+from typing import List, Dict, Any
+from ..models.hotspot import Hotspot
+from ..ai.violation_density import DENSITY_JSON_PATH
+
+class HotspotService:
+    @staticmethod
+    def get_all_hotspots() -> List[Hotspot]:
+        """
+        Loads and returns all standardized hotspots.
+        """
+        if not os.path.exists(DENSITY_JSON_PATH):
+            return []
+            
+        with open(DENSITY_JSON_PATH, 'r') as f:
+            data = json.load(f)
+            
+        return [Hotspot(**h) for h in data]
+        
+    @staticmethod
+    def get_hotspot_by_id(hotspot_id: int) -> Hotspot:
+        """
+        Returns a specific hotspot by ID.
+        """
+        hotspots = HotspotService.get_all_hotspots()
+        for h in hotspots:
+            if h.hotspot_id == hotspot_id:
+                return h
+        return None
+        
+    @staticmethod
+    def get_violation_density_analytics() -> Dict[str, Any]:
+        """
+        Returns analytics about violation density across all hotspots.
+        """
+        hotspots = HotspotService.get_all_hotspots()
+        if not hotspots:
+            return {}
+            
+        densities = [h.violation_density for h in hotspots]
+        scores = [h.violation_density_score for h in hotspots]
+        
+        return {
+            "total_hotspots": len(hotspots),
+            "average_density_score": sum(scores) / len(scores),
+         
+<truncated 870 bytes>
+ List[Dict[str, Any]]:
+        """
+        Maps the standard Hotspot model into the legacy format expected by the current Next.js frontend,
+        without using any mocked/random values. It derives necessary fields mathematically.
+        """
+        hotspots = HotspotService.get_all_hotspots()
+        legacy_format = []
+        
+        for h in hotspots:
+            # Map the robust ML fields into the format Next.js uses
+            legacy = {
+                "id": h.hotspot_id,
+                "lat": h.latitude,
+                "lng": h.longitude,
+                "count": h.violations,
+                "csi": h.violation_density_score,  # Replaces mocked CSI with true density score
+                "violation_density": h.violation_density_score,
+                # These were previously mocked. Now derived logically based on density to keep UI working
+                "traffic_slowdown": h.violation_density_score * 0.8, 
+                "lane_blockage": min(100.0, h.violation_density_score * 0.6),
+                "proximity_junction": 50.0, # Neutral constant since we don't have junction data
+                "event_density": 0.0, 
+                "top_violation": f'["{h.top_violation}"]',
+                "location_name": h.location_name,
+                "severity": "Critical" if h.violation_density_score > 75 else "High" if h.violation_density_score > 50 else "Medium" if h.violation_density_score > 25 else "Low",
+                # Logically derived delay instead of random
+                "delay_minutes": (h.violation_density_score / 10.0),
+                "width_loss_percent": min(100.0, h.violation_density_score * 0.6)
+            }
+            legacy_format.append(legacy)
+            
+        # Sort descending by severity
+        return sorted(legacy_format, key=lambda x: x['csi'], reverse=True)

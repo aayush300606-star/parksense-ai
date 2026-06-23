@@ -1,0 +1,2834 @@
+[
+  {
+    "hotspot_id": 32,
+    "road_name": "Konanakunte Main Road",
+    "road_hierarchy": "Major Arterial",
+    "latitude": 12.915287873096448,
+    "longitude": 77.57460192893402,
+    "csi_score": 67.61,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 1.48,
+      "capacity_loss": 100.0,
+      "traffic_impact": 84.8,
+      "junction_influence": 53.53,
+      "poi_density": 50.0,
+      "critical_infrastructure": 60.68,
+      "emergency_impact": 58.56
+    },
+    "component_weights": {
+      "violation_density": 0.0688,
+      "capacity_loss": 0.1889,
+      "traffic_impact": 0.2558,
+      "junction_influence": 0.2466,
+      "poi_density": 0.0587,
+      "critical_infrastructure": 0.0894,
+      "emergency_impact": 0.0917
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Transit Hub Proximity",
+      "Major Junction Proximity",
+      "Critical Intersection",
+      "Emergency Route Impact",
+      "Major Arterial Road",
+      "Signalized Junction"
+    ],
+    "adaptive_reasoning": [
+      "Transit hub nearby \u2014 public transport disruption amplified",
+      "Major junction within 50m \u2014 intersection queue spillback risk",
+      "Critical intersection \u2014 network-wide impact potential",
+      "Emergency route blocked \u2014 life-safety priority override",
+      "Major arterial \u2014 high traffic volume amplifies impact",
+      "Signalized junction nearby \u2014 signal cycle failure risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 84.8,
+        "weight": 0.2558,
+        "weighted_value": 21.69,
+        "percentage": 32.1
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1889,
+        "weighted_value": 18.89,
+        "percentage": 27.9
+      },
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 53.53,
+        "weight": 0.2466,
+        "weighted_value": 13.2,
+        "percentage": 19.5
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 60.68,
+        "weight": 0.0894,
+        "weighted_value": 5.42,
+        "percentage": 8.0
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 58.56,
+        "weight": 0.0917,
+        "weighted_value": 5.37,
+        "percentage": 7.9
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 50.0,
+        "weight": 0.0587,
+        "weighted_value": 2.94,
+        "percentage": 4.3
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 1.48,
+        "weight": 0.0688,
+        "weighted_value": 0.1,
+        "percentage": 0.1
+      }
+    ],
+    "dominant_factor": "traffic_impact",
+    "top_3_factors": [
+      "traffic_impact",
+      "capacity_loss",
+      "junction_influence"
+    ],
+    "priority_score": 87.4,
+    "priority_level": "P1 - Critical Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 36.9,
+    "daily_vehicles_affected": 175,
+    "annual_delay_savings_hours": 38528.1,
+    "enforcement_recommendation": "Deploy active towing and high-visibility patrols.",
+    "rank": 1,
+    "percentile": 99.0,
+    "tier": "Top 10%",
+    "violation_density_score": 1.4757329349221284,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 52.65,
+    "congestion_impact_score": 84.8,
+    "annual_delay_vehicle_hours": 64213.54,
+    "junction_type": "Signal Junction",
+    "junction_distance_m": 50.0,
+    "emergency_route_impact": true,
+    "violations": 197,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 1.51,
+    "human_explanation": "CSI = 68/100 (High, Orange). Ranked #1 of 100 citywide (top 1%). Reason: 52.6% traffic slowdown on Konanakunte Main Road (Major Arterial). 100% road capacity loss. Projected annual delay: 64.2K vehicle-hours. Signal Junction 50m away. EMERGENCY ROUTE IMPACT: Blocks likely emergency vehicle corridor. Adaptive weighting applied (Adaptive): Transit hub nearby \u2014 public transport disruption amplified; Major junction within 50m \u2014 intersection queue spillback risk; Critical intersection \u2014 network-wide impact potential. Enforcement Priority: 87/100 (P1 - Critical Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "52.6% Traffic Slowdown",
+      "Signal Junction 50m Away",
+      "Emergency Route Impact",
+      "Bus Station Nearby",
+      "Transit Hub Nearby",
+      "Traffic Flow Impact: 32% of CSI",
+      "Road Capacity Loss: 28% of CSI",
+      "Junction Influence: 20% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.8,
+    "generated_at": "2026-06-23 13:45:40.415866"
+  },
+  {
+    "hotspot_id": 36,
+    "road_name": "Pusa Thippasandra Main Road",
+    "road_hierarchy": "Major Arterial",
+    "latitude": 12.971758214285714,
+    "longitude": 77.65807568877551,
+    "csi_score": 66.81,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 20.33,
+      "capacity_loss": 100.0,
+      "traffic_impact": 81.05,
+      "junction_influence": 73.16,
+      "poi_density": 0.0,
+      "critical_infrastructure": 0.0,
+      "emergency_impact": 47.5
+    },
+    "component_weights": {
+      "violation_density": 0.0867,
+      "capacity_loss": 0.1832,
+      "traffic_impact": 0.2688,
+      "junction_influence": 0.3109,
+      "poi_density": 0.0463,
+      "critical_infrastructure": 0.0578,
+      "emergency_impact": 0.0463
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Major Junction Proximity",
+      "Critical Intersection",
+      "Major Arterial Road",
+      "Signalized Junction"
+    ],
+    "adaptive_reasoning": [
+      "Major junction within 50m \u2014 intersection queue spillback risk",
+      "Critical intersection \u2014 network-wide impact potential",
+      "Major arterial \u2014 high traffic volume amplifies impact",
+      "Signalized junction nearby \u2014 signal cycle failure risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 73.16,
+        "weight": 0.3109,
+        "weighted_value": 22.75,
+        "percentage": 34.1
+      },
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 81.05,
+        "weight": 0.2688,
+        "weighted_value": 21.79,
+        "percentage": 32.6
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1832,
+        "weighted_value": 18.32,
+        "percentage": 27.4
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 47.5,
+        "weight": 0.0463,
+        "weighted_value": 2.2,
+        "percentage": 3.3
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 20.33,
+        "weight": 0.0867,
+        "weighted_value": 1.76,
+        "percentage": 2.6
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 0.0,
+        "weight": 0.0463,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 0.0,
+        "weight": 0.0578,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      }
+    ],
+    "dominant_factor": "junction_influence",
+    "top_3_factors": [
+      "junction_influence",
+      "traffic_impact",
+      "capacity_loss"
+    ],
+    "priority_score": 72.5,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 36.9,
+    "daily_vehicles_affected": 65,
+    "annual_delay_savings_hours": 14303.1,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 2,
+    "percentile": 98.0,
+    "tier": "Top 10%",
+    "violation_density_score": 20.33380934573205,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 52.65,
+    "congestion_impact_score": 81.05,
+    "annual_delay_vehicle_hours": 23838.54,
+    "junction_type": "Traffic Circle",
+    "junction_distance_m": 25.0,
+    "emergency_route_impact": false,
+    "violations": 196,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 1.51,
+    "human_explanation": "CSI = 67/100 (High, Orange). Ranked #2 of 100 citywide (top 2%). Reason: 52.6% traffic slowdown on Pusa Thippasandra Main Road (Major Arterial). 100% road capacity loss. Projected annual delay: 23.8K vehicle-hours. Traffic Circle 25m away. Adaptive weighting applied (Adaptive): Major junction within 50m \u2014 intersection queue spillback risk; Critical intersection \u2014 network-wide impact potential; Major arterial \u2014 high traffic volume amplifies impact. Enforcement Priority: 72/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "52.6% Traffic Slowdown",
+      "Traffic Circle 25m Away",
+      "Junction Influence: 34% of CSI",
+      "Traffic Flow Impact: 33% of CSI",
+      "Road Capacity Loss: 27% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.84,
+    "generated_at": "2026-06-23 13:45:40.415866"
+  },
+  {
+    "hotspot_id": 0,
+    "road_name": "5th Main Road",
+    "road_hierarchy": "Major Arterial",
+    "latitude": 12.975399632274929,
+    "longitude": 77.57727021788268,
+    "csi_score": 66.75,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 8.01,
+      "capacity_loss": 100.0,
+      "traffic_impact": 84.8,
+      "junction_influence": 73.16,
+      "poi_density": 0.0,
+      "critical_infrastructure": 0.0,
+      "emergency_impact": 47.5
+    },
+    "component_weights": {
+      "violation_density": 0.0867,
+      "capacity_loss": 0.1832,
+      "traffic_impact": 0.2688,
+      "junction_influence": 0.3109,
+      "poi_density": 0.0463,
+      "critical_infrastructure": 0.0578,
+      "emergency_impact": 0.0463
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Major Junction Proximity",
+      "Critical Intersection",
+      "Major Arterial Road",
+      "Signalized Junction"
+    ],
+    "adaptive_reasoning": [
+      "Major junction within 50m \u2014 intersection queue spillback risk",
+      "Critical intersection \u2014 network-wide impact potential",
+      "Major arterial \u2014 high traffic volume amplifies impact",
+      "Signalized junction nearby \u2014 signal cycle failure risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 84.8,
+        "weight": 0.2688,
+        "weighted_value": 22.79,
+        "percentage": 34.1
+      },
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 73.16,
+        "weight": 0.3109,
+        "weighted_value": 22.75,
+        "percentage": 34.1
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1832,
+        "weighted_value": 18.32,
+        "percentage": 27.4
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 47.5,
+        "weight": 0.0463,
+        "weighted_value": 2.2,
+        "percentage": 3.3
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 8.01,
+        "weight": 0.0867,
+        "weighted_value": 0.69,
+        "percentage": 1.0
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 0.0,
+        "weight": 0.0463,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 0.0,
+        "weight": 0.0578,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      }
+    ],
+    "dominant_factor": "traffic_impact",
+    "top_3_factors": [
+      "traffic_impact",
+      "junction_influence",
+      "capacity_loss"
+    ],
+    "priority_score": 72.5,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 36.9,
+    "daily_vehicles_affected": 804,
+    "annual_delay_savings_hours": 176225.0,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 3,
+    "percentile": 97.0,
+    "tier": "Top 10%",
+    "violation_density_score": 8.012109408039233,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 52.65,
+    "congestion_impact_score": 84.8,
+    "annual_delay_vehicle_hours": 293708.33,
+    "junction_type": "Traffic Circle",
+    "junction_distance_m": 25.0,
+    "emergency_route_impact": false,
+    "violations": 13007,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 100.0,
+    "human_explanation": "CSI = 67/100 (High, Orange). Ranked #3 of 100 citywide (top 3%). Reason: 52.6% traffic slowdown on 5th Main Road (Major Arterial). 100% road capacity loss. Projected annual delay: 293.7K vehicle-hours. Traffic Circle 25m away. Adaptive weighting applied (Adaptive): Major junction within 50m \u2014 intersection queue spillback risk; Critical intersection \u2014 network-wide impact potential; Major arterial \u2014 high traffic volume amplifies impact. Enforcement Priority: 72/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "52.6% Traffic Slowdown",
+      "Traffic Circle 25m Away",
+      "Traffic Flow Impact: 34% of CSI",
+      "Junction Influence: 34% of CSI",
+      "Road Capacity Loss: 27% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.84,
+    "generated_at": "2026-06-23 13:45:40.415866"
+  },
+  {
+    "hotspot_id": 49,
+    "road_name": "3rd A Cross Road",
+    "road_hierarchy": "Residential",
+    "latitude": 13.099687268292683,
+    "longitude": 77.58868473170732,
+    "csi_score": 66.65,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 100.0,
+      "capacity_loss": 100.0,
+      "traffic_impact": 79.37,
+      "junction_influence": 28.65,
+      "poi_density": 0.0,
+      "critical_infrastructure": 0.0,
+      "emergency_impact": 30.0
+    },
+    "component_weights": {
+      "violation_density": 0.2011,
+      "capacity_loss": 0.2359,
+      "traffic_impact": 0.2234,
+      "junction_influence": 0.1072,
+      "poi_density": 0.0715,
+      "critical_infrastructure": 0.0894,
+      "emergency_impact": 0.0715
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "High Violation Density"
+    ],
+    "adaptive_reasoning": [
+      "Extreme violation clustering \u2014 systemic enforcement failure"
+    ],
+    "component_contributions": [
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.2359,
+        "weighted_value": 23.59,
+        "percentage": 35.4
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 100.0,
+        "weight": 0.2011,
+        "weighted_value": 20.11,
+        "percentage": 30.2
+      },
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 79.37,
+        "weight": 0.2234,
+        "weighted_value": 17.73,
+        "percentage": 26.6
+      },
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 28.65,
+        "weight": 0.1072,
+        "weighted_value": 3.07,
+        "percentage": 4.6
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 30.0,
+        "weight": 0.0715,
+        "weighted_value": 2.15,
+        "percentage": 3.2
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 0.0,
+        "weight": 0.0715,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 0.0,
+        "weight": 0.0894,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      }
+    ],
+    "dominant_factor": "capacity_loss",
+    "top_3_factors": [
+      "capacity_loss",
+      "violation_density",
+      "traffic_impact"
+    ],
+    "priority_score": 75.8,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 44.6,
+    "daily_vehicles_affected": 4,
+    "annual_delay_savings_hours": 921.0,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 4,
+    "percentile": 96.0,
+    "tier": "Top 10%",
+    "violation_density_score": 100.0,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 63.73,
+    "congestion_impact_score": 79.37,
+    "annual_delay_vehicle_hours": 1535.0,
+    "junction_type": "Cross Junction",
+    "junction_distance_m": 100.0,
+    "emergency_route_impact": false,
+    "violations": 41,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.32,
+    "human_explanation": "CSI = 67/100 (High, Orange). Ranked #4 of 100 citywide (top 4%). Reason: 63.7% traffic slowdown on 3rd A Cross Road (Residential). 100% road capacity loss. Projected annual delay: 1.5K vehicle-hours. Cross Junction 100m away. Adaptive weighting applied (Adaptive): Extreme violation clustering \u2014 systemic enforcement failure. Enforcement Priority: 76/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "63.7% Traffic Slowdown",
+      "Cross Junction 100m Away",
+      "Road Capacity Loss: 35% of CSI",
+      "Violation Density: 30% of CSI",
+      "Traffic Flow Impact: 27% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.8,
+    "generated_at": "2026-06-23 13:45:40.416899"
+  },
+  {
+    "hotspot_id": 4,
+    "road_name": "5th Main Road",
+    "road_hierarchy": "Major Arterial",
+    "latitude": 12.931463906095551,
+    "longitude": 77.58367477265239,
+    "csi_score": 66.28,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 2.54,
+      "capacity_loss": 100.0,
+      "traffic_impact": 84.8,
+      "junction_influence": 73.16,
+      "poi_density": 0.0,
+      "critical_infrastructure": 0.0,
+      "emergency_impact": 47.5
+    },
+    "component_weights": {
+      "violation_density": 0.0867,
+      "capacity_loss": 0.1832,
+      "traffic_impact": 0.2688,
+      "junction_influence": 0.3109,
+      "poi_density": 0.0463,
+      "critical_infrastructure": 0.0578,
+      "emergency_impact": 0.0463
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Major Junction Proximity",
+      "Critical Intersection",
+      "Major Arterial Road",
+      "Signalized Junction"
+    ],
+    "adaptive_reasoning": [
+      "Major junction within 50m \u2014 intersection queue spillback risk",
+      "Critical intersection \u2014 network-wide impact potential",
+      "Major arterial \u2014 high traffic volume amplifies impact",
+      "Signalized junction nearby \u2014 signal cycle failure risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 84.8,
+        "weight": 0.2688,
+        "weighted_value": 22.79,
+        "percentage": 34.4
+      },
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 73.16,
+        "weight": 0.3109,
+        "weighted_value": 22.75,
+        "percentage": 34.3
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1832,
+        "weighted_value": 18.32,
+        "percentage": 27.6
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 47.5,
+        "weight": 0.0463,
+        "weighted_value": 2.2,
+        "percentage": 3.3
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 2.54,
+        "weight": 0.0867,
+        "weighted_value": 0.22,
+        "percentage": 0.3
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 0.0,
+        "weight": 0.0463,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 0.0,
+        "weight": 0.0578,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      }
+    ],
+    "dominant_factor": "traffic_impact",
+    "top_3_factors": [
+      "traffic_impact",
+      "junction_influence",
+      "capacity_loss"
+    ],
+    "priority_score": 72.3,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 36.9,
+    "daily_vehicles_affected": 265,
+    "annual_delay_savings_hours": 58150.0,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 5,
+    "percentile": 95.0,
+    "tier": "Top 10%",
+    "violation_density_score": 2.544617659021445,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 52.65,
+    "congestion_impact_score": 84.8,
+    "annual_delay_vehicle_hours": 96916.67,
+    "junction_type": "Traffic Circle",
+    "junction_distance_m": 25.0,
+    "emergency_route_impact": false,
+    "violations": 607,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 4.67,
+    "human_explanation": "CSI = 66/100 (High, Orange). Ranked #5 of 100 citywide (top 5%). Reason: 52.6% traffic slowdown on 5th Main Road (Major Arterial). 100% road capacity loss. Projected annual delay: 96.9K vehicle-hours. Traffic Circle 25m away. Adaptive weighting applied (Adaptive): Major junction within 50m \u2014 intersection queue spillback risk; Critical intersection \u2014 network-wide impact potential; Major arterial \u2014 high traffic volume amplifies impact. Enforcement Priority: 72/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "52.6% Traffic Slowdown",
+      "Traffic Circle 25m Away",
+      "Traffic Flow Impact: 34% of CSI",
+      "Junction Influence: 34% of CSI",
+      "Road Capacity Loss: 28% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.84,
+    "generated_at": "2026-06-23 13:45:40.416899"
+  },
+  {
+    "hotspot_id": 69,
+    "road_name": "Chinmaya Mission Hospital Road",
+    "road_hierarchy": "Residential",
+    "latitude": 12.97862032142857,
+    "longitude": 77.64005371428571,
+    "csi_score": 65.72,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 2.08,
+      "capacity_loss": 100.0,
+      "traffic_impact": 83.12,
+      "junction_influence": 73.16,
+      "poi_density": 25.0,
+      "critical_infrastructure": 48.66,
+      "emergency_impact": 58.27
+    },
+    "component_weights": {
+      "violation_density": 0.1051,
+      "capacity_loss": 0.1541,
+      "traffic_impact": 0.2504,
+      "junction_influence": 0.2354,
+      "poi_density": 0.056,
+      "critical_infrastructure": 0.0981,
+      "emergency_impact": 0.1009
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Hospital Proximity",
+      "Major Junction Proximity",
+      "Signalized Junction"
+    ],
+    "adaptive_reasoning": [
+      "Hospital detected nearby \u2014 emergency access becomes critical",
+      "Major junction within 50m \u2014 intersection queue spillback risk",
+      "Signalized junction nearby \u2014 signal cycle failure risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 83.12,
+        "weight": 0.2504,
+        "weighted_value": 20.81,
+        "percentage": 31.7
+      },
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 73.16,
+        "weight": 0.2354,
+        "weighted_value": 17.22,
+        "percentage": 26.2
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1541,
+        "weighted_value": 15.41,
+        "percentage": 23.4
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 58.27,
+        "weight": 0.1009,
+        "weighted_value": 5.88,
+        "percentage": 8.9
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 48.66,
+        "weight": 0.0981,
+        "weighted_value": 4.77,
+        "percentage": 7.3
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 25.0,
+        "weight": 0.056,
+        "weighted_value": 1.4,
+        "percentage": 2.1
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 2.08,
+        "weight": 0.1051,
+        "weighted_value": 0.22,
+        "percentage": 0.3
+      }
+    ],
+    "dominant_factor": "traffic_impact",
+    "top_3_factors": [
+      "traffic_impact",
+      "junction_influence",
+      "capacity_loss"
+    ],
+    "priority_score": 75.4,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 44.6,
+    "daily_vehicles_affected": 36,
+    "annual_delay_savings_hours": 8044.2,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 6,
+    "percentile": 94.0,
+    "tier": "Top 10%",
+    "violation_density_score": 2.08042272858286,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 63.73,
+    "congestion_impact_score": 83.12,
+    "annual_delay_vehicle_hours": 13407.08,
+    "junction_type": "Traffic Circle",
+    "junction_distance_m": 25.0,
+    "emergency_route_impact": false,
+    "violations": 112,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.86,
+    "human_explanation": "CSI = 66/100 (High, Orange). Ranked #6 of 100 citywide (top 6%). Reason: 63.7% traffic slowdown on Chinmaya Mission Hospital Road (Residential). 100% road capacity loss. Projected annual delay: 13.4K vehicle-hours. Traffic Circle 25m away. Adaptive weighting applied (Adaptive): Hospital detected nearby \u2014 emergency access becomes critical; Major junction within 50m \u2014 intersection queue spillback risk; Signalized junction nearby \u2014 signal cycle failure risk. Enforcement Priority: 75/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "63.7% Traffic Slowdown",
+      "Traffic Circle 25m Away",
+      "Hospital Nearby",
+      "Traffic Flow Impact: 32% of CSI",
+      "Junction Influence: 26% of CSI",
+      "Road Capacity Loss: 23% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-23 13:45:40.416899"
+  },
+  {
+    "hotspot_id": 60,
+    "road_name": "3rd Main Road",
+    "road_hierarchy": "Major Arterial",
+    "latitude": 13.006856209302322,
+    "longitude": 77.57944762790699,
+    "csi_score": 65.48,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 4.98,
+      "capacity_loss": 100.0,
+      "traffic_impact": 81.05,
+      "junction_influence": 73.16,
+      "poi_density": 0.0,
+      "critical_infrastructure": 0.0,
+      "emergency_impact": 47.5
+    },
+    "component_weights": {
+      "violation_density": 0.0867,
+      "capacity_loss": 0.1832,
+      "traffic_impact": 0.2688,
+      "junction_influence": 0.3109,
+      "poi_density": 0.0463,
+      "critical_infrastructure": 0.0578,
+      "emergency_impact": 0.0463
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Major Junction Proximity",
+      "Critical Intersection",
+      "Major Arterial Road",
+      "Signalized Junction"
+    ],
+    "adaptive_reasoning": [
+      "Major junction within 50m \u2014 intersection queue spillback risk",
+      "Critical intersection \u2014 network-wide impact potential",
+      "Major arterial \u2014 high traffic volume amplifies impact",
+      "Signalized junction nearby \u2014 signal cycle failure risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 73.16,
+        "weight": 0.3109,
+        "weighted_value": 22.75,
+        "percentage": 34.7
+      },
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 81.05,
+        "weight": 0.2688,
+        "weighted_value": 21.79,
+        "percentage": 33.3
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1832,
+        "weighted_value": 18.32,
+        "percentage": 28.0
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 47.5,
+        "weight": 0.0463,
+        "weighted_value": 2.2,
+        "percentage": 3.4
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 4.98,
+        "weight": 0.0867,
+        "weighted_value": 0.43,
+        "percentage": 0.7
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 0.0,
+        "weight": 0.0463,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 0.0,
+        "weight": 0.0578,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      }
+    ],
+    "dominant_factor": "junction_influence",
+    "top_3_factors": [
+      "junction_influence",
+      "traffic_impact",
+      "capacity_loss"
+    ],
+    "priority_score": 72.0,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 36.9,
+    "daily_vehicles_affected": 55,
+    "annual_delay_savings_hours": 12262.5,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 7,
+    "percentile": 93.0,
+    "tier": "Top 10%",
+    "violation_density_score": 4.977261866549281,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 52.65,
+    "congestion_impact_score": 81.05,
+    "annual_delay_vehicle_hours": 20437.5,
+    "junction_type": "Traffic Circle",
+    "junction_distance_m": 25.0,
+    "emergency_route_impact": false,
+    "violations": 43,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.33,
+    "human_explanation": "CSI = 65/100 (High, Orange). Ranked #7 of 100 citywide (top 7%). Reason: 52.6% traffic slowdown on 3rd Main Road (Major Arterial). 100% road capacity loss. Projected annual delay: 20.4K vehicle-hours. Traffic Circle 25m away. Adaptive weighting applied (Adaptive): Major junction within 50m \u2014 intersection queue spillback risk; Critical intersection \u2014 network-wide impact potential; Major arterial \u2014 high traffic volume amplifies impact. Enforcement Priority: 72/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "52.6% Traffic Slowdown",
+      "Traffic Circle 25m Away",
+      "Junction Influence: 35% of CSI",
+      "Traffic Flow Impact: 33% of CSI",
+      "Road Capacity Loss: 28% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.84,
+    "generated_at": "2026-06-23 13:45:40.417417"
+  },
+  {
+    "hotspot_id": 57,
+    "road_name": "Sarjapura Main Road",
+    "road_hierarchy": "Major Arterial",
+    "latitude": 12.906884948717947,
+    "longitude": 77.6965031025641,
+    "csi_score": 65.19,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 1.55,
+      "capacity_loss": 100.0,
+      "traffic_impact": 81.05,
+      "junction_influence": 73.16,
+      "poi_density": 0.0,
+      "critical_infrastructure": 0.0,
+      "emergency_impact": 47.5
+    },
+    "component_weights": {
+      "violation_density": 0.0867,
+      "capacity_loss": 0.1832,
+      "traffic_impact": 0.2688,
+      "junction_influence": 0.3109,
+      "poi_density": 0.0463,
+      "critical_infrastructure": 0.0578,
+      "emergency_impact": 0.0463
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Major Junction Proximity",
+      "Critical Intersection",
+      "Major Arterial Road",
+      "Signalized Junction"
+    ],
+    "adaptive_reasoning": [
+      "Major junction within 50m \u2014 intersection queue spillback risk",
+      "Critical intersection \u2014 network-wide impact potential",
+      "Major arterial \u2014 high traffic volume amplifies impact",
+      "Signalized junction nearby \u2014 signal cycle failure risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 73.16,
+        "weight": 0.3109,
+        "weighted_value": 22.75,
+        "percentage": 34.9
+      },
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 81.05,
+        "weight": 0.2688,
+        "weighted_value": 21.79,
+        "percentage": 33.4
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1832,
+        "weighted_value": 18.32,
+        "percentage": 28.1
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 47.5,
+        "weight": 0.0463,
+        "weighted_value": 2.2,
+        "percentage": 3.4
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 1.55,
+        "weight": 0.0867,
+        "weighted_value": 0.13,
+        "percentage": 0.2
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 0.0,
+        "weight": 0.0463,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 0.0,
+        "weight": 0.0578,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      }
+    ],
+    "dominant_factor": "junction_influence",
+    "top_3_factors": [
+      "junction_influence",
+      "traffic_impact",
+      "capacity_loss"
+    ],
+    "priority_score": 71.9,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 36.9,
+    "daily_vehicles_affected": 77,
+    "annual_delay_savings_hours": 16943.7,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 8,
+    "percentile": 92.0,
+    "tier": "Top 10%",
+    "violation_density_score": 1.5476312941819959,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 52.65,
+    "congestion_impact_score": 81.05,
+    "annual_delay_vehicle_hours": 28239.58,
+    "junction_type": "Traffic Circle",
+    "junction_distance_m": 25.0,
+    "emergency_route_impact": false,
+    "violations": 39,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.3,
+    "human_explanation": "CSI = 65/100 (High, Orange). Ranked #8 of 100 citywide (top 8%). Reason: 52.6% traffic slowdown on Sarjapura Main Road (Major Arterial). 100% road capacity loss. Projected annual delay: 28.2K vehicle-hours. Traffic Circle 25m away. Adaptive weighting applied (Adaptive): Major junction within 50m \u2014 intersection queue spillback risk; Critical intersection \u2014 network-wide impact potential; Major arterial \u2014 high traffic volume amplifies impact. Enforcement Priority: 72/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "52.6% Traffic Slowdown",
+      "Traffic Circle 25m Away",
+      "Junction Influence: 35% of CSI",
+      "Traffic Flow Impact: 33% of CSI",
+      "Road Capacity Loss: 28% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.84,
+    "generated_at": "2026-06-23 13:45:40.417930"
+  },
+  {
+    "hotspot_id": 86,
+    "road_name": "28th Main Road",
+    "road_hierarchy": "Major Arterial",
+    "latitude": 12.917212194444447,
+    "longitude": 77.59604091666668,
+    "csi_score": 65.19,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 1.62,
+      "capacity_loss": 100.0,
+      "traffic_impact": 81.05,
+      "junction_influence": 73.16,
+      "poi_density": 0.0,
+      "critical_infrastructure": 0.0,
+      "emergency_impact": 47.5
+    },
+    "component_weights": {
+      "violation_density": 0.0867,
+      "capacity_loss": 0.1832,
+      "traffic_impact": 0.2688,
+      "junction_influence": 0.3109,
+      "poi_density": 0.0463,
+      "critical_infrastructure": 0.0578,
+      "emergency_impact": 0.0463
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Major Junction Proximity",
+      "Critical Intersection",
+      "Major Arterial Road",
+      "Signalized Junction"
+    ],
+    "adaptive_reasoning": [
+      "Major junction within 50m \u2014 intersection queue spillback risk",
+      "Critical intersection \u2014 network-wide impact potential",
+      "Major arterial \u2014 high traffic volume amplifies impact",
+      "Signalized junction nearby \u2014 signal cycle failure risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 73.16,
+        "weight": 0.3109,
+        "weighted_value": 22.75,
+        "percentage": 34.9
+      },
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 81.05,
+        "weight": 0.2688,
+        "weighted_value": 21.79,
+        "percentage": 33.4
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1832,
+        "weighted_value": 18.32,
+        "percentage": 28.1
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 47.5,
+        "weight": 0.0463,
+        "weighted_value": 2.2,
+        "percentage": 3.4
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 1.62,
+        "weight": 0.0867,
+        "weighted_value": 0.14,
+        "percentage": 0.2
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 0.0,
+        "weight": 0.0463,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 0.0,
+        "weight": 0.0578,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      }
+    ],
+    "dominant_factor": "junction_influence",
+    "top_3_factors": [
+      "junction_influence",
+      "traffic_impact",
+      "capacity_loss"
+    ],
+    "priority_score": 71.9,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 36.9,
+    "daily_vehicles_affected": 73,
+    "annual_delay_savings_hours": 16087.5,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 9,
+    "percentile": 91.0,
+    "tier": "Top 10%",
+    "violation_density_score": 1.6219600796751634,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 52.65,
+    "congestion_impact_score": 81.05,
+    "annual_delay_vehicle_hours": 26812.5,
+    "junction_type": "Traffic Circle",
+    "junction_distance_m": 25.0,
+    "emergency_route_impact": false,
+    "violations": 36,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.28,
+    "human_explanation": "CSI = 65/100 (High, Orange). Ranked #9 of 100 citywide (top 9%). Reason: 52.6% traffic slowdown on 28th Main Road (Major Arterial). 100% road capacity loss. Projected annual delay: 26.8K vehicle-hours. Traffic Circle 25m away. Adaptive weighting applied (Adaptive): Major junction within 50m \u2014 intersection queue spillback risk; Critical intersection \u2014 network-wide impact potential; Major arterial \u2014 high traffic volume amplifies impact. Enforcement Priority: 72/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "52.6% Traffic Slowdown",
+      "Traffic Circle 25m Away",
+      "Junction Influence: 35% of CSI",
+      "Traffic Flow Impact: 33% of CSI",
+      "Road Capacity Loss: 28% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.84,
+    "generated_at": "2026-06-23 13:45:40.418951"
+  },
+  {
+    "hotspot_id": 37,
+    "road_name": "Kodigehalli Main Road",
+    "road_hierarchy": "Major Arterial",
+    "latitude": 13.00345643333333,
+    "longitude": 77.72347889999999,
+    "csi_score": 64.57,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 77.1,
+      "capacity_loss": 100.0,
+      "traffic_impact": 73.55,
+      "junction_influence": 39.16,
+      "poi_density": 0.0,
+      "critical_infrastructure": 0.0,
+      "emergency_impact": 47.5
+    },
+    "component_weights": {
+      "violation_density": 0.1695,
+      "capacity_loss": 0.2387,
+      "traffic_impact": 0.2693,
+      "junction_influence": 0.1266,
+      "poi_density": 0.0603,
+      "critical_infrastructure": 0.0753,
+      "emergency_impact": 0.0603
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "High Violation Density",
+      "Major Arterial Road",
+      "Signalized Junction"
+    ],
+    "adaptive_reasoning": [
+      "Extreme violation clustering \u2014 systemic enforcement failure",
+      "Major arterial \u2014 high traffic volume amplifies impact",
+      "Signalized junction nearby \u2014 signal cycle failure risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.2387,
+        "weighted_value": 23.87,
+        "percentage": 37.0
+      },
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 73.55,
+        "weight": 0.2693,
+        "weighted_value": 19.81,
+        "percentage": 30.7
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 77.1,
+        "weight": 0.1695,
+        "weighted_value": 13.07,
+        "percentage": 20.2
+      },
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 39.16,
+        "weight": 0.1266,
+        "weighted_value": 4.96,
+        "percentage": 7.7
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 47.5,
+        "weight": 0.0603,
+        "weighted_value": 2.86,
+        "percentage": 4.4
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 0.0,
+        "weight": 0.0603,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 0.0,
+        "weight": 0.0753,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      }
+    ],
+    "dominant_factor": "capacity_loss",
+    "top_3_factors": [
+      "capacity_loss",
+      "traffic_impact",
+      "violation_density"
+    ],
+    "priority_score": 71.6,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 36.9,
+    "daily_vehicles_affected": 13,
+    "annual_delay_savings_hours": 2953.1,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 10,
+    "percentile": 90.0,
+    "tier": "Top 10%",
+    "violation_density_score": 77.10143181884135,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 52.65,
+    "congestion_impact_score": 73.55,
+    "annual_delay_vehicle_hours": 4921.88,
+    "junction_type": "Uncontrolled Junction",
+    "junction_distance_m": 75.0,
+    "emergency_route_impact": false,
+    "violations": 30,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.23,
+    "human_explanation": "CSI = 65/100 (High, Orange). Ranked #10 of 100 citywide (top 10%). Reason: 52.6% traffic slowdown on Kodigehalli Main Road (Major Arterial). 100% road capacity loss. Projected annual delay: 4.9K vehicle-hours. Uncontrolled Junction 75m away. Adaptive weighting applied (Adaptive): Extreme violation clustering \u2014 systemic enforcement failure; Major arterial \u2014 high traffic volume amplifies impact; Signalized junction nearby \u2014 signal cycle failure risk. Enforcement Priority: 72/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "52.6% Traffic Slowdown",
+      "Uncontrolled Junction 75m Away",
+      "Road Capacity Loss: 37% of CSI",
+      "Traffic Flow Impact: 31% of CSI",
+      "Violation Density: 20% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.78,
+    "generated_at": "2026-06-23 13:45:40.418951"
+  },
+  {
+    "hotspot_id": 26,
+    "road_name": "Mysore Road",
+    "road_hierarchy": "Residential",
+    "latitude": 12.953203890728478,
+    "longitude": 77.54231374172184,
+    "csi_score": 63.82,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 5.23,
+      "capacity_loss": 100.0,
+      "traffic_impact": 83.12,
+      "junction_influence": 53.53,
+      "poi_density": 50.0,
+      "critical_infrastructure": 60.68,
+      "emergency_impact": 41.06
+    },
+    "component_weights": {
+      "violation_density": 0.1018,
+      "capacity_loss": 0.1494,
+      "traffic_impact": 0.2912,
+      "junction_influence": 0.2281,
+      "poi_density": 0.0869,
+      "critical_infrastructure": 0.0883,
+      "emergency_impact": 0.0543
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Transit Hub Proximity",
+      "Major Junction Proximity",
+      "Signalized Junction"
+    ],
+    "adaptive_reasoning": [
+      "Transit hub nearby \u2014 public transport disruption amplified",
+      "Major junction within 50m \u2014 intersection queue spillback risk",
+      "Signalized junction nearby \u2014 signal cycle failure risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 83.12,
+        "weight": 0.2912,
+        "weighted_value": 24.2,
+        "percentage": 37.9
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1494,
+        "weighted_value": 14.94,
+        "percentage": 23.4
+      },
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 53.53,
+        "weight": 0.2281,
+        "weighted_value": 12.21,
+        "percentage": 19.1
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 60.68,
+        "weight": 0.0883,
+        "weighted_value": 5.36,
+        "percentage": 8.4
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 50.0,
+        "weight": 0.0869,
+        "weighted_value": 4.35,
+        "percentage": 6.8
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 41.06,
+        "weight": 0.0543,
+        "weighted_value": 2.23,
+        "percentage": 3.5
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 5.23,
+        "weight": 0.1018,
+        "weighted_value": 0.53,
+        "percentage": 0.8
+      }
+    ],
+    "dominant_factor": "traffic_impact",
+    "top_3_factors": [
+      "traffic_impact",
+      "capacity_loss",
+      "junction_influence"
+    ],
+    "priority_score": 74.6,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 44.6,
+    "daily_vehicles_affected": 44,
+    "annual_delay_savings_hours": 9673.0,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 11,
+    "percentile": 89.0,
+    "tier": "Top 25%",
+    "violation_density_score": 5.225876324110599,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 63.73,
+    "congestion_impact_score": 83.12,
+    "annual_delay_vehicle_hours": 16121.67,
+    "junction_type": "Signal Junction",
+    "junction_distance_m": 50.0,
+    "emergency_route_impact": false,
+    "violations": 302,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 2.32,
+    "human_explanation": "CSI = 64/100 (High, Orange). Ranked #11 of 100 citywide (top 11%). Reason: 63.7% traffic slowdown on Mysore Road (Residential). 100% road capacity loss. Projected annual delay: 16.1K vehicle-hours. Signal Junction 50m away. Adaptive weighting applied (Adaptive): Transit hub nearby \u2014 public transport disruption amplified; Major junction within 50m \u2014 intersection queue spillback risk; Signalized junction nearby \u2014 signal cycle failure risk. Enforcement Priority: 75/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "63.7% Traffic Slowdown",
+      "Signal Junction 50m Away",
+      "Bus Station Nearby",
+      "Transit Hub Nearby",
+      "Traffic Flow Impact: 38% of CSI",
+      "Road Capacity Loss: 23% of CSI",
+      "Junction Influence: 19% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.8,
+    "generated_at": "2026-06-23 13:45:40.418951"
+  },
+  {
+    "hotspot_id": 34,
+    "road_name": "Mallathahalli Road",
+    "road_hierarchy": "Residential",
+    "latitude": 12.960980573333332,
+    "longitude": 77.51166729333335,
+    "csi_score": 62.69,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 7.93,
+      "capacity_loss": 100.0,
+      "traffic_impact": 83.12,
+      "junction_influence": 62.58,
+      "poi_density": 50.0,
+      "critical_infrastructure": 32.97,
+      "emergency_impact": 30.0
+    },
+    "component_weights": {
+      "violation_density": 0.1255,
+      "capacity_loss": 0.1841,
+      "traffic_impact": 0.272,
+      "junction_influence": 0.2008,
+      "poi_density": 0.0669,
+      "critical_infrastructure": 0.0837,
+      "emergency_impact": 0.0669
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Major Junction Proximity"
+    ],
+    "adaptive_reasoning": [
+      "Major junction within 50m \u2014 intersection queue spillback risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 83.12,
+        "weight": 0.272,
+        "weighted_value": 22.61,
+        "percentage": 36.1
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1841,
+        "weighted_value": 18.41,
+        "percentage": 29.4
+      },
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 62.58,
+        "weight": 0.2008,
+        "weighted_value": 12.57,
+        "percentage": 20.1
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 50.0,
+        "weight": 0.0669,
+        "weighted_value": 3.35,
+        "percentage": 5.3
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 32.97,
+        "weight": 0.0837,
+        "weighted_value": 2.76,
+        "percentage": 4.4
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 30.0,
+        "weight": 0.0669,
+        "weighted_value": 2.01,
+        "percentage": 3.2
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 7.93,
+        "weight": 0.1255,
+        "weighted_value": 1.0,
+        "percentage": 1.6
+      }
+    ],
+    "dominant_factor": "traffic_impact",
+    "top_3_factors": [
+      "traffic_impact",
+      "capacity_loss",
+      "junction_influence"
+    ],
+    "priority_score": 74.2,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 44.6,
+    "daily_vehicles_affected": 18,
+    "annual_delay_savings_hours": 4076.7,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 12,
+    "percentile": 88.0,
+    "tier": "Top 25%",
+    "violation_density_score": 7.925293532457175,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 63.73,
+    "congestion_impact_score": 83.12,
+    "annual_delay_vehicle_hours": 6794.58,
+    "junction_type": "Uncontrolled Junction",
+    "junction_distance_m": 37.5,
+    "emergency_route_impact": false,
+    "violations": 75,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.58,
+    "human_explanation": "CSI = 63/100 (High, Orange). Ranked #12 of 100 citywide (top 12%). Reason: 63.7% traffic slowdown on Mallathahalli Road (Residential). 100% road capacity loss. Projected annual delay: 6.8K vehicle-hours. Uncontrolled Junction 38m away. Adaptive weighting applied (Adaptive): Major junction within 50m \u2014 intersection queue spillback risk. Enforcement Priority: 74/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "63.7% Traffic Slowdown",
+      "Uncontrolled Junction 38m Away",
+      "Mall Nearby",
+      "Government Office Nearby",
+      "Traffic Flow Impact: 36% of CSI",
+      "Road Capacity Loss: 29% of CSI",
+      "Junction Influence: 20% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.77,
+    "generated_at": "2026-06-23 13:45:40.419465"
+  },
+  {
+    "hotspot_id": 8,
+    "road_name": "Kamaraj Road",
+    "road_hierarchy": "Residential",
+    "latitude": 12.980822183403895,
+    "longitude": 77.60778250143944,
+    "csi_score": 62.03,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 9.4,
+      "capacity_loss": 100.0,
+      "traffic_impact": 83.12,
+      "junction_influence": 73.16,
+      "poi_density": 25.0,
+      "critical_infrastructure": 0.0,
+      "emergency_impact": 30.0
+    },
+    "component_weights": {
+      "violation_density": 0.1133,
+      "capacity_loss": 0.1662,
+      "traffic_impact": 0.2701,
+      "junction_influence": 0.2539,
+      "poi_density": 0.0604,
+      "critical_infrastructure": 0.0756,
+      "emergency_impact": 0.0604
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Major Junction Proximity",
+      "Signalized Junction"
+    ],
+    "adaptive_reasoning": [
+      "Major junction within 50m \u2014 intersection queue spillback risk",
+      "Signalized junction nearby \u2014 signal cycle failure risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 83.12,
+        "weight": 0.2701,
+        "weighted_value": 22.45,
+        "percentage": 36.2
+      },
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 73.16,
+        "weight": 0.2539,
+        "weighted_value": 18.58,
+        "percentage": 30.0
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1662,
+        "weighted_value": 16.62,
+        "percentage": 26.8
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 30.0,
+        "weight": 0.0604,
+        "weighted_value": 1.81,
+        "percentage": 2.9
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 25.0,
+        "weight": 0.0604,
+        "weighted_value": 1.51,
+        "percentage": 2.4
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 9.4,
+        "weight": 0.1133,
+        "weighted_value": 1.07,
+        "percentage": 1.7
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 0.0,
+        "weight": 0.0756,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      }
+    ],
+    "dominant_factor": "traffic_impact",
+    "top_3_factors": [
+      "traffic_impact",
+      "junction_influence",
+      "capacity_loss"
+    ],
+    "priority_score": 73.9,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 44.6,
+    "daily_vehicles_affected": 153,
+    "annual_delay_savings_hours": 33655.2,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 13,
+    "percentile": 87.0,
+    "tier": "Top 25%",
+    "violation_density_score": 9.397780574783619,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 63.73,
+    "congestion_impact_score": 83.12,
+    "annual_delay_vehicle_hours": 56092.08,
+    "junction_type": "Traffic Circle",
+    "junction_distance_m": 25.0,
+    "emergency_route_impact": false,
+    "violations": 5905,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 45.4,
+    "human_explanation": "CSI = 62/100 (High, Orange). Ranked #13 of 100 citywide (top 13%). Reason: 63.7% traffic slowdown on Kamaraj Road (Residential). 100% road capacity loss. Projected annual delay: 56.1K vehicle-hours. Traffic Circle 25m away. Adaptive weighting applied (Adaptive): Major junction within 50m \u2014 intersection queue spillback risk; Signalized junction nearby \u2014 signal cycle failure risk. Enforcement Priority: 74/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "63.7% Traffic Slowdown",
+      "Traffic Circle 25m Away",
+      "Park Nearby",
+      "Traffic Flow Impact: 36% of CSI",
+      "Junction Influence: 30% of CSI",
+      "Road Capacity Loss: 27% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.83,
+    "generated_at": "2026-06-23 13:45:40.419465"
+  },
+  {
+    "hotspot_id": 23,
+    "road_name": "Whitefield Road",
+    "road_hierarchy": "Collector",
+    "latitude": 12.995629199233717,
+    "longitude": 77.69565286206895,
+    "csi_score": 61.88,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 6.4,
+      "capacity_loss": 100.0,
+      "traffic_impact": 83.53,
+      "junction_influence": 53.53,
+      "poi_density": 100.0,
+      "critical_infrastructure": 0.0,
+      "emergency_impact": 37.5
+    },
+    "component_weights": {
+      "violation_density": 0.1255,
+      "capacity_loss": 0.1841,
+      "traffic_impact": 0.272,
+      "junction_influence": 0.2008,
+      "poi_density": 0.0669,
+      "critical_infrastructure": 0.0837,
+      "emergency_impact": 0.0669
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Major Junction Proximity"
+    ],
+    "adaptive_reasoning": [
+      "Major junction within 50m \u2014 intersection queue spillback risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 83.53,
+        "weight": 0.272,
+        "weighted_value": 22.72,
+        "percentage": 36.7
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1841,
+        "weighted_value": 18.41,
+        "percentage": 29.8
+      },
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 53.53,
+        "weight": 0.2008,
+        "weighted_value": 10.75,
+        "percentage": 17.4
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 100.0,
+        "weight": 0.0669,
+        "weighted_value": 6.69,
+        "percentage": 10.8
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 37.5,
+        "weight": 0.0669,
+        "weighted_value": 2.51,
+        "percentage": 4.1
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 6.4,
+        "weight": 0.1255,
+        "weighted_value": 0.8,
+        "percentage": 1.3
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 0.0,
+        "weight": 0.0837,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      }
+    ],
+    "dominant_factor": "traffic_impact",
+    "top_3_factors": [
+      "traffic_impact",
+      "capacity_loss",
+      "junction_influence"
+    ],
+    "priority_score": 72.3,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 40.9,
+    "daily_vehicles_affected": 75,
+    "annual_delay_savings_hours": 16620.0,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 14,
+    "percentile": 86.0,
+    "tier": "Top 25%",
+    "violation_density_score": 6.4046866351205916,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 58.45,
+    "congestion_impact_score": 83.53,
+    "annual_delay_vehicle_hours": 27700.0,
+    "junction_type": "Uncontrolled Junction",
+    "junction_distance_m": 50.0,
+    "emergency_route_impact": false,
+    "violations": 261,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 2.01,
+    "human_explanation": "CSI = 62/100 (High, Orange). Ranked #14 of 100 citywide (top 14%). Reason: 58.5% traffic slowdown on Whitefield Road (Collector). 100% road capacity loss. Projected annual delay: 27.7K vehicle-hours. Uncontrolled Junction 50m away. Adaptive weighting applied (Adaptive): Major junction within 50m \u2014 intersection queue spillback risk. Enforcement Priority: 72/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "58.5% Traffic Slowdown",
+      "Uncontrolled Junction 50m Away",
+      "Market Nearby",
+      "Mall Nearby",
+      "Industrial Area Nearby",
+      "Traffic Flow Impact: 37% of CSI",
+      "Road Capacity Loss: 30% of CSI",
+      "Junction Influence: 17% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.77,
+    "generated_at": "2026-06-23 13:45:40.419465"
+  },
+  {
+    "hotspot_id": 78,
+    "road_name": "Vibgyor High School Road",
+    "road_hierarchy": "Residential",
+    "latitude": 12.951396973333333,
+    "longitude": 77.71745701333332,
+    "csi_score": 61.75,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 22.38,
+      "capacity_loss": 100.0,
+      "traffic_impact": 83.12,
+      "junction_influence": 62.58,
+      "poi_density": 50.0,
+      "critical_infrastructure": 0.0,
+      "emergency_impact": 30.0
+    },
+    "component_weights": {
+      "violation_density": 0.1255,
+      "capacity_loss": 0.1841,
+      "traffic_impact": 0.272,
+      "junction_influence": 0.2008,
+      "poi_density": 0.0669,
+      "critical_infrastructure": 0.0837,
+      "emergency_impact": 0.0669
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Major Junction Proximity"
+    ],
+    "adaptive_reasoning": [
+      "Major junction within 50m \u2014 intersection queue spillback risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 83.12,
+        "weight": 0.272,
+        "weighted_value": 22.61,
+        "percentage": 36.6
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1841,
+        "weighted_value": 18.41,
+        "percentage": 29.8
+      },
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 62.58,
+        "weight": 0.2008,
+        "weighted_value": 12.57,
+        "percentage": 20.4
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 50.0,
+        "weight": 0.0669,
+        "weighted_value": 3.35,
+        "percentage": 5.4
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 22.38,
+        "weight": 0.1255,
+        "weighted_value": 2.81,
+        "percentage": 4.6
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 30.0,
+        "weight": 0.0669,
+        "weighted_value": 2.01,
+        "percentage": 3.3
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 0.0,
+        "weight": 0.0837,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      }
+    ],
+    "dominant_factor": "traffic_impact",
+    "top_3_factors": [
+      "traffic_impact",
+      "capacity_loss",
+      "junction_influence"
+    ],
+    "priority_score": 73.8,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 44.6,
+    "daily_vehicles_affected": 11,
+    "annual_delay_savings_hours": 2566.0,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 15,
+    "percentile": 85.0,
+    "tier": "Top 25%",
+    "violation_density_score": 22.37674164135712,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 63.73,
+    "congestion_impact_score": 83.12,
+    "annual_delay_vehicle_hours": 4276.67,
+    "junction_type": "Uncontrolled Junction",
+    "junction_distance_m": 37.5,
+    "emergency_route_impact": false,
+    "violations": 75,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.58,
+    "human_explanation": "CSI = 62/100 (High, Orange). Ranked #15 of 100 citywide (top 15%). Reason: 63.7% traffic slowdown on Vibgyor High School Road (Residential). 100% road capacity loss. Projected annual delay: 4.3K vehicle-hours. Uncontrolled Junction 38m away. Adaptive weighting applied (Adaptive): Major junction within 50m \u2014 intersection queue spillback risk. Enforcement Priority: 74/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "63.7% Traffic Slowdown",
+      "Uncontrolled Junction 38m Away",
+      "School Nearby",
+      "Park Nearby",
+      "Traffic Flow Impact: 37% of CSI",
+      "Road Capacity Loss: 30% of CSI",
+      "Junction Influence: 20% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.77,
+    "generated_at": "2026-06-23 13:45:40.419979"
+  },
+  {
+    "hotspot_id": 1,
+    "road_name": "80 Feet Ring Road",
+    "road_hierarchy": "Major Arterial",
+    "latitude": 12.991138706923891,
+    "longitude": 77.54988054545456,
+    "csi_score": 61.59,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 5.54,
+      "capacity_loss": 100.0,
+      "traffic_impact": 84.8,
+      "junction_influence": 53.53,
+      "poi_density": 25.0,
+      "critical_infrastructure": 0.0,
+      "emergency_impact": 47.5
+    },
+    "component_weights": {
+      "violation_density": 0.0867,
+      "capacity_loss": 0.1832,
+      "traffic_impact": 0.2688,
+      "junction_influence": 0.3109,
+      "poi_density": 0.0463,
+      "critical_infrastructure": 0.0578,
+      "emergency_impact": 0.0463
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Major Junction Proximity",
+      "Critical Intersection",
+      "Major Arterial Road",
+      "Signalized Junction"
+    ],
+    "adaptive_reasoning": [
+      "Major junction within 50m \u2014 intersection queue spillback risk",
+      "Critical intersection \u2014 network-wide impact potential",
+      "Major arterial \u2014 high traffic volume amplifies impact",
+      "Signalized junction nearby \u2014 signal cycle failure risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 84.8,
+        "weight": 0.2688,
+        "weighted_value": 22.79,
+        "percentage": 37.0
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1832,
+        "weighted_value": 18.32,
+        "percentage": 29.7
+      },
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 53.53,
+        "weight": 0.3109,
+        "weighted_value": 16.64,
+        "percentage": 27.0
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 47.5,
+        "weight": 0.0463,
+        "weighted_value": 2.2,
+        "percentage": 3.6
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 25.0,
+        "weight": 0.0463,
+        "weighted_value": 1.16,
+        "percentage": 1.9
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 5.54,
+        "weight": 0.0867,
+        "weighted_value": 0.48,
+        "percentage": 0.8
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 0.0,
+        "weight": 0.0578,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      }
+    ],
+    "dominant_factor": "traffic_impact",
+    "top_3_factors": [
+      "traffic_impact",
+      "capacity_loss",
+      "junction_influence"
+    ],
+    "priority_score": 70.4,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 36.9,
+    "daily_vehicles_affected": 712,
+    "annual_delay_savings_hours": 156075.0,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 16,
+    "percentile": 84.0,
+    "tier": "Top 25%",
+    "violation_density_score": 5.541477069527834,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 52.65,
+    "congestion_impact_score": 84.8,
+    "annual_delay_vehicle_hours": 260125.0,
+    "junction_type": "Signal Junction",
+    "junction_distance_m": 50.0,
+    "emergency_route_impact": false,
+    "violations": 7568,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 58.18,
+    "human_explanation": "CSI = 62/100 (High, Orange). Ranked #16 of 100 citywide (top 16%). Reason: 52.6% traffic slowdown on 80 Feet Ring Road (Major Arterial). 100% road capacity loss. Projected annual delay: 260.1K vehicle-hours. Signal Junction 50m away. Adaptive weighting applied (Adaptive): Major junction within 50m \u2014 intersection queue spillback risk; Critical intersection \u2014 network-wide impact potential; Major arterial \u2014 high traffic volume amplifies impact. Enforcement Priority: 70/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "52.6% Traffic Slowdown",
+      "Signal Junction 50m Away",
+      "Mall Nearby",
+      "Traffic Flow Impact: 37% of CSI",
+      "Road Capacity Loss: 30% of CSI",
+      "Junction Influence: 27% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.81,
+    "generated_at": "2026-06-23 13:45:40.419979"
+  },
+  {
+    "hotspot_id": 55,
+    "road_name": "Professor K Venkatachalam Circle",
+    "road_hierarchy": "Residential",
+    "latitude": 12.987458966666669,
+    "longitude": 77.61866783333335,
+    "csi_score": 61.35,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 3.41,
+      "capacity_loss": 100.0,
+      "traffic_impact": 83.12,
+      "junction_influence": 73.16,
+      "poi_density": 25.0,
+      "critical_infrastructure": 0.0,
+      "emergency_impact": 30.0
+    },
+    "component_weights": {
+      "violation_density": 0.1133,
+      "capacity_loss": 0.1662,
+      "traffic_impact": 0.2701,
+      "junction_influence": 0.2539,
+      "poi_density": 0.0604,
+      "critical_infrastructure": 0.0756,
+      "emergency_impact": 0.0604
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Major Junction Proximity",
+      "Signalized Junction"
+    ],
+    "adaptive_reasoning": [
+      "Major junction within 50m \u2014 intersection queue spillback risk",
+      "Signalized junction nearby \u2014 signal cycle failure risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 83.12,
+        "weight": 0.2701,
+        "weighted_value": 22.45,
+        "percentage": 36.6
+      },
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 73.16,
+        "weight": 0.2539,
+        "weighted_value": 18.58,
+        "percentage": 30.3
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1662,
+        "weighted_value": 16.62,
+        "percentage": 27.1
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 30.0,
+        "weight": 0.0604,
+        "weighted_value": 1.81,
+        "percentage": 3.0
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 25.0,
+        "weight": 0.0604,
+        "weighted_value": 1.51,
+        "percentage": 2.5
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 3.41,
+        "weight": 0.1133,
+        "weighted_value": 0.39,
+        "percentage": 0.6
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 0.0,
+        "weight": 0.0756,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      }
+    ],
+    "dominant_factor": "traffic_impact",
+    "top_3_factors": [
+      "traffic_impact",
+      "junction_influence",
+      "capacity_loss"
+    ],
+    "priority_score": 73.7,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 44.6,
+    "daily_vehicles_affected": 16,
+    "annual_delay_savings_hours": 3561.3,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 17,
+    "percentile": 83.0,
+    "tier": "Top 25%",
+    "violation_density_score": 3.4145614170974605,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 63.73,
+    "congestion_impact_score": 83.12,
+    "annual_delay_vehicle_hours": 5935.42,
+    "junction_type": "Traffic Circle",
+    "junction_distance_m": 25.0,
+    "emergency_route_impact": false,
+    "violations": 30,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.23,
+    "human_explanation": "CSI = 61/100 (High, Orange). Ranked #17 of 100 citywide (top 17%). Reason: 63.7% traffic slowdown on Professor K Venkatachalam Circle (Residential). 100% road capacity loss. Projected annual delay: 5.9K vehicle-hours. Traffic Circle 25m away. Adaptive weighting applied (Adaptive): Major junction within 50m \u2014 intersection queue spillback risk; Signalized junction nearby \u2014 signal cycle failure risk. Enforcement Priority: 74/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "63.7% Traffic Slowdown",
+      "Traffic Circle 25m Away",
+      "Park Nearby",
+      "Traffic Flow Impact: 37% of CSI",
+      "Junction Influence: 30% of CSI",
+      "Road Capacity Loss: 27% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.83,
+    "generated_at": "2026-06-23 13:45:40.419979"
+  },
+  {
+    "hotspot_id": 65,
+    "road_name": "Hosur Road",
+    "road_hierarchy": "Collector",
+    "latitude": 12.840678780821918,
+    "longitude": 77.67673053424657,
+    "csi_score": 61.3,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 15.1,
+      "capacity_loss": 100.0,
+      "traffic_impact": 83.53,
+      "junction_influence": 53.53,
+      "poi_density": 75.0,
+      "critical_infrastructure": 0.0,
+      "emergency_impact": 37.5
+    },
+    "component_weights": {
+      "violation_density": 0.1255,
+      "capacity_loss": 0.1841,
+      "traffic_impact": 0.272,
+      "junction_influence": 0.2008,
+      "poi_density": 0.0669,
+      "critical_infrastructure": 0.0837,
+      "emergency_impact": 0.0669
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Major Junction Proximity"
+    ],
+    "adaptive_reasoning": [
+      "Major junction within 50m \u2014 intersection queue spillback risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 83.53,
+        "weight": 0.272,
+        "weighted_value": 22.72,
+        "percentage": 37.1
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1841,
+        "weighted_value": 18.41,
+        "percentage": 30.0
+      },
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 53.53,
+        "weight": 0.2008,
+        "weighted_value": 10.75,
+        "percentage": 17.5
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 75.0,
+        "weight": 0.0669,
+        "weighted_value": 5.02,
+        "percentage": 8.2
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 37.5,
+        "weight": 0.0669,
+        "weighted_value": 2.51,
+        "percentage": 4.1
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 15.1,
+        "weight": 0.1255,
+        "weighted_value": 1.9,
+        "percentage": 3.1
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 0.0,
+        "weight": 0.0837,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      }
+    ],
+    "dominant_factor": "traffic_impact",
+    "top_3_factors": [
+      "traffic_impact",
+      "capacity_loss",
+      "junction_influence"
+    ],
+    "priority_score": 72.1,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 40.9,
+    "daily_vehicles_affected": 27,
+    "annual_delay_savings_hours": 6076.0,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 18,
+    "percentile": 82.0,
+    "tier": "Top 25%",
+    "violation_density_score": 15.101586380338789,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 58.45,
+    "congestion_impact_score": 83.53,
+    "annual_delay_vehicle_hours": 10126.67,
+    "junction_type": "Uncontrolled Junction",
+    "junction_distance_m": 50.0,
+    "emergency_route_impact": false,
+    "violations": 73,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.56,
+    "human_explanation": "CSI = 61/100 (High, Orange). Ranked #18 of 100 citywide (top 18%). Reason: 58.5% traffic slowdown on Hosur Road (Collector). 100% road capacity loss. Projected annual delay: 10.1K vehicle-hours. Uncontrolled Junction 50m away. Adaptive weighting applied (Adaptive): Major junction within 50m \u2014 intersection queue spillback risk. Enforcement Priority: 72/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "58.5% Traffic Slowdown",
+      "Uncontrolled Junction 50m Away",
+      "Industrial Area Nearby",
+      "Business District Nearby",
+      "Park Nearby",
+      "Traffic Flow Impact: 37% of CSI",
+      "Road Capacity Loss: 30% of CSI",
+      "Junction Influence: 18% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.77,
+    "generated_at": "2026-06-23 13:45:40.419979"
+  },
+  {
+    "hotspot_id": 83,
+    "road_name": "MS Ramaiah Road",
+    "road_hierarchy": "Residential",
+    "latitude": 13.033781953488372,
+    "longitude": 77.55775320930232,
+    "csi_score": 61.1,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 1.14,
+      "capacity_loss": 100.0,
+      "traffic_impact": 83.12,
+      "junction_influence": 73.16,
+      "poi_density": 25.0,
+      "critical_infrastructure": 0.0,
+      "emergency_impact": 30.0
+    },
+    "component_weights": {
+      "violation_density": 0.1133,
+      "capacity_loss": 0.1662,
+      "traffic_impact": 0.2701,
+      "junction_influence": 0.2539,
+      "poi_density": 0.0604,
+      "critical_infrastructure": 0.0756,
+      "emergency_impact": 0.0604
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Major Junction Proximity",
+      "Signalized Junction"
+    ],
+    "adaptive_reasoning": [
+      "Major junction within 50m \u2014 intersection queue spillback risk",
+      "Signalized junction nearby \u2014 signal cycle failure risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 83.12,
+        "weight": 0.2701,
+        "weighted_value": 22.45,
+        "percentage": 36.7
+      },
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 73.16,
+        "weight": 0.2539,
+        "weighted_value": 18.58,
+        "percentage": 30.4
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1662,
+        "weighted_value": 16.62,
+        "percentage": 27.2
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 30.0,
+        "weight": 0.0604,
+        "weighted_value": 1.81,
+        "percentage": 3.0
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 25.0,
+        "weight": 0.0604,
+        "weighted_value": 1.51,
+        "percentage": 2.5
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 1.14,
+        "weight": 0.1133,
+        "weighted_value": 0.13,
+        "percentage": 0.2
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 0.0,
+        "weight": 0.0756,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      }
+    ],
+    "dominant_factor": "traffic_impact",
+    "top_3_factors": [
+      "traffic_impact",
+      "junction_influence",
+      "capacity_loss"
+    ],
+    "priority_score": 73.6,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 44.6,
+    "daily_vehicles_affected": 26,
+    "annual_delay_savings_hours": 5788.8,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 19,
+    "percentile": 81.0,
+    "tier": "Top 25%",
+    "violation_density_score": 1.140038980459099,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 63.73,
+    "congestion_impact_score": 83.12,
+    "annual_delay_vehicle_hours": 9647.92,
+    "junction_type": "Traffic Circle",
+    "junction_distance_m": 25.0,
+    "emergency_route_impact": false,
+    "violations": 43,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.33,
+    "human_explanation": "CSI = 61/100 (High, Orange). Ranked #19 of 100 citywide (top 19%). Reason: 63.7% traffic slowdown on MS Ramaiah Road (Residential). 100% road capacity loss. Projected annual delay: 9.6K vehicle-hours. Traffic Circle 25m away. Adaptive weighting applied (Adaptive): Major junction within 50m \u2014 intersection queue spillback risk; Signalized junction nearby \u2014 signal cycle failure risk. Enforcement Priority: 74/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "63.7% Traffic Slowdown",
+      "Traffic Circle 25m Away",
+      "Religious Place Nearby",
+      "Traffic Flow Impact: 37% of CSI",
+      "Junction Influence: 30% of CSI",
+      "Road Capacity Loss: 27% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.83,
+    "generated_at": "2026-06-23 13:45:40.419979"
+  },
+  {
+    "hotspot_id": 61,
+    "road_name": "Old Airport Road",
+    "road_hierarchy": "Residential",
+    "latitude": 12.961195560975609,
+    "longitude": 77.63680097560976,
+    "csi_score": 60.73,
+    "csi_level": "High",
+    "csi_color": "#F97316",
+    "csi_color_name": "Orange",
+    "csi_priority": "P2",
+    "csi_priority_label": "P2-High",
+    "component_scores": {
+      "violation_density": 11.2,
+      "capacity_loss": 100.0,
+      "traffic_impact": 83.12,
+      "junction_influence": 73.16,
+      "poi_density": 0.0,
+      "critical_infrastructure": 0.0,
+      "emergency_impact": 30.0
+    },
+    "component_weights": {
+      "violation_density": 0.1133,
+      "capacity_loss": 0.1662,
+      "traffic_impact": 0.2701,
+      "junction_influence": 0.2539,
+      "poi_density": 0.0604,
+      "critical_infrastructure": 0.0756,
+      "emergency_impact": 0.0604
+    },
+    "weight_profile": "Adaptive",
+    "rules_applied": [
+      "Major Junction Proximity",
+      "Signalized Junction"
+    ],
+    "adaptive_reasoning": [
+      "Major junction within 50m \u2014 intersection queue spillback risk",
+      "Signalized junction nearby \u2014 signal cycle failure risk"
+    ],
+    "component_contributions": [
+      {
+        "name": "traffic_impact",
+        "label": "Traffic Flow Impact",
+        "raw_value": 83.12,
+        "weight": 0.2701,
+        "weighted_value": 22.45,
+        "percentage": 37.0
+      },
+      {
+        "name": "junction_influence",
+        "label": "Junction Influence",
+        "raw_value": 73.16,
+        "weight": 0.2539,
+        "weighted_value": 18.58,
+        "percentage": 30.6
+      },
+      {
+        "name": "capacity_loss",
+        "label": "Road Capacity Loss",
+        "raw_value": 100.0,
+        "weight": 0.1662,
+        "weighted_value": 16.62,
+        "percentage": 27.4
+      },
+      {
+        "name": "emergency_impact",
+        "label": "Emergency Access Impact",
+        "raw_value": 30.0,
+        "weight": 0.0604,
+        "weighted_value": 1.81,
+        "percentage": 3.0
+      },
+      {
+        "name": "violation_density",
+        "label": "Violation Density",
+        "raw_value": 11.2,
+        "weight": 0.1133,
+        "weighted_value": 1.27,
+        "percentage": 2.1
+      },
+      {
+        "name": "poi_density",
+        "label": "POI Density",
+        "raw_value": 0.0,
+        "weight": 0.0604,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "name": "critical_infrastructure",
+        "label": "Critical Infrastructure",
+        "raw_value": 0.0,
+        "weight": 0.0756,
+        "weighted_value": 0.0,
+        "percentage": 0.0
+      }
+    ],
+    "dominant_factor": "traffic_impact",
+    "top_3_factors": [
+      "traffic_impact",
+      "junction_influence",
+      "capacity_loss"
+    ],
+    "priority_score": 73.4,
+    "priority_level": "P2 - High Priority",
+    "expected_capacity_recovery": 80.0,
+    "expected_speed_improvement": 44.6,
+    "daily_vehicles_affected": 11,
+    "annual_delay_savings_hours": 2598.8,
+    "enforcement_recommendation": "Deploy ticketing patrols during peak hours.",
+    "rank": 20,
+    "percentile": 80.0,
+    "tier": "Top 25%",
+    "violation_density_score": 11.20024162935028,
+    "capacity_loss_percentage": 100.0,
+    "speed_reduction_percentage": 63.73,
+    "congestion_impact_score": 83.12,
+    "annual_delay_vehicle_hours": 4331.25,
+    "junction_type": "Traffic Circle",
+    "junction_distance_m": 25.0,
+    "emergency_route_impact": false,
+    "violations": 41,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.32,
+    "human_explanation": "CSI = 61/100 (High, Orange). Ranked #20 of 100 citywide (top 20%). Reason: 63.7% traffic slowdown on Old Airport Road (Residential). 100% road capacity loss. Projected annual delay: 4.3K vehicle-hours. Traffic Circle 25m away. Adaptive weighting applied (Adaptive): Major junction within 50m \u2014 intersection queue spillback risk; Signalized junction nearby \u2014 signal cycle failure risk. Enforcement Priority: 73/100 (P2 - High Priority).",
+    "key_factors": [
+      "100% Road Capacity Loss",
+      "63.7% Traffic Slowdown",
+      "Traffic Circle 25m Away",
+      "Traffic Flow Impact: 37% of CSI",
+      "Junction Influence: 31% of CSI",
+      "Road Capacity Loss: 27% of CSI"
+    ],
+    "recommendation": "HIGH PRIORITY: Schedule enforcement this week. Install warning signage. Consider peak-hour barriers.",
+    "confidence": 0.83,
+    "generated_at": "2026-06-23 13:45:40.419979"
+  }
+]

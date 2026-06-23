@@ -1,0 +1,13 @@
+- `[ ]` Update Road Intelligence (MapMyIndia Stub, Granular Confidence, Extended Geometry)
+- `[ ]` Create `backend/models/traffic_intelligence.py`
+- `[ ]` Implement `base_speed_engine.py`
+- `[ ]` Implement `traffic_speed_engine.py`
+- `[ ]` Implement `travel_time_engine.py`
+- `[ ]` Implement `delay_estimation_engine.py`
+- `[ ]` Implement `congestion_impact_engine.py`
+- `[ ]` Create extended `traffic_explainability_engine.py`
+- `[ ]` Implement `traffic_intelligence_service.py`
+- `[ ]` Create FastAPI endpoints (`backend/api/traffic_intelligence.py`)
+- `[ ]` Update `backend/main.py`
+- `[ ]` Create Documentation (`backend/docs/TRAFFIC_INTELLIGENCE_ENGINE.md`)
+- `[ ]` Test API and verify backend integrity

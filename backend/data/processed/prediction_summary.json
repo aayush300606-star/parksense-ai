@@ -1,0 +1,44 @@
+{
+  "total_predictions": 100,
+  "high_risk_zones_identified": 0,
+  "patrol_recommendations_generated": 0,
+  "model_health": {
+    "status": "Healthy",
+    "last_trained": "Just now",
+    "models_active": {
+      "csi_forecaster": "HistGradientBoosting (LightGBM approx)",
+      "pis_forecaster": "HistGradientBoosting (LightGBM approx)"
+    },
+    "performance": {
+      "csi_r2": 0.88,
+      "pis_r2": 0.781
+    },
+    "drift_detection": {
+      "feature_drift": "None Detected",
+      "prediction_drift": "None Detected"
+    },
+    "retraining_triggers": "Scheduled weekly or if R2 drops below 0.70"
+  },
+  "top_global_drivers": [
+    {
+      "feature": "junction_influence",
+      "importance_pct": 31.9
+    },
+    {
+      "feature": "speed_reduction",
+      "importance_pct": 19.7
+    },
+    {
+      "feature": "dow_sin",
+      "importance_pct": 8.8
+    },
+    {
+      "feature": "hour_sin",
+      "importance_pct": 7.4
+    },
+    {
+      "feature": "is_peak_hour",
+      "importance_pct": 6.5
+    }
+  ]
+}

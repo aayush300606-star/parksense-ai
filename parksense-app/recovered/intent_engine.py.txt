@@ -1,0 +1,30 @@
+import re
+
+class IntentEngine:
+    """
+    Classifies the user's natural language query into a specific platform intent.
+    """
+
+    INTENTS = {
+        "HOTSPOT_INQUIRY": [r"top", r"critical", r"highest", r"worst", r"priority", r"hotspot"],
+        "SIMULATION_REQUEST": [r"happen if", r"simulate", r"what if", r"remove", r"enforce"],
+        "PREDICTION_INQUIRY": [r"tomorrow", r"forecast", r"predict", r"will become", r"future"],
+        "ENFORCEMENT_PLAN": [r"send police", r"target first", r"who", r"when", r"dispatch", r"schedule"],
+        "EXECUTIVE_SUMMARY": [r"summary", r"briefing", r"overall", r"city-wide", r"status"]
+    }
+
+    @staticmethod
+    def classify(query: str) -> str:
+        query = query.lower()
+        
+        scores = {intent: 0 for intent in IntentEngine.INTENTS}
+        for intent, keywords in IntentEngine.INTENTS.items():
+            for kw in keywords:
+                if re.search(r'\b' + kw + r'\b', query):
+                    scores[intent] += 1
+                    
+        best_intent = max(scores, key=scores.get)
+        if scores[best_intent] == 0:
+            return "GENERAL_INQUIRY"
+            
+        return best_intent

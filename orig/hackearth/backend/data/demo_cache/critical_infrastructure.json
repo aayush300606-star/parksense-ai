@@ -1,0 +1,812 @@
+[
+  {
+    "hotspot_id": 0,
+    "road_name": "5th Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 1,
+    "road_name": "80 Feet Ring Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 2,
+    "road_name": "5th Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 3,
+    "road_name": "Srinivagilu Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 4,
+    "road_name": "5th Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 5,
+    "road_name": "New Horizon College Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 6,
+    "road_name": "Sahakar Nagar Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 7,
+    "road_name": "Sri Sri Sri Tiruchi Mahaswamiji Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 8,
+    "road_name": "Kamaraj Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 9,
+    "road_name": "Bengaluru Bellary Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 10,
+    "road_name": "4th Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 11,
+    "road_name": "Neeladri Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 12,
+    "road_name": "Magadi Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 13,
+    "road_name": "Unnamed Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 14,
+    "road_name": "Palace Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 15,
+    "road_name": "Sri DV Gundappa Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 16,
+    "road_name": "Sarjapura Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 17,
+    "road_name": "MBT Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 18,
+    "road_name": "Bellary Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 19,
+    "road_name": "Coles Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 20,
+    "road_name": "17th Cross Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 21,
+    "road_name": "ITPL Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 22,
+    "road_name": "Marathahalli Underpass",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 23,
+    "road_name": "Whitefield Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 24,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 25,
+    "road_name": "Mumbai Bengaluru Highway",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 26,
+    "road_name": "Mysore Road",
+    "critical_infrastructure_score": 60.68,
+    "critical_infrastructure_level": "High",
+    "critical_poi_count": 2,
+    "critical_poi_types": [
+      "BUS_STATION",
+      "TRANSIT_HUB"
+    ]
+  },
+  {
+    "hotspot_id": 27,
+    "road_name": "Konadasapura Cross Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 28,
+    "road_name": "Gnana Bharathi Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 29,
+    "road_name": "O Shaughnessy Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 30,
+    "road_name": "RV Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 31,
+    "road_name": "Domlur Inner Ring Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 32,
+    "road_name": "Konanakunte Main Road",
+    "critical_infrastructure_score": 60.68,
+    "critical_infrastructure_level": "High",
+    "critical_poi_count": 2,
+    "critical_poi_types": [
+      "BUS_STATION",
+      "TRANSIT_HUB"
+    ]
+  },
+  {
+    "hotspot_id": 33,
+    "road_name": "Sarjapura Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 34,
+    "road_name": "Mallathahalli Road",
+    "critical_infrastructure_score": 32.97,
+    "critical_infrastructure_level": "Low",
+    "critical_poi_count": 1,
+    "critical_poi_types": [
+      "GOVERNMENT_OFFICE"
+    ]
+  },
+  {
+    "hotspot_id": 35,
+    "road_name": "Whitefield Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 36,
+    "road_name": "Pusa Thippasandra Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 37,
+    "road_name": "Kodigehalli Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 38,
+    "road_name": "Hosur Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 39,
+    "road_name": "Dr Siddaiah Puranik Marg",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 40,
+    "road_name": "Bagaluru Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 41,
+    "road_name": "Chikka Banavara RS Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 42,
+    "road_name": "Amrutha College Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 43,
+    "road_name": "Chikkabellanduru Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 44,
+    "road_name": "CMR Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 45,
+    "road_name": "20th Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 46,
+    "road_name": "18th Cross Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 47,
+    "road_name": "Outer Ring Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 48,
+    "road_name": "80 Feet Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 49,
+    "road_name": "3rd A Cross Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 50,
+    "road_name": "Bellary Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 51,
+    "road_name": "4th Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 52,
+    "road_name": "Konanakunte Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 53,
+    "road_name": "Jakkur Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 54,
+    "road_name": "Dr BR Ambedkar Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 55,
+    "road_name": "Professor K Venkatachalam Circle",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 56,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 57,
+    "road_name": "Sarjapura Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 58,
+    "road_name": "Bellary Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 59,
+    "road_name": "Dr Vishwesha Teertha Swamy Gala Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 60,
+    "road_name": "3rd Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 61,
+    "road_name": "Old Airport Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 62,
+    "road_name": "Mysore Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 63,
+    "road_name": "1st Cross Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 64,
+    "road_name": "3rd Cross Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 65,
+    "road_name": "Hosur Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 66,
+    "road_name": "ITPL Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 67,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 68,
+    "road_name": "Hosa Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 69,
+    "road_name": "Chinmaya Mission Hospital Road",
+    "critical_infrastructure_score": 48.66,
+    "critical_infrastructure_level": "Moderate",
+    "critical_poi_count": 1,
+    "critical_poi_types": [
+      "HOSPITAL"
+    ]
+  },
+  {
+    "hotspot_id": 70,
+    "road_name": "Shri Ramalingeshwara Cave Temple Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 71,
+    "road_name": "RT Nagar Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 72,
+    "road_name": "Hosur Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 73,
+    "road_name": "Bhadrappa Flyover",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 74,
+    "road_name": "Allalasandra Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 75,
+    "road_name": "1st Cross Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 76,
+    "road_name": "9th Cross Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 77,
+    "road_name": "Outer Ring Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 78,
+    "road_name": "Vibgyor High School Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 79,
+    "road_name": "Mumbai Bengaluru Highway",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 80,
+    "road_name": "J Lingaiah Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 81,
+    "road_name": "1st Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 82,
+    "road_name": "7th Cross Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 83,
+    "road_name": "MS Ramaiah Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 84,
+    "road_name": "5th Cross Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 85,
+    "road_name": "Bannerghatta Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 86,
+    "road_name": "28th Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 87,
+    "road_name": "Banaswadi Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 88,
+    "road_name": "8th Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 89,
+    "road_name": "Hosur Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 90,
+    "road_name": "C Chowdappa Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 91,
+    "road_name": "Jayamahal Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 92,
+    "road_name": "Jalahalli Cross Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 93,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 94,
+    "road_name": "Siddhapura Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 95,
+    "road_name": "Old Airport Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 96,
+    "road_name": "Old Kanakapura Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 97,
+    "road_name": "27th Main Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 98,
+    "road_name": "Road Number 1",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  },
+  {
+    "hotspot_id": 99,
+    "road_name": "Mysore Road",
+    "critical_infrastructure_score": 0.0,
+    "critical_infrastructure_level": "Minimal",
+    "critical_poi_count": 0,
+    "critical_poi_types": []
+  }
+]

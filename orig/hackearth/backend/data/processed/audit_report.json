@@ -1,0 +1,60 @@
+{
+  "hotspots": {
+    "count": 100,
+    "status": "PASS"
+  },
+  "road_intelligence": {
+    "count": 100,
+    "status": "PASS"
+  },
+  "effective_width": {
+    "count": 100,
+    "status": "PASS"
+  },
+  "traffic": {
+    "count": 100,
+    "status": "PASS"
+  },
+  "context": {
+    "count": 100,
+    "status": "PASS"
+  },
+  "csi": {
+    "count": 100,
+    "status": "PASS"
+  },
+  "pis": {
+    "count": 100,
+    "status": "PASS"
+  },
+  "predictions": {
+    "count": 100,
+    "status": "PASS"
+  },
+  "digital_twin": {
+    "count": 400,
+    "status": "PASS"
+  },
+  "smart_enforcement": {
+    "interventions": 25,
+    "status": "PASS"
+  },
+  "utgi_graph": {
+    "vulnerable_nodes": 100,
+    "corridors_detected": 1,
+    "status": "PASS"
+  },
+  "rei": {
+    "dna_generated": 100,
+    "status": "PASS"
+  },
+  "ai_copilot": {
+    "intent": "HOTSPOT_INQUIRY",
+    "sources": [
+      "top_critical_hotspots",
+      "city_summary",
+      "highest_impact_zones"
+    ],
+    "status": "PASS"
+  }
+}

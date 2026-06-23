@@ -1,0 +1,93 @@
+from typing import Dict, List
+
+
+class HotspotRankingEngine:
+    """
+    Produces a unified city-wide ranking of hotspots by CSI and PIS.
+    
+    Features:
+        - Overall ranking by CSI (primary) and PIS (secondary)
+        - Percentile classification
+        - Category-filtered rankings (road hierarchy, emergency priority)
+        - Top-N extraction
+    """
+
+    @staticmethod
+    def generate_rankings(csi_data: List[Dict]) -> List[Dict]:
+        """
+        Ranks all hotspots by CSI score and adds percentile/rank metadata.
+        
+        Args:
+            csi_data: List of dicts with at least csi_score, pis_score, hotspot_id
+            
+        Returns:
+            Sorted list with rank, percentile, and tier added
+        """
+        if not csi_data:
+            return []
+
+        # Sort by CSI descending, then PIS descending for ties
+        sorted_data = sorted(
+            csi_data,
+            key=lambda x: (x.get('csi_score', 0), x.get('pis_score', 0)),
+            reverse=True
+        )
+
+        total = len(sorted_data)
+
+        for i, item in enumerate(sorted_data):
+            rank = i + 1
+            # Percentile: what % of hotspots score LOWER than this one
+            percentile = ((total - rank) / total) * 100.0
+
+            item['rank'] = rank
+            item['percentile'] = round(percentile, 1)
+
+            # Tier classification
+            if percentile >= 90:
+
+<truncated 2766 bytes>
+total_csi"]
+
+        # Annual impact
+        total_annual_delay = sum(d.get('annual_delay_vehicle_hours', 0) for d in ranked_data)
+
+        # Emergency hotspots
+        emergency_count = sum(
+            1 for d in ranked_data
+            if d.get('emergency_route_impact', False)
+        )
+
+        return {
+            "total_hotspots_analyzed": total,
+            "csi_statistics": {
+                "mean": round(sum(csi_scores) / total, 2),
+                "median": round(sorted(csi_scores)[total // 2], 2),
+                "min": round(min(csi_scores), 2),
+                "max": round(max(csi_scores), 2),
+                "std_dev": round(
+                    (sum((x - sum(csi_scores)/total)**2 for x in csi_scores) / total) ** 0.5, 2
+                ),
+            },
+            "pis_statistics": {
+                "mean": round(sum(pis_scores) / total, 2),
+                "median": round(sorted(pis_scores)[total // 2], 2),
+                "min": round(min(pis_scores), 2),
+                "max": round(max(pis_scores), 2),
+            },
+            "csi_severity_distribution": csi_severity_dist,
+            "pis_priority_distribution": pis_priority_dist,
+            "road_hierarchy_analysis": hierarchy_dist,
+            "total_annual_delay_vehicle_hours": round(total_annual_delay, 0),
+            "emergency_route_hotspots": emergency_count,
+            "top_5_worst_hotspots": [
+                {
+                    "rank": d['rank'],
+                    "hotspot_id": d['hotspot_id'],
+                    "road_name": d['road_name'],
+                    "csi_score": d['csi_score'],
+                    "pis_priority": d['pis_priority'],
+                }
+                for d in ranked_data[:5]
+            ],
+        }

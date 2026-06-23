@@ -1,0 +1,16 @@
+[
+  {
+    "hotspot_id": 0,
+    "road_name": "5th Main Road",
+    "recommended_patrol_time": "2026-06-22 08:20",
+    "priority_forecast": "Critical Risk",
+    "expected_intervention_benefit": "Moderate"
+  },
+  {
+    "hotspot_id": 1,
+    "road_name": "80 Feet Ring Road",
+    "recommended_patrol_time": "2026-06-22 08:20",
+    "priority_forecast": "Critical Risk",
+    "expected_intervention_benefit": "Moderate"
+  }
+]

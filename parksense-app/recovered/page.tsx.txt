@@ -1,0 +1,80 @@
+"use client";
+
+import { useEffect, useState } from "react";
+import { KPICard } from "@/components/dashboard/KPICard";
+import { GlassCard } from "@/components/dashboard/GlassCard";
+import { AlertTriangle, Car, Clock, MapPin, TrendingUp, ShieldCheck } from "lucide-react";
+import { motion } from "framer-motion";
+import { 
+  BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
+  LineChart, Line, AreaChart, Area, Cell
+} from "recharts";
+
+export default function ExecutiveDashboard() {
+  const [hotspots, setHotspots] = useState<any[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    fetch('/data/hotspots.json')
+      .then(res => res.json())
+      .then(data => {
+        setHotspots(data);
+        setLoading(false);
+      })
+      .catch(err => {
+        console.error("Error loading data:", err);
+        setLoading(false);
+      });
+  }, []);
+
+  const totalViolations = hotspots.reduce((acc, h) => acc + h.count, 0);
+  const criticalZones = hotspots.filter(h => h.severity === 'Critical').length;
+  const avgDelay = hotspots.length ? (hotspots.reduce((acc, h) => acc + h.delay_minutes, 0) / hotspots.length).toFixed(1) : 0;
+  
+  // Mock trend data for charts
+  const trendData = [
+    { time: '08:00', violations: 120 },
+    { time: '10:00', violations: 250 },
+    { time: '12:00', violations: 180 },
+    { time: '14:00', violations: 190 },
+    { time: '16:00', violations: 300 },
+    { ti
+<truncated 6167 bytes>
+ type="number" stroke="#94a3b8" fontSize={12} />
+                <YAxis dataKey="name" type="category" stroke="#94a3b8" fontSize={12} width={80} />
+                <Tooltip cursor={{fill: '#334155', opacity: 0.4}} contentStyle={{ backgroundColor: '#1e293b', borderColor: '#334155', color: '#fff' }} />
+                <Bar dataKey="value" radius={[0, 4, 4, 0]}>
+                  {csiDistribution.map((entry, index) => (
+                    <Cell key={`cell-${index}`} fill={entry.fill} />
+                  ))}
+                </Bar>
+              </BarChart>
+            </ResponsiveContainer>
+          </div>
+        </GlassCard>
+        
+        <GlassCard>
+          <h3 className="text-lg font-semibold text-white mb-4">Effective Road Width Loss (%)</h3>
+          <div className="space-y-4">
+            {hotspots.slice(0, 4).map((h, i) => (
+              <div key={i}>
+                <div className="flex justify-between text-sm mb-1">
+                  <span className="text-slate-300">{h.location_name}</span>
+                  <span className="text-amber-400 font-medium">{h.width_loss_percent.toFixed(1)}% Blocked</span>
+                </div>
+                <div className="w-full h-3 bg-slate-700 rounded-full overflow-hidden flex">
+                  <div className="bg-amber-500 h-full" style={{ width: `${h.width_loss_percent}%` }}></div>
+                  <div className="bg-slate-600 h-full flex-1"></div>
+                </div>
+                <div className="flex justify-between text-xs text-slate-500 mt-1">
+                  <span>Occupied by Illegal Parking</span>
+                  <span>Effective Usable Width</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </GlassCard>
+      </div>
+    </div>
+  );
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "road_name": "Konanakunte Main Road",
+    "road_hierarchy": "Major Arterial",
+    "hotspot_count": 2,
+    "avg_csi": 62.29,
+    "max_csi": 67.61,
+    "total_annual_delay": 93214.0
+  },
+  {
+    "road_name": "Pusa Thippasandra Main Road",
+    "road_hierarchy": "Major Arterial",
+    "hotspot_count": 1,
+    "avg_csi": 66.81,
+    "max_csi": 66.81,
+    "total_annual_delay": 23839.0
+  },
+  {
+    "road_name": "5th Main Road",
+    "road_hierarchy": "Major Arterial",
+    "hotspot_count": 3,
+    "avg_csi": 63.09,
+    "max_csi": 66.75,
+    "total_annual_delay": 429438.0
+  },
+  {
+    "road_name": "3rd A Cross Road",
+    "road_hierarchy": "Residential",
+    "hotspot_count": 1,
+    "avg_csi": 66.65,
+    "max_csi": 66.65,
+    "total_annual_delay": 1535.0
+  },
+  {
+    "road_name": "Chinmaya Mission Hospital Road",
+    "road_hierarchy": "Residential",
+    "hotspot_count": 1,
+    "avg_csi": 65.72,
+    "max_csi": 65.72,
+    "total_annual_delay": 13407.0
+  },
+  {
+    "road_name": "3rd Main Road",
+    "road_hierarchy": "Major Arterial",
+    "hotspot_count": 1,
+    "avg_csi": 65.48,
+    "max_csi": 65.48,
+    "total_annual_delay": 20438.0
+  },
+  {
+    "road_name": "Sarjapura Main Road",
+    "road_hierarchy": "Major Arterial",
+    "hotspot_count": 3,
+    "avg_csi": 58.82,
+    "max_csi": 65.19,
+    "total_annual_delay": 99312.0
+  },
+  {
+    "road_name": "28th Main Road",
+    "road_hierarchy": "Major Arterial",
+    "hotspot_count": 1,
+    "avg_csi": 65.19,
+    "max_csi": 65.19,
+    "total_annual_delay": 26812.0
+  },
+  {
+    "road_name": "Kodigehalli Main Road",
+    "road_hierarchy": "Major Arterial",
+    "hotspot_count": 1,
+    "avg_csi": 64.57,
+    "max_csi": 64.57,
+    "total_annual_delay": 4922.0
+  },
+  {
+    "road_name": "Mysore Road",
+    "road_hierarchy": "Residential",
+    "hotspot_count": 3,
+    "avg_csi": 58.62,
+    "max_csi": 63.82,
+    "total_annual_delay": 31010.0
+  },
+  {
+    "road_name": "Mallathahalli Road",
+    "road_hierarchy": "Residential",
+    "hotspot_count": 1,
+    "avg_csi": 62.69,
+    "max_csi": 62.69,
+    "total_annual_delay": 6795.0
+  },
+  {
+    "road_name": "Kamaraj Road",
+    "road_hierarchy": "Residential",
+    "hotspot_count": 1,
+    "avg_csi": 62.03,
+    "max_csi": 62.03,
+    "total_annual_delay": 56092.0
+  },
+  {
+    "road_name": "Whitefield Road",
+    "road_hierarchy": "Collector",
+    "hotspot_count": 2,
+    "avg_csi": 59.99,
+    "max_csi": 61.88,
+    "total_annual_delay": 51695.0
+  },
+  {
+    "road_name": "Vibgyor High School Road",
+    "road_hierarchy": "Residential",
+    "hotspot_count": 1,
+    "avg_csi": 61.75,
+    "max_csi": 61.75,
+    "total_annual_delay": 4277.0
+  },
+  {
+    "road_name": "80 Feet Ring Road",
+    "road_hierarchy": "Major Arterial",
+    "hotspot_count": 1,
+    "avg_csi": 61.59,
+    "max_csi": 61.59,
+    "total_annual_delay": 260125.0
+  },
+  {
+    "road_name": "Professor K Venkatachalam Circle",
+    "road_hierarchy": "Residential",
+    "hotspot_count": 1,
+    "avg_csi": 61.35,
+    "max_csi": 61.35,
+    "total_annual_delay": 5935.0
+  },
+  {
+    "road_name": "Hosur Road",
+    "road_hierarchy": "Collector",
+    "hotspot_count": 4,
+    "avg_csi": 57.84,
+    "max_csi": 61.3,
+    "total_annual_delay": 90584.0
+  },
+  {
+    "road_name": "MS Ramaiah Road",
+    "road_hierarchy": "Residential",
+    "hotspot_count": 1,
+    "avg_csi": 61.1,
+    "max_csi": 61.1,
+    "total_annual_delay": 9648.0
+  },
+  {
+    "road_name": "Old Airport Road",
+    "road_hierarchy": "Residential",
+    "hotspot_count": 2,
+    "avg_csi": 58.4,
+    "max_csi": 60.73,
+    "total_annual_delay": 10128.0
+  },
+  {
+    "road_name": "Dr Vishwesha Teertha Swamy Gala Road",
+    "road_hierarchy": "Residential",
+    "hotspot_count": 1,
+    "avg_csi": 60.44,
+    "max_csi": 60.44,
+    "total_annual_delay": 5809.0
+  }
+]

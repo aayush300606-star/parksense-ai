@@ -1,0 +1,78 @@
+"use client";
+
+import Link from "next/link";
+import { usePathname } from "next/navigation";
+import { 
+  LayoutDashboard, 
+  Map, 
+  TrendingUp, 
+  ShieldAlert, 
+  Activity, 
+  Cpu, 
+  MessageSquare, 
+  Camera,
+  Network,
+  Share2
+} from "lucide-react";
+import { cn } from "@/lib/utils";
+
+const navItems = [
+  { name: "Executive", href: "/", icon: LayoutDashboard },
+  { name: "Heatmaps", href: "/heatmap", icon: Map },
+  { name: "AI Predictions", href: "/predictions", icon: TrendingUp },
+  { name: "Smart Enforcement", href: "/enforcement", icon: ShieldAlert },
+  { name: "Digital Twin", href: "/digital-twin", icon: Activity },
+  { name: "Network Intel", href: "/network", icon: Network },
+  { name: "Root Cause DNA", href: "/root-cause", icon: Share2 },
+  { name: "Explainable AI", href: "/explainability", icon: Cpu },
+  { name: "GenAI Analyst", href: "/assistant", icon: MessageSquare },
+  { name: "Citizen Reports", href: "/reports", icon: Camera },
+];
+
+export function Sidebar() {
+  const pathname = usePathname();
+
+  return (
+    <div className="w-64 h-screen fixed left-0 top-0 glass-panel border-r border-slate-700/50 z-50 flex flex-col">
+      <div className="p-6 flex items-center gap-3">
+        <div className="w-8 h-8 rounded-lg bg-blue-600 flex items-center justify-center font-bold text-white shadow-[0_0_15px_rgba(37,99,235,0.5)]">
+          P
+        </div>
+        <div>
+          <h1 className="font-bold text-xl tracking-tight text-white">ParkSense <span className="text-blue-400">AI</span></h1>
+          <p className="text-[10px] text-slate-400 font-medium uppercase tracking-wider">Congestion Intelligence</p>
+        </div>
+      </div>
+
+      <nav className="flex-1 px-4 py-4 space-y-1">
+        {navItems.map((item) => {
+          const isActive = pathname === item.href;
+          const Icon = item.icon;
+          return (
+            <Link
+              key={item.name}
+              href={item.href}
+              className={cn(
+                "flex items-center gap-3 px-3 py-3 rounded-lg text-sm font-medium transition-all duration-200",
+                isActive 
+                  ? "bg-blue-600/20 text-blue-400 border border-blue-500/30 shadow-[0_0_10px_rgba(37,99,235,0.1)]" 
+                  : "text-slate-400 hover:text-white hover:bg-slate-800/50 border border-transparent"
+              )}
+            >
+              <Icon className={cn("w-5 h-5", isActive ? "text-blue-400" : "text-slate-500")} />
+              {item.name}
+            </Link>
+          );
+        })}
+      </nav>
+
+      <div className="p-4 m-4 rounded-xl bg-gradient-to-br from-slate-800/80 to-slate-900/80 border border-slate-700/50">
+        <div className="flex items-center gap-2 mb-2">
+          <div className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></div>
+          <span className="text-xs font-semibold text-emerald-400 uppercase tracking-wider">System Active</span>
+        </div>
+        <p className="text-xs text-slate-400 leading-tight">MapMyIndia API Connected • AI Engine Online</p>
+      </div>
+    </div>
+  );
+}

@@ -1,0 +1,1008 @@
+[
+  {
+    "hotspot_id": 0,
+    "road_name": "5th Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 1,
+    "road_name": "80 Feet Ring Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 2,
+    "road_name": "5th Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 3,
+    "road_name": "Srinivagilu Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 4,
+    "road_name": "5th Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 5,
+    "road_name": "New Horizon College Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 6,
+    "road_name": "Sahakar Nagar Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 7,
+    "road_name": "Sri Sri Sri Tiruchi Mahaswamiji Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 8,
+    "road_name": "Kamaraj Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 9,
+    "road_name": "Bengaluru Bellary Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 10,
+    "road_name": "4th Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 11,
+    "road_name": "Neeladri Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 12,
+    "road_name": "Magadi Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 13,
+    "road_name": "Unnamed Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 14,
+    "road_name": "Palace Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 15,
+    "road_name": "Sri DV Gundappa Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 16,
+    "road_name": "Sarjapura Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 17,
+    "road_name": "MBT Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 18,
+    "road_name": "Bellary Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 19,
+    "road_name": "Coles Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 20,
+    "road_name": "17th Cross Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 21,
+    "road_name": "ITPL Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 22,
+    "road_name": "Marathahalli Underpass",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 23,
+    "road_name": "Whitefield Road",
+    "emergency_impact_score": 37.5,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.5,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 24,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 25,
+    "road_name": "Mumbai Bengaluru Highway",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 26,
+    "road_name": "Mysore Road",
+    "emergency_impact_score": 41.06,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 1,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": [
+      "BUS_STATION"
+    ]
+  },
+  {
+    "hotspot_id": 27,
+    "road_name": "Konadasapura Cross Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 28,
+    "road_name": "Gnana Bharathi Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 29,
+    "road_name": "O Shaughnessy Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 30,
+    "road_name": "RV Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 31,
+    "road_name": "Domlur Inner Ring Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 32,
+    "road_name": "Konanakunte Main Road",
+    "emergency_impact_score": 58.56,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 1,
+    "emergency_route_impact": true,
+    "route_probability": 0.9,
+    "emergency_poi_types": [
+      "BUS_STATION"
+    ]
+  },
+  {
+    "hotspot_id": 33,
+    "road_name": "Sarjapura Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 34,
+    "road_name": "Mallathahalli Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 35,
+    "road_name": "Whitefield Road",
+    "emergency_impact_score": 37.5,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.5,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 36,
+    "road_name": "Pusa Thippasandra Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 37,
+    "road_name": "Kodigehalli Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 38,
+    "road_name": "Hosur Road",
+    "emergency_impact_score": 37.5,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.5,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 39,
+    "road_name": "Dr Siddaiah Puranik Marg",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 40,
+    "road_name": "Bagaluru Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 41,
+    "road_name": "Chikka Banavara RS Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 42,
+    "road_name": "Amrutha College Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 43,
+    "road_name": "Chikkabellanduru Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 44,
+    "road_name": "CMR Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 45,
+    "road_name": "20th Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 46,
+    "road_name": "18th Cross Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 47,
+    "road_name": "Outer Ring Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 48,
+    "road_name": "80 Feet Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 49,
+    "road_name": "3rd A Cross Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 50,
+    "road_name": "Bellary Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 51,
+    "road_name": "4th Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 52,
+    "road_name": "Konanakunte Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 53,
+    "road_name": "Jakkur Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 54,
+    "road_name": "Dr BR Ambedkar Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 55,
+    "road_name": "Professor K Venkatachalam Circle",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 56,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 57,
+    "road_name": "Sarjapura Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 58,
+    "road_name": "Bellary Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 59,
+    "road_name": "Dr Vishwesha Teertha Swamy Gala Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 60,
+    "road_name": "3rd Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 61,
+    "road_name": "Old Airport Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 62,
+    "road_name": "Mysore Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 63,
+    "road_name": "1st Cross Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 64,
+    "road_name": "3rd Cross Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 65,
+    "road_name": "Hosur Road",
+    "emergency_impact_score": 37.5,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.5,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 66,
+    "road_name": "ITPL Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 67,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 68,
+    "road_name": "Hosa Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 69,
+    "road_name": "Chinmaya Mission Hospital Road",
+    "emergency_impact_score": 58.27,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 1,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": [
+      "HOSPITAL"
+    ]
+  },
+  {
+    "hotspot_id": 70,
+    "road_name": "Shri Ramalingeshwara Cave Temple Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 71,
+    "road_name": "RT Nagar Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 72,
+    "road_name": "Hosur Road",
+    "emergency_impact_score": 37.5,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.5,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 73,
+    "road_name": "Bhadrappa Flyover",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 74,
+    "road_name": "Allalasandra Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 75,
+    "road_name": "1st Cross Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 76,
+    "road_name": "9th Cross Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 77,
+    "road_name": "Outer Ring Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 78,
+    "road_name": "Vibgyor High School Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 79,
+    "road_name": "Mumbai Bengaluru Highway",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 80,
+    "road_name": "J Lingaiah Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 81,
+    "road_name": "1st Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 82,
+    "road_name": "7th Cross Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 83,
+    "road_name": "MS Ramaiah Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 84,
+    "road_name": "5th Cross Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 85,
+    "road_name": "Bannerghatta Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 86,
+    "road_name": "28th Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 87,
+    "road_name": "Banaswadi Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 88,
+    "road_name": "8th Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 89,
+    "road_name": "Hosur Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 90,
+    "road_name": "C Chowdappa Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 91,
+    "road_name": "Jayamahal Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 92,
+    "road_name": "Jalahalli Cross Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 93,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 94,
+    "road_name": "Siddhapura Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 95,
+    "road_name": "Old Airport Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 96,
+    "road_name": "Old Kanakapura Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 97,
+    "road_name": "27th Main Road",
+    "emergency_impact_score": 47.5,
+    "emergency_priority": "P3-Moderate",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.9,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 98,
+    "road_name": "Road Number 1",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  },
+  {
+    "hotspot_id": 99,
+    "road_name": "Mysore Road",
+    "emergency_impact_score": 30.0,
+    "emergency_priority": "P4-Low",
+    "emergency_pois_count": 0,
+    "emergency_route_impact": false,
+    "route_probability": 0.2,
+    "emergency_poi_types": []
+  }
+]

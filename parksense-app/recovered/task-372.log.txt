@@ -1,0 +1,4 @@
+C:\Users\Aayus\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pydantic\_internal\_fields.py:149: UserWarning: Field "model_used" has conflict with protected namespace "model_".\r
+\r
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.\r
+  warnings.warn(\r

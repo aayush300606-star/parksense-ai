@@ -1,0 +1,2 @@
+C:\Users\Aayus\Desktop\hackearth\backend\ai	emporal_pattern_engine.py:43: DtypeWarning: Columns (19,20,21,22,23) have mixed types. Specify dtype option on import or set low_memory=False.\r
+  df = pd.read_csv(TemporalPatternEngine.CLEANED_DATA_PATH)\r

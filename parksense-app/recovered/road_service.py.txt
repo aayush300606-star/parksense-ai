@@ -1,0 +1,87 @@
+import os
+import json
+from datetime import datetime
+from typing import List, Dict, Any
+
+from ..models.road import RoadIntelligence
+from ..ai.violation_density import DENSITY_JSON_PATH
+
+from ..ai.road_information import RoadInformationEngine
+from ..ai.road_hierarchy_engine import RoadHierarchyEngine
+from ..ai.road_width_engine import RoadWidthEngine
+from ..ai.road_capacity_engine import RoadCapacityEngine
+from ..ai.road_geometry_engine import RoadGeometryEngine
+from ..ai.road_confidence_engine import RoadConfidenceEngine
+
+ROAD_JSON_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'processed', 'road_intelligence.json')
+STATS_JSON_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'processed', 'road_statistics.json')
+
+class RoadService:
+    """
+    Orchestrator for the Road Intelligence Layer.
+    Loads hotspots, extracts AI attributes, and generates standard objects.
+    """
+    
+    @staticmethod
+    def generate_all():
+        """
+        Processes all hotspots and calculates road intelligence.
+        """
+        if not os.path.exists(DENSITY_JSON_PATH):
+            print("No hotspots data found. Pipeline dependency missing.")
+            return []
+            
+        with open(DENSITY_JSON_PATH, 'r') as f:
+            hotspots = json.load(f)
+            
+        road_objects = []
+        
+        for h in hotspots:
+            # 1. Road Information Extraction (MapMyIndia stub / Deterministic Fa
+<truncated 2904 bytes>
+th_meters": 0.0,
+            "average_capacity_score": 0.0
+        }
+        
+        total_width = 0
+        total_capacity = 0
+        
+        for r in road_objects:
+            # Categories
+            stats["road_categories"][r.road_category] = stats["road_categories"].get(r.road_category, 0) + 1
+            # Lanes
+            lane_key = f"{r.lane_count} Lanes"
+            stats["lane_distribution"][lane_key] = stats["lane_distribution"].get(lane_key, 0) + 1
+            # Hierarchy
+            stats["hierarchy_distribution"][r.road_hierarchy] = stats["hierarchy_distribution"].get(r.road_hierarchy, 0) + 1
+            
+            total_width += r.estimated_road_width
+            total_capacity += r.capacity_score
+            
+        stats["average_width_meters"] = round(total_width / len(road_objects), 2)
+        stats["average_capacity_score"] = round(total_capacity / len(road_objects), 2)
+        
+        with open(STATS_JSON_PATH, 'w') as f:
+            json.dump(stats, f, indent=2)
+            
+    @staticmethod
+    def get_all_roads() -> List[Dict[str, Any]]:
+        if not os.path.exists(ROAD_JSON_PATH):
+            RoadService.generate_all()
+        with open(ROAD_JSON_PATH, 'r') as f:
+            return json.load(f)
+            
+    @staticmethod
+    def get_road_by_id(hotspot_id: int) -> Dict[str, Any]:
+        roads = RoadService.get_all_roads()
+        for r in roads:
+            if r['hotspot_id'] == hotspot_id:
+                return r
+        return None
+        
+    @staticmethod
+    def get_statistics() -> Dict[str, Any]:
+        if not os.path.exists(STATS_JSON_PATH):
+            RoadService.generate_all()
+        with open(STATS_JSON_PATH, 'r') as f:
+            return json.load(f)

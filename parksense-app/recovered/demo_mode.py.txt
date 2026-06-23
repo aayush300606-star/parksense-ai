@@ -1,0 +1,74 @@
+from fastapi import APIRouter
+from typing import Dict, Any
+
+from ..services.csi_service import CSIService
+from ..services.pis_service import PISService
+from ..services.prediction_service import PredictionService
+from ..services.digital_twin_service import DigitalTwinService
+from ..services.smart_enforcement_service import SmartEnforcementService
+from ..ai.copilot_orchestrator import CopilotOrchestrator
+
+router = APIRouter(prefix="/api/demo")
+
+@router.get("/presentation")
+def get_presentation_mode() -> Dict[str, Any]:
+    """
+    1-Click Judge Walkthrough Mode.
+    Assembles a narrative payload of the most critical hotspot in the city,
+    combining its CSI, Economic Impact (PIS), Predictive Risk, Digital Twin ROI,
+    and Enforcement Plan, wrapped in an AI Copilot narrative.
+    """
+    
+    # 1. Identify the most critical hotspot (Highest CSI)
+    top_csi = CSIService.get_top_critical()
+    if not top_csi:
+        return {"error": "Pipeline must be run first."}
+        
+    target = top_csi[0]
+    hid = target['hotspot_id']
+    
+    # 2. Get its PIS
+    pis_data = PISService.get_all_pis()
+    target_pis = next((p for p in pis_data if p['hotspot_id'] == hid), None)
+    
+    # 3. Get its Predictions
+    pred_data = PredictionService.get_all_predictions()
+    target_pred = next((p for p in pred_data if p['hotspot_id'] == hid), None)
+    
+    # 4. Get its Digital Twin Results
+    dt_data = DigitalTwinService.get_all_simulations()
+ 
+<truncated 528 bytes>
+esentation summary for {target['road_name']}. Why is it critical, what will happen tomorrow, and what should we do?"
+    narrative = CopilotOrchestrator.process_query(narrative_query)
+    
+    return {
+        "presentation_title": f"Smart City Intelligence Briefing: {target['road_name']}",
+        "narrative_summary": narrative['response'],
+        "ai_evidence": narrative['evidence'],
+        "ai_recommendations": narrative['recommendations'],
+        "intelligence_layers": {
+            "descriptive": {
+                "csi_score": target['csi_score'],
+                "csi_level": target['csi_level'],
+                "dominant_factor": target['dominant_factor'],
+                "pis_score": target_pis['pis_score'] if target_pis else None,
+                "economic_loss_inr": target_pis['economic_loss_inr'] if target_pis else None
+            },
+            "predictive": {
+                "risk_1h": target_pred['forecasts']['1h']['hotspot_probability'] if target_pred else None,
+                "risk_24h": target_pred['forecasts']['24h']['hotspot_probability'] if target_pred else None,
+                "trend_24h": target_pred['forecasts']['24h']['trend_direction'] if target_pred else None
+            },
+            "prescriptive": {
+                "best_simulation": best_dt['scenario_name'] if best_dt else None,
+                "expected_csi_reduction": best_dt['csi_improvement'] if best_dt else None,
+                "roi_score": best_dt['roi'] if best_dt else None
+            },
+            "operational": {
+                "recommended_team": target_sep['recommended_team'] if target_sep else None,
+                "recommended_time": target_sep['recommended_time'] if target_sep else None,
+                "action": target_sep['recommended_action'] if target_sep else None
+            }
+        }
+    }

@@ -1,0 +1,1002 @@
+[
+  {
+    "hotspot_id": 0,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 1,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 2,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 3,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 4,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 5,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 6,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 7,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 8,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 9,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 10,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 11,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 12,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 13,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 14,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 15,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 16,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 17,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 18,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 19,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 20,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 21,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 22,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 23,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 24,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 25,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 26,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 27,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 28,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 29,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 30,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 31,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 32,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 33,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 34,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 35,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 36,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 37,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 38,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 39,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 40,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 41,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 42,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 43,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 44,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 45,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 46,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 47,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 48,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 49,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 50,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 51,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 52,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 53,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 54,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 55,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 56,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 57,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 58,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 59,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 60,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 61,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 62,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 63,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 64,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 65,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 66,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 67,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 68,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 69,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 70,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 71,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 72,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 73,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 74,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 75,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 76,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 77,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 78,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 79,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 80,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 81,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 82,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 83,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 84,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 85,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 86,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 87,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 88,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 89,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 90,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 91,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 92,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 93,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 94,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 95,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 96,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 97,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 98,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  },
+  {
+    "hotspot_id": 99,
+    "dna_signature": "RC_RESIDENTIAL::Medium::High",
+    "primary_cause": "Overnight Residential Parking Overflow",
+    "secondary_cause": "Commercial/Freight Loading",
+    "peak_violation_time": "17:00",
+    "predictability": "Medium",
+    "recommended_immediate_action": "Rapid Towing Dispatch",
+    "recommended_infrastructure_fix": "Increased Frequency Patrols"
+  }
+]

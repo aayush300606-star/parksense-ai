@@ -1,0 +1,702 @@
+[
+  {
+    "hotspot_id": 32,
+    "road_name": "Konanakunte Main Road",
+    "lost_productivity_inr": 38520,
+    "fuel_cost_inr": 23750,
+    "total_economic_burden_inr": 62270
+  },
+  {
+    "hotspot_id": 36,
+    "road_name": "Pusa Thippasandra Main Road",
+    "lost_productivity_inr": 14310,
+    "fuel_cost_inr": 8820,
+    "total_economic_burden_inr": 23130
+  },
+  {
+    "hotspot_id": 0,
+    "road_name": "5th Main Road",
+    "lost_productivity_inr": 176220,
+    "fuel_cost_inr": 108670,
+    "total_economic_burden_inr": 284890
+  },
+  {
+    "hotspot_id": 49,
+    "road_name": "3rd A Cross Road",
+    "lost_productivity_inr": 917,
+    "fuel_cost_inr": 260,
+    "total_economic_burden_inr": 1178
+  },
+  {
+    "hotspot_id": 4,
+    "road_name": "5th Main Road",
+    "lost_productivity_inr": 58158,
+    "fuel_cost_inr": 35860,
+    "total_economic_burden_inr": 94018
+  },
+  {
+    "hotspot_id": 69,
+    "road_name": "Chinmaya Mission Hospital Road",
+    "lost_productivity_inr": 8046,
+    "fuel_cost_inr": 2270,
+    "total_economic_burden_inr": 10316
+  },
+  {
+    "hotspot_id": 60,
+    "road_name": "3rd Main Road",
+    "lost_productivity_inr": 12257,
+    "fuel_cost_inr": 7559,
+    "total_economic_burden_inr": 19817
+  },
+  {
+    "hotspot_id": 57,
+    "road_name": "Sarjapura Main Road",
+    "lost_productivity_inr": 16937,
+    "fuel_cost_inr": 10450,
+    "total_economic_burden_inr": 27387
+  },
+  {
+    "hotspot_id": 86,
+    "road_name": "28th Main Road",
+    "lost_productivity_inr": 16092,
+    "fuel_cost_inr": 9920,
+    "total_economic_burden_inr": 26012
+  },
+  {
+    "hotspot_id": 37,
+    "road_name": "Kodigehalli Main Road",
+    "lost_productivity_inr": 2951,
+    "fuel_cost_inr": 1820,
+    "total_economic_burden_inr": 4772
+  },
+  {
+    "hotspot_id": 26,
+    "road_name": "Mysore Road",
+    "lost_productivity_inr": 9666,
+    "fuel_cost_inr": 2730,
+    "total_economic_burden_inr": 12396
+  },
+  {
+    "hotspot_id": 34,
+    "road_name": "Mallathahalli Road",
+    "lost_productivity_inr": 4068,
+    "fuel_cost_inr": 1150,
+    "total_economic_burden_inr": 5218
+  },
+  {
+    "hotspot_id": 8,
+    "road_name": "Kamaraj Road",
+    "lost_productivity_inr": 33660,
+    "fuel_cost_inr": 9500,
+    "total_economic_burden_inr": 43160
+  },
+  {
+    "hotspot_id": 23,
+    "road_name": "Whitefield Road",
+    "lost_productivity_inr": 16614,
+    "fuel_cost_inr": 6550,
+    "total_economic_burden_inr": 23164
+  },
+  {
+    "hotspot_id": 78,
+    "road_name": "Vibgyor High School Road",
+    "lost_productivity_inr": 2574,
+    "fuel_cost_inr": 730,
+    "total_economic_burden_inr": 3304
+  },
+  {
+    "hotspot_id": 1,
+    "road_name": "80 Feet Ring Road",
+    "lost_productivity_inr": 156078,
+    "fuel_cost_inr": 96250,
+    "total_economic_burden_inr": 252328
+  },
+  {
+    "hotspot_id": 55,
+    "road_name": "Professor K Venkatachalam Circle",
+    "lost_productivity_inr": 3564,
+    "fuel_cost_inr": 1010,
+    "total_economic_burden_inr": 4574
+  },
+  {
+    "hotspot_id": 65,
+    "road_name": "Hosur Road",
+    "lost_productivity_inr": 6083,
+    "fuel_cost_inr": 2400,
+    "total_economic_burden_inr": 8484
+  },
+  {
+    "hotspot_id": 83,
+    "road_name": "MS Ramaiah Road",
+    "lost_productivity_inr": 5796,
+    "fuel_cost_inr": 1639,
+    "total_economic_burden_inr": 7436
+  },
+  {
+    "hotspot_id": 61,
+    "road_name": "Old Airport Road",
+    "lost_productivity_inr": 2592,
+    "fuel_cost_inr": 730,
+    "total_economic_burden_inr": 3322
+  },
+  {
+    "hotspot_id": 59,
+    "road_name": "Dr Vishwesha Teertha Swamy Gala Road",
+    "lost_productivity_inr": 3491,
+    "fuel_cost_inr": 990,
+    "total_economic_burden_inr": 4482
+  },
+  {
+    "hotspot_id": 14,
+    "road_name": "Palace Road",
+    "lost_productivity_inr": 11393,
+    "fuel_cost_inr": 3220,
+    "total_economic_burden_inr": 14613
+  },
+  {
+    "hotspot_id": 54,
+    "road_name": "Dr BR Ambedkar Road",
+    "lost_productivity_inr": 3960,
+    "fuel_cost_inr": 1120,
+    "total_economic_burden_inr": 5080
+  },
+  {
+    "hotspot_id": 25,
+    "road_name": "Mumbai Bengaluru Highway",
+    "lost_productivity_inr": 42318,
+    "fuel_cost_inr": 26100,
+    "total_economic_burden_inr": 68418
+  },
+  {
+    "hotspot_id": 39,
+    "road_name": "Dr Siddaiah Puranik Marg",
+    "lost_productivity_inr": 7686,
+    "fuel_cost_inr": 2170,
+    "total_economic_burden_inr": 9856
+  },
+  {
+    "hotspot_id": 64,
+    "road_name": "3rd Cross Road",
+    "lost_productivity_inr": 4320,
+    "fuel_cost_inr": 1220,
+    "total_economic_burden_inr": 5540
+  },
+  {
+    "hotspot_id": 43,
+    "road_name": "Chikkabellanduru Road",
+    "lost_productivity_inr": 4608,
+    "fuel_cost_inr": 1300,
+    "total_economic_burden_inr": 5908
+  },
+  {
+    "hotspot_id": 76,
+    "road_name": "9th Cross Road",
+    "lost_productivity_inr": 6911,
+    "fuel_cost_inr": 1950,
+    "total_economic_burden_inr": 8862
+  },
+  {
+    "hotspot_id": 30,
+    "road_name": "RV Road",
+    "lost_productivity_inr": 7398,
+    "fuel_cost_inr": 2090,
+    "total_economic_burden_inr": 9488
+  },
+  {
+    "hotspot_id": 70,
+    "road_name": "Shri Ramalingeshwara Cave Temple Road",
+    "lost_productivity_inr": 5076,
+    "fuel_cost_inr": 1430,
+    "total_economic_burden_inr": 6506
+  },
+  {
+    "hotspot_id": 74,
+    "road_name": "Allalasandra Main Road",
+    "lost_productivity_inr": 6120,
+    "fuel_cost_inr": 3770,
+    "total_economic_burden_inr": 9890
+  },
+  {
+    "hotspot_id": 88,
+    "road_name": "8th Main Road",
+    "lost_productivity_inr": 4410,
+    "fuel_cost_inr": 2720,
+    "total_economic_burden_inr": 7130
+  },
+  {
+    "hotspot_id": 29,
+    "road_name": "O Shaughnessy Road",
+    "lost_productivity_inr": 6641,
+    "fuel_cost_inr": 1870,
+    "total_economic_burden_inr": 8512
+  },
+  {
+    "hotspot_id": 21,
+    "road_name": "ITPL Main Road",
+    "lost_productivity_inr": 40985,
+    "fuel_cost_inr": 25270,
+    "total_economic_burden_inr": 66256
+  },
+  {
+    "hotspot_id": 35,
+    "road_name": "Whitefield Road",
+    "lost_productivity_inr": 14400,
+    "fuel_cost_inr": 5680,
+    "total_economic_burden_inr": 20080
+  },
+  {
+    "hotspot_id": 81,
+    "road_name": "1st Main Road",
+    "lost_productivity_inr": 24785,
+    "fuel_cost_inr": 15280,
+    "total_economic_burden_inr": 40066
+  },
+  {
+    "hotspot_id": 96,
+    "road_name": "Old Kanakapura Road",
+    "lost_productivity_inr": 3491,
+    "fuel_cost_inr": 990,
+    "total_economic_burden_inr": 4482
+  },
+  {
+    "hotspot_id": 38,
+    "road_name": "Hosur Road",
+    "lost_productivity_inr": 32255,
+    "fuel_cost_inr": 12720,
+    "total_economic_burden_inr": 44975
+  },
+  {
+    "hotspot_id": 6,
+    "road_name": "Sahakar Nagar Road",
+    "lost_productivity_inr": 11106,
+    "fuel_cost_inr": 3130,
+    "total_economic_burden_inr": 14236
+  },
+  {
+    "hotspot_id": 42,
+    "road_name": "Amrutha College Road",
+    "lost_productivity_inr": 6803,
+    "fuel_cost_inr": 1920,
+    "total_economic_burden_inr": 8724
+  },
+  {
+    "hotspot_id": 7,
+    "road_name": "Sri Sri Sri Tiruchi Mahaswamiji Road",
+    "lost_productivity_inr": 5940,
+    "fuel_cost_inr": 1680,
+    "total_economic_burden_inr": 7620
+  },
+  {
+    "hotspot_id": 5,
+    "road_name": "New Horizon College Road",
+    "lost_productivity_inr": 40644,
+    "fuel_cost_inr": 11470,
+    "total_economic_burden_inr": 52114
+  },
+  {
+    "hotspot_id": 98,
+    "road_name": "Road Number 1",
+    "lost_productivity_inr": 4248,
+    "fuel_cost_inr": 1200,
+    "total_economic_burden_inr": 5448
+  },
+  {
+    "hotspot_id": 41,
+    "road_name": "Chikka Banavara RS Road",
+    "lost_productivity_inr": 2358,
+    "fuel_cost_inr": 670,
+    "total_economic_burden_inr": 3028
+  },
+  {
+    "hotspot_id": 50,
+    "road_name": "Bellary Road",
+    "lost_productivity_inr": 15407,
+    "fuel_cost_inr": 4350,
+    "total_economic_burden_inr": 19757
+  },
+  {
+    "hotspot_id": 51,
+    "road_name": "4th Main Road",
+    "lost_productivity_inr": 12816,
+    "fuel_cost_inr": 7900,
+    "total_economic_burden_inr": 20716
+  },
+  {
+    "hotspot_id": 52,
+    "road_name": "Konanakunte Main Road",
+    "lost_productivity_inr": 17406,
+    "fuel_cost_inr": 10730,
+    "total_economic_burden_inr": 28136
+  },
+  {
+    "hotspot_id": 31,
+    "road_name": "Domlur Inner Ring Road",
+    "lost_productivity_inr": 48474,
+    "fuel_cost_inr": 29889,
+    "total_economic_burden_inr": 78364
+  },
+  {
+    "hotspot_id": 87,
+    "road_name": "Banaswadi Main Road",
+    "lost_productivity_inr": 18647,
+    "fuel_cost_inr": 11500,
+    "total_economic_burden_inr": 30147
+  },
+  {
+    "hotspot_id": 85,
+    "road_name": "Bannerghatta Main Road",
+    "lost_productivity_inr": 17100,
+    "fuel_cost_inr": 10550,
+    "total_economic_burden_inr": 27650
+  },
+  {
+    "hotspot_id": 18,
+    "road_name": "Bellary Road",
+    "lost_productivity_inr": 11106,
+    "fuel_cost_inr": 3130,
+    "total_economic_burden_inr": 14236
+  },
+  {
+    "hotspot_id": 11,
+    "road_name": "Neeladri Road",
+    "lost_productivity_inr": 9036,
+    "fuel_cost_inr": 2550,
+    "total_economic_burden_inr": 11586
+  },
+  {
+    "hotspot_id": 72,
+    "road_name": "Hosur Road",
+    "lost_productivity_inr": 10152,
+    "fuel_cost_inr": 4000,
+    "total_economic_burden_inr": 14152
+  },
+  {
+    "hotspot_id": 94,
+    "road_name": "Siddhapura Road",
+    "lost_productivity_inr": 3581,
+    "fuel_cost_inr": 1010,
+    "total_economic_burden_inr": 4592
+  },
+  {
+    "hotspot_id": 13,
+    "road_name": "Unnamed Road",
+    "lost_productivity_inr": 15300,
+    "fuel_cost_inr": 4320,
+    "total_economic_burden_inr": 19620
+  },
+  {
+    "hotspot_id": 19,
+    "road_name": "Coles Road",
+    "lost_productivity_inr": 12617,
+    "fuel_cost_inr": 3560,
+    "total_economic_burden_inr": 16177
+  },
+  {
+    "hotspot_id": 2,
+    "road_name": "5th Main Road",
+    "lost_productivity_inr": 23292,
+    "fuel_cost_inr": 14360,
+    "total_economic_burden_inr": 37652
+  },
+  {
+    "hotspot_id": 3,
+    "road_name": "Srinivagilu Main Road",
+    "lost_productivity_inr": 30312,
+    "fuel_cost_inr": 18690,
+    "total_economic_burden_inr": 49002
+  },
+  {
+    "hotspot_id": 47,
+    "road_name": "Outer Ring Road",
+    "lost_productivity_inr": 69138,
+    "fuel_cost_inr": 42640,
+    "total_economic_burden_inr": 111778
+  },
+  {
+    "hotspot_id": 68,
+    "road_name": "Hosa Road",
+    "lost_productivity_inr": 7470,
+    "fuel_cost_inr": 2110,
+    "total_economic_burden_inr": 9580
+  },
+  {
+    "hotspot_id": 15,
+    "road_name": "Sri DV Gundappa Road",
+    "lost_productivity_inr": 7686,
+    "fuel_cost_inr": 2170,
+    "total_economic_burden_inr": 9856
+  },
+  {
+    "hotspot_id": 66,
+    "road_name": "ITPL Main Road",
+    "lost_productivity_inr": 35280,
+    "fuel_cost_inr": 21760,
+    "total_economic_burden_inr": 57040
+  },
+  {
+    "hotspot_id": 56,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "lost_productivity_inr": 7073,
+    "fuel_cost_inr": 2000,
+    "total_economic_burden_inr": 9074
+  },
+  {
+    "hotspot_id": 12,
+    "road_name": "Magadi Main Road",
+    "lost_productivity_inr": 21906,
+    "fuel_cost_inr": 13510,
+    "total_economic_burden_inr": 35416
+  },
+  {
+    "hotspot_id": 71,
+    "road_name": "RT Nagar Main Road",
+    "lost_productivity_inr": 28800,
+    "fuel_cost_inr": 17760,
+    "total_economic_burden_inr": 46560
+  },
+  {
+    "hotspot_id": 95,
+    "road_name": "Old Airport Road",
+    "lost_productivity_inr": 3474,
+    "fuel_cost_inr": 980,
+    "total_economic_burden_inr": 4454
+  },
+  {
+    "hotspot_id": 62,
+    "road_name": "Mysore Road",
+    "lost_productivity_inr": 5508,
+    "fuel_cost_inr": 1550,
+    "total_economic_burden_inr": 7058
+  },
+  {
+    "hotspot_id": 92,
+    "road_name": "Jalahalli Cross Road",
+    "lost_productivity_inr": 7668,
+    "fuel_cost_inr": 2160,
+    "total_economic_burden_inr": 9828
+  },
+  {
+    "hotspot_id": 40,
+    "road_name": "Bagaluru Main Road",
+    "lost_productivity_inr": 22482,
+    "fuel_cost_inr": 13860,
+    "total_economic_burden_inr": 36342
+  },
+  {
+    "hotspot_id": 45,
+    "road_name": "20th Main Road",
+    "lost_productivity_inr": 66456,
+    "fuel_cost_inr": 40980,
+    "total_economic_burden_inr": 107436
+  },
+  {
+    "hotspot_id": 90,
+    "road_name": "C Chowdappa Main Road",
+    "lost_productivity_inr": 42515,
+    "fuel_cost_inr": 26220,
+    "total_economic_burden_inr": 68736
+  },
+  {
+    "hotspot_id": 93,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "lost_productivity_inr": 3078,
+    "fuel_cost_inr": 869,
+    "total_economic_burden_inr": 3948
+  },
+  {
+    "hotspot_id": 16,
+    "road_name": "Sarjapura Main Road",
+    "lost_productivity_inr": 27090,
+    "fuel_cost_inr": 16710,
+    "total_economic_burden_inr": 43800
+  },
+  {
+    "hotspot_id": 24,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "lost_productivity_inr": 5993,
+    "fuel_cost_inr": 1689,
+    "total_economic_burden_inr": 7683
+  },
+  {
+    "hotspot_id": 48,
+    "road_name": "80 Feet Road",
+    "lost_productivity_inr": 9828,
+    "fuel_cost_inr": 2770,
+    "total_economic_burden_inr": 12598
+  },
+  {
+    "hotspot_id": 53,
+    "road_name": "Jakkur Main Road",
+    "lost_productivity_inr": 17442,
+    "fuel_cost_inr": 10760,
+    "total_economic_burden_inr": 28202
+  },
+  {
+    "hotspot_id": 99,
+    "road_name": "Mysore Road",
+    "lost_productivity_inr": 3420,
+    "fuel_cost_inr": 969,
+    "total_economic_burden_inr": 4390
+  },
+  {
+    "hotspot_id": 44,
+    "road_name": "CMR Road",
+    "lost_productivity_inr": 5291,
+    "fuel_cost_inr": 1490,
+    "total_economic_burden_inr": 6781
+  },
+  {
+    "hotspot_id": 80,
+    "road_name": "J Lingaiah Road",
+    "lost_productivity_inr": 7236,
+    "fuel_cost_inr": 2039,
+    "total_economic_burden_inr": 9276
+  },
+  {
+    "hotspot_id": 79,
+    "road_name": "Mumbai Bengaluru Highway",
+    "lost_productivity_inr": 40374,
+    "fuel_cost_inr": 24900,
+    "total_economic_burden_inr": 65274
+  },
+  {
+    "hotspot_id": 58,
+    "road_name": "Bellary Road",
+    "lost_productivity_inr": 8171,
+    "fuel_cost_inr": 2310,
+    "total_economic_burden_inr": 10482
+  },
+  {
+    "hotspot_id": 89,
+    "road_name": "Hosur Road",
+    "lost_productivity_inr": 5886,
+    "fuel_cost_inr": 1660,
+    "total_economic_burden_inr": 7546
+  },
+  {
+    "hotspot_id": 10,
+    "road_name": "4th Main Road",
+    "lost_productivity_inr": 17262,
+    "fuel_cost_inr": 10640,
+    "total_economic_burden_inr": 27902
+  },
+  {
+    "hotspot_id": 67,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "lost_productivity_inr": 2412,
+    "fuel_cost_inr": 680,
+    "total_economic_burden_inr": 3092
+  },
+  {
+    "hotspot_id": 28,
+    "road_name": "Gnana Bharathi Road",
+    "lost_productivity_inr": 10746,
+    "fuel_cost_inr": 3030,
+    "total_economic_burden_inr": 13776
+  },
+  {
+    "hotspot_id": 9,
+    "road_name": "Bengaluru Bellary Road",
+    "lost_productivity_inr": 5958,
+    "fuel_cost_inr": 1680,
+    "total_economic_burden_inr": 7638
+  },
+  {
+    "hotspot_id": 77,
+    "road_name": "Outer Ring Road",
+    "lost_productivity_inr": 18450,
+    "fuel_cost_inr": 11380,
+    "total_economic_burden_inr": 29830
+  },
+  {
+    "hotspot_id": 17,
+    "road_name": "MBT Road",
+    "lost_productivity_inr": 14597,
+    "fuel_cost_inr": 4120,
+    "total_economic_burden_inr": 18718
+  },
+  {
+    "hotspot_id": 33,
+    "road_name": "Sarjapura Main Road",
+    "lost_productivity_inr": 15570,
+    "fuel_cost_inr": 9600,
+    "total_economic_burden_inr": 25170
+  },
+  {
+    "hotspot_id": 97,
+    "road_name": "27th Main Road",
+    "lost_productivity_inr": 13517,
+    "fuel_cost_inr": 8340,
+    "total_economic_burden_inr": 21858
+  },
+  {
+    "hotspot_id": 91,
+    "road_name": "Jayamahal Main Road",
+    "lost_productivity_inr": 16200,
+    "fuel_cost_inr": 9990,
+    "total_economic_burden_inr": 26190
+  },
+  {
+    "hotspot_id": 73,
+    "road_name": "Bhadrappa Flyover",
+    "lost_productivity_inr": 7020,
+    "fuel_cost_inr": 1980,
+    "total_economic_burden_inr": 9000
+  },
+  {
+    "hotspot_id": 22,
+    "road_name": "Marathahalli Underpass",
+    "lost_productivity_inr": 9630,
+    "fuel_cost_inr": 2720,
+    "total_economic_burden_inr": 12350
+  },
+  {
+    "hotspot_id": 75,
+    "road_name": "1st Cross Road",
+    "lost_productivity_inr": 3491,
+    "fuel_cost_inr": 990,
+    "total_economic_burden_inr": 4482
+  },
+  {
+    "hotspot_id": 27,
+    "road_name": "Konadasapura Cross Road",
+    "lost_productivity_inr": 1386,
+    "fuel_cost_inr": 390,
+    "total_economic_burden_inr": 1776
+  },
+  {
+    "hotspot_id": 82,
+    "road_name": "7th Cross Road",
+    "lost_productivity_inr": 6083,
+    "fuel_cost_inr": 1720,
+    "total_economic_burden_inr": 7803
+  },
+  {
+    "hotspot_id": 20,
+    "road_name": "17th Cross Road",
+    "lost_productivity_inr": 14543,
+    "fuel_cost_inr": 4100,
+    "total_economic_burden_inr": 18644
+  },
+  {
+    "hotspot_id": 46,
+    "road_name": "18th Cross Road",
+    "lost_productivity_inr": 3708,
+    "fuel_cost_inr": 1050,
+    "total_economic_burden_inr": 4758
+  },
+  {
+    "hotspot_id": 63,
+    "road_name": "1st Cross Road",
+    "lost_productivity_inr": 6948,
+    "fuel_cost_inr": 1960,
+    "total_economic_burden_inr": 8908
+  },
+  {
+    "hotspot_id": 84,
+    "road_name": "5th Cross Road",
+    "lost_productivity_inr": 7146,
+    "fuel_cost_inr": 2020,
+    "total_economic_burden_inr": 9166
+  }
+]

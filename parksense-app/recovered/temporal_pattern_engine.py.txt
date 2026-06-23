@@ -1,0 +1,94 @@
+import os
+import pandas as pd
+import numpy as np
+from typing import Dict, List
+from collections import Counter
+
+
+class TemporalPatternEngine:
+    """
+    Extracts time-of-day and day-of-week violation patterns from raw data.
+    
+    For each hotspot, determines:
+        - Peak violation hours
+        - Day-of-week distribution
+        - Month-over-month consistency (recurrence)
+        - Temporal recurrence score (0-100)
+    
+    A hotspot with violations consistently across all months and peak hours
+    scores higher recurrence than one with sporadic bursts.
+    """
+
+    CLEANED_DATA_PATH = os.path.join(
+        os.path.dirname(__file__), '..', 'data', 'processed', 'cleaned_dataset.csv'
+    )
+
+    @staticmethod
+    def analyze_temporal_patterns(hotspots: List[Dict]) -> List[Dict]:
+        """
+        Analyzes temporal patterns for all hotspots using the cleaned dataset.
+        
+        Args:
+            hotspots: List of hotspot dicts with hotspot_id, latitude, longitude
+            
+        Returns:
+            List of temporal pattern dicts per hotspot
+        """
+        # Load cleaned dataset
+        if not os.path.exists(TemporalPatternEngine.CLEANED_DATA_PATH):
+            print("Cleaned dataset not found. Returning default temporal patterns.")
+            return [TemporalPatternEngine._default_pattern(h['hotspot_id']) for h in hotspots]
+
+        try:
+            df = pd.read_csv(TemporalPatte
+<truncated 6018 bytes>
+   results.append(pattern)
+
+        return results
+
+    @staticmethod
+    def _coordinate_based_patterns(hotspots: List[Dict], df: pd.DataFrame) -> List[Dict]:
+        """
+        Fallback when no temporal columns exist.
+        Uses violation count as a proxy for recurrence.
+        """
+        results = []
+        max_violations = max((h.get('violations', 1) for h in hotspots), default=1)
+
+        for h in hotspots:
+            hid = h['hotspot_id']
+            violations = h.get('violations', 0)
+
+            # Recurrence proportional to violation count
+            recurrence = (violations / max(1, max_violations)) * 100.0
+
+            results.append({
+                "hotspot_id": hid,
+                "hourly_distribution": {},
+                "peak_hour": 10,
+                "peak_hour_label": "10:00 - 11:00",
+                "daily_distribution": {},
+                "peak_day": "Wednesday",
+                "months_active": 5,
+                "month_coverage": 1.0,
+                "temporal_recurrence_score": round(min(100.0, recurrence), 2),
+                "violation_count_local": int(violations)
+            })
+
+        return results
+
+    @staticmethod
+    def _default_pattern(hotspot_id: int) -> Dict:
+        """Returns a default temporal pattern when no data is available."""
+        return {
+            "hotspot_id": hotspot_id,
+            "hourly_distribution": {},
+            "peak_hour": 10,
+            "peak_hour_label": "10:00 - 11:00",
+            "daily_distribution": {},
+            "peak_day": "Wednesday",
+            "months_active": 1,
+            "month_coverage": 0.20,
+            "temporal_recurrence_score": 20.0,
+            "violation_count_local": 0
+        }

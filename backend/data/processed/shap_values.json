@@ -1,0 +1,210 @@
+{
+  "global_importance": [
+    {
+      "feature": "Violation Density",
+      "value": 0.35
+    },
+    {
+      "feature": "Time of Day",
+      "value": 0.25
+    },
+    {
+      "feature": "Road Narrowing",
+      "value": 0.15
+    },
+    {
+      "feature": "Proximity to Junction",
+      "value": 0.12
+    },
+    {
+      "feature": "Commercial Zone",
+      "value": 0.08
+    },
+    {
+      "feature": "Day of Week",
+      "value": 0.05
+    }
+  ],
+  "local_explanations": {
+    "19": [
+      {
+        "feature": "Violation Density",
+        "shap_value": 0.11340977821436538
+      },
+      {
+        "feature": "Time of Day",
+        "shap_value": 0.2856074614518494
+      },
+      {
+        "feature": "Road Narrowing",
+        "shap_value": 0.011983604309704535
+      },
+      {
+        "feature": "Proximity to Junction",
+        "shap_value": 0.11447130268311981
+      }
+    ],
+    "25": [
+      {
+        "feature": "Violation Density",
+        "shap_value": 0.2172435232748168
+      },
+      {
+        "feature": "Time of Day",
+        "shap_value": 0.09932503068672431
+      },
+      {
+        "feature": "Road Narrowing",
+        "shap_value": -0.03676814935898044
+      },
+      {
+        "feature": "Proximity to Junction",
+        "shap_value": 0.052816813212294714
+      }
+    ],
+    "0": [
+      {
+        "feature": "Violation Density",
+        "shap_value": 0.29192481499917344
+      },
+      {
+        "feature": "Time of Day",
+        "shap_value": 0.09830248281623023
+      },
+      {
+        "feature": "Road Narrowing",
+        "shap_value": 0.003887343465809198
+      },
+      {
+        "feature": "Proximity to Junction",
+        "shap_value": 0.14276920401878937
+      }
+    ],
+    "8": [
+      {
+        "feature": "Violation Density",
+        "shap_value": 0.33100030410057196
+      },
+      {
+        "feature": "Time of Day",
+        "shap_value": 0.20020234510847834
+      },
+      {
+        "feature": "Road Narrowing",
+        "shap_value": 0.018129294071150576
+      },
+      {
+        "feature": "Proximity to Junction",
+        "shap_value": 0.06495591334306389
+      }
+    ],
+    "35": [
+      {
+        "feature": "Violation Density",
+        "shap_value": 0.24898048940939757
+      },
+      {
+        "feature": "Time of Day",
+        "shap_value": 0.09547330415837053
+      },
+      {
+        "feature": "Road Narrowing",
+        "shap_value": 0.04999487941669531
+      },
+      {
+        "feature": "Proximity to Junction",
+        "shap_value": 0.025655237912955084
+      }
+    ],
+    "5": [
+      {
+        "feature": "Violation Density",
+        "shap_value": 0.2614408443569146
+      },
+      {
+        "feature": "Time of Day",
+        "shap_value": 0.05823512144529132
+      },
+      {
+        "feature": "Road Narrowing",
+        "shap_value": 0.11058132850166838
+      },
+      {
+        "feature": "Proximity to Junction",
+        "shap_value": 0.03991496381541167
+      }
+    ],
+    "16": [
+      {
+        "feature": "Violation Density",
+        "shap_value": 0.11522780914974112
+      },
+      {
+        "feature": "Time of Day",
+        "shap_value": 0.275979314432821
+      },
+      {
+        "feature": "Road Narrowing",
+        "shap_value": -0.07600511223283643
+      },
+      {
+        "feature": "Proximity to Junction",
+        "shap_value": 0.08261277517864678
+      }
+    ],
+    "33": [
+      {
+        "feature": "Violation Density",
+        "shap_value": 0.3093929004131179
+      },
+      {
+        "feature": "Time of Day",
+        "shap_value": 0.0741104891722789
+      },
+      {
+        "feature": "Road Narrowing",
+        "shap_value": 0.027782481892996785
+      },
+      {
+        "feature": "Proximity to Junction",
+        "shap_value": 0.04856976718830303
+      }
+    ],
+    "29": [
+      {
+        "feature": "Violation Density",
+        "shap_value": 0.35126838763930435
+      },
+      {
+        "feature": "Time of Day",
+        "shap_value": 0.10920099501766732
+      },
+      {
+        "feature": "Road Narrowing",
+        "shap_value": 0.00929057667688088
+      },
+      {
+        "feature": "Proximity to Junction",
+        "shap_value": 0.0628227013084369
+      }
+    ],
+    "13": [
+      {
+        "feature": "Violation Density",
+        "shap_value": 0.2744774395981669
+      },
+      {
+        "feature": "Time of Day",
+        "shap_value": 0.15364852382947497
+      },
+      {
+        "feature": "Road Narrowing",
+        "shap_value": 0.16436383742040825
+      },
+      {
+        "feature": "Proximity to Junction",
+        "shap_value": 0.12080095619808229
+      }
+    ]
+  }
+}

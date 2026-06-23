@@ -1,0 +1,902 @@
+[
+  {
+    "hotspot_id": 0,
+    "road_name": "5th Main Road",
+    "delay_seconds": 563.92,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 293708.33,
+    "normal_travel_time_seconds": 507.16,
+    "current_travel_time_seconds": 1071.08
+  },
+  {
+    "hotspot_id": 1,
+    "road_name": "80 Feet Ring Road",
+    "delay_seconds": 499.44,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 260125.0,
+    "normal_travel_time_seconds": 449.16,
+    "current_travel_time_seconds": 948.6
+  },
+  {
+    "hotspot_id": 2,
+    "road_name": "5th Main Road",
+    "delay_seconds": 74.52,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 38812.5,
+    "normal_travel_time_seconds": 67.03,
+    "current_travel_time_seconds": 141.55
+  },
+  {
+    "hotspot_id": 3,
+    "road_name": "Srinivagilu Main Road",
+    "delay_seconds": 96.99,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 50515.62,
+    "normal_travel_time_seconds": 87.23,
+    "current_travel_time_seconds": 184.22
+  },
+  {
+    "hotspot_id": 4,
+    "road_name": "5th Main Road",
+    "delay_seconds": 186.08,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 96916.67,
+    "normal_travel_time_seconds": 167.35,
+    "current_travel_time_seconds": 353.43
+  },
+  {
+    "hotspot_id": 5,
+    "road_name": "New Horizon College Road",
+    "delay_seconds": 1625.54,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 67730.83,
+    "normal_travel_time_seconds": 925.52,
+    "current_travel_time_seconds": 2551.06
+  },
+  {
+    "hotspot_id": 6,
+    "road_name": "Sahakar Nagar Road",
+    "delay_seconds": 444.24,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 18510.0,
+    "normal_travel_time_seconds": 252.93,
+    "current_travel_time_seconds": 697.17
+  },
+  {
+    "hotspot_id": 7,
+    "road_name": "Sri Sri Sri Tiruchi Mahaswamiji Road",
+    "delay_seconds": 237.83,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 9909.58,
+    "normal_travel_time_seconds": 135.41,
+    "current_travel_time_seconds": 373.24
+  },
+  {
+    "hotspot_id": 8,
+    "road_name": "Kamaraj Road",
+    "delay_seconds": 1346.21,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 56092.08,
+    "normal_travel_time_seconds": 766.49,
+    "current_travel_time_seconds": 2112.7
+  },
+  {
+    "hotspot_id": 9,
+    "road_name": "Bengaluru Bellary Road",
+    "delay_seconds": 238.26,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 9927.5,
+    "normal_travel_time_seconds": 135.65,
+    "current_travel_time_seconds": 373.91
+  },
+  {
+    "hotspot_id": 10,
+    "road_name": "4th Main Road",
+    "delay_seconds": 55.24,
+    "delay_severity": "High",
+    "annual_delay_vehicle_hours": 28770.83,
+    "normal_travel_time_seconds": 49.67,
+    "current_travel_time_seconds": 104.91
+  },
+  {
+    "hotspot_id": 11,
+    "road_name": "Neeladri Road",
+    "delay_seconds": 361.55,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 15064.58,
+    "normal_travel_time_seconds": 205.85,
+    "current_travel_time_seconds": 567.4
+  },
+  {
+    "hotspot_id": 12,
+    "road_name": "Magadi Main Road",
+    "delay_seconds": 70.11,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 36515.62,
+    "normal_travel_time_seconds": 63.05,
+    "current_travel_time_seconds": 133.16
+  },
+  {
+    "hotspot_id": 13,
+    "road_name": "Unnamed Road",
+    "delay_seconds": 612.25,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 25510.42,
+    "normal_travel_time_seconds": 348.59,
+    "current_travel_time_seconds": 960.84
+  },
+  {
+    "hotspot_id": 14,
+    "road_name": "Palace Road",
+    "delay_seconds": 455.96,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 18998.33,
+    "normal_travel_time_seconds": 259.6,
+    "current_travel_time_seconds": 715.56
+  },
+  {
+    "hotspot_id": 15,
+    "road_name": "Sri DV Gundappa Road",
+    "delay_seconds": 307.58,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 12815.83,
+    "normal_travel_time_seconds": 175.13,
+    "current_travel_time_seconds": 482.71
+  },
+  {
+    "hotspot_id": 16,
+    "road_name": "Sarjapura Main Road",
+    "delay_seconds": 86.66,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 45135.42,
+    "normal_travel_time_seconds": 77.94,
+    "current_travel_time_seconds": 164.6
+  },
+  {
+    "hotspot_id": 17,
+    "road_name": "MBT Road",
+    "delay_seconds": 584.18,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 24340.83,
+    "normal_travel_time_seconds": 332.61,
+    "current_travel_time_seconds": 916.79
+  },
+  {
+    "hotspot_id": 18,
+    "road_name": "Bellary Road",
+    "delay_seconds": 444.57,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 18523.75,
+    "normal_travel_time_seconds": 253.13,
+    "current_travel_time_seconds": 697.7
+  },
+  {
+    "hotspot_id": 19,
+    "road_name": "Coles Road",
+    "delay_seconds": 505.06,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 21044.17,
+    "normal_travel_time_seconds": 287.57,
+    "current_travel_time_seconds": 792.63
+  },
+  {
+    "hotspot_id": 20,
+    "road_name": "17th Cross Road",
+    "delay_seconds": 582.12,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 24255.0,
+    "normal_travel_time_seconds": 331.44,
+    "current_travel_time_seconds": 913.56
+  },
+  {
+    "hotspot_id": 21,
+    "road_name": "ITPL Main Road",
+    "delay_seconds": 131.14,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 68302.08,
+    "normal_travel_time_seconds": 117.94,
+    "current_travel_time_seconds": 249.08
+  },
+  {
+    "hotspot_id": 22,
+    "road_name": "Marathahalli Underpass",
+    "delay_seconds": 384.97,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 16040.42,
+    "normal_travel_time_seconds": 219.19,
+    "current_travel_time_seconds": 604.16
+  },
+  {
+    "hotspot_id": 23,
+    "road_name": "Whitefield Road",
+    "delay_seconds": 166.2,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 27700.0,
+    "normal_travel_time_seconds": 118.14,
+    "current_travel_time_seconds": 284.34
+  },
+  {
+    "hotspot_id": 24,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "delay_seconds": 240.05,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 10002.08,
+    "normal_travel_time_seconds": 136.67,
+    "current_travel_time_seconds": 376.72
+  },
+  {
+    "hotspot_id": 25,
+    "road_name": "Mumbai Bengaluru Highway",
+    "delay_seconds": 135.4,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 70520.83,
+    "normal_travel_time_seconds": 121.77,
+    "current_travel_time_seconds": 257.17
+  },
+  {
+    "hotspot_id": 26,
+    "road_name": "Mysore Road",
+    "delay_seconds": 386.92,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 16121.67,
+    "normal_travel_time_seconds": 220.29,
+    "current_travel_time_seconds": 607.21
+  },
+  {
+    "hotspot_id": 27,
+    "road_name": "Konadasapura Cross Road",
+    "delay_seconds": 55.49,
+    "delay_severity": "High",
+    "annual_delay_vehicle_hours": 2312.08,
+    "normal_travel_time_seconds": 31.6,
+    "current_travel_time_seconds": 87.09
+  },
+  {
+    "hotspot_id": 28,
+    "road_name": "Gnana Bharathi Road",
+    "delay_seconds": 429.76,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 17906.67,
+    "normal_travel_time_seconds": 244.69,
+    "current_travel_time_seconds": 674.45
+  },
+  {
+    "hotspot_id": 29,
+    "road_name": "O Shaughnessy Road",
+    "delay_seconds": 265.59,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 11066.25,
+    "normal_travel_time_seconds": 151.22,
+    "current_travel_time_seconds": 416.81
+  },
+  {
+    "hotspot_id": 30,
+    "road_name": "RV Road",
+    "delay_seconds": 296.16,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 12340.0,
+    "normal_travel_time_seconds": 168.63,
+    "current_travel_time_seconds": 464.79
+  },
+  {
+    "hotspot_id": 31,
+    "road_name": "Domlur Inner Ring Road",
+    "delay_seconds": 155.14,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 80802.08,
+    "normal_travel_time_seconds": 139.52,
+    "current_travel_time_seconds": 294.66
+  },
+  {
+    "hotspot_id": 32,
+    "road_name": "Konanakunte Main Road",
+    "delay_seconds": 123.29,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 64213.54,
+    "normal_travel_time_seconds": 110.88,
+    "current_travel_time_seconds": 234.17
+  },
+  {
+    "hotspot_id": 33,
+    "road_name": "Sarjapura Main Road",
+    "delay_seconds": 49.8,
+    "delay_severity": "High",
+    "annual_delay_vehicle_hours": 25937.5,
+    "normal_travel_time_seconds": 44.78,
+    "current_travel_time_seconds": 94.58
+  },
+  {
+    "hotspot_id": 34,
+    "road_name": "Mallathahalli Road",
+    "delay_seconds": 163.07,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 6794.58,
+    "normal_travel_time_seconds": 92.85,
+    "current_travel_time_seconds": 255.92
+  },
+  {
+    "hotspot_id": 35,
+    "road_name": "Whitefield Road",
+    "delay_seconds": 143.97,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 23995.0,
+    "normal_travel_time_seconds": 102.34,
+    "current_travel_time_seconds": 246.31
+  },
+  {
+    "hotspot_id": 36,
+    "road_name": "Pusa Thippasandra Main Road",
+    "delay_seconds": 45.77,
+    "delay_severity": "High",
+    "annual_delay_vehicle_hours": 23838.54,
+    "normal_travel_time_seconds": 41.16,
+    "current_travel_time_seconds": 86.93
+  },
+  {
+    "hotspot_id": 37,
+    "road_name": "Kodigehalli Main Road",
+    "delay_seconds": 9.45,
+    "delay_severity": "Low",
+    "annual_delay_vehicle_hours": 4921.88,
+    "normal_travel_time_seconds": 8.49,
+    "current_travel_time_seconds": 17.94
+  },
+  {
+    "hotspot_id": 38,
+    "road_name": "Hosur Road",
+    "delay_seconds": 322.52,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 53753.33,
+    "normal_travel_time_seconds": 229.27,
+    "current_travel_time_seconds": 551.79
+  },
+  {
+    "hotspot_id": 39,
+    "road_name": "Dr Siddaiah Puranik Marg",
+    "delay_seconds": 307.18,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 12799.17,
+    "normal_travel_time_seconds": 174.9,
+    "current_travel_time_seconds": 482.08
+  },
+  {
+    "hotspot_id": 40,
+    "road_name": "Bagaluru Main Road",
+    "delay_seconds": 71.94,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 37468.75,
+    "normal_travel_time_seconds": 64.7,
+    "current_travel_time_seconds": 136.64
+  },
+  {
+    "hotspot_id": 41,
+    "road_name": "Chikka Banavara RS Road",
+    "delay_seconds": 94.05,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 3918.75,
+    "normal_travel_time_seconds": 53.55,
+    "current_travel_time_seconds": 147.6
+  },
+  {
+    "hotspot_id": 42,
+    "road_name": "Amrutha College Road",
+    "delay_seconds": 271.89,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 11328.75,
+    "normal_travel_time_seconds": 154.8,
+    "current_travel_time_seconds": 426.69
+  },
+  {
+    "hotspot_id": 43,
+    "road_name": "Chikkabellanduru Road",
+    "delay_seconds": 184.28,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 7678.33,
+    "normal_travel_time_seconds": 104.93,
+    "current_travel_time_seconds": 289.21
+  },
+  {
+    "hotspot_id": 44,
+    "road_name": "CMR Road",
+    "delay_seconds": 211.35,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 8806.25,
+    "normal_travel_time_seconds": 120.33,
+    "current_travel_time_seconds": 331.68
+  },
+  {
+    "hotspot_id": 45,
+    "road_name": "20th Main Road",
+    "delay_seconds": 212.64,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 110750.0,
+    "normal_travel_time_seconds": 191.24,
+    "current_travel_time_seconds": 403.88
+  },
+  {
+    "hotspot_id": 46,
+    "road_name": "18th Cross Road",
+    "delay_seconds": 148.45,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 6185.42,
+    "normal_travel_time_seconds": 84.53,
+    "current_travel_time_seconds": 232.98
+  },
+  {
+    "hotspot_id": 47,
+    "road_name": "Outer Ring Road",
+    "delay_seconds": 221.27,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 115244.79,
+    "normal_travel_time_seconds": 198.99,
+    "current_travel_time_seconds": 420.26
+  },
+  {
+    "hotspot_id": 48,
+    "road_name": "80 Feet Road",
+    "delay_seconds": 393.22,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 16384.17,
+    "normal_travel_time_seconds": 223.88,
+    "current_travel_time_seconds": 617.1
+  },
+  {
+    "hotspot_id": 49,
+    "road_name": "3rd A Cross Road",
+    "delay_seconds": 36.84,
+    "delay_severity": "High",
+    "annual_delay_vehicle_hours": 1535.0,
+    "normal_travel_time_seconds": 20.98,
+    "current_travel_time_seconds": 57.82
+  },
+  {
+    "hotspot_id": 50,
+    "road_name": "Bellary Road",
+    "delay_seconds": 616.31,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 25679.58,
+    "normal_travel_time_seconds": 350.9,
+    "current_travel_time_seconds": 967.21
+  },
+  {
+    "hotspot_id": 51,
+    "road_name": "4th Main Road",
+    "delay_seconds": 41.03,
+    "delay_severity": "High",
+    "annual_delay_vehicle_hours": 21369.79,
+    "normal_travel_time_seconds": 36.9,
+    "current_travel_time_seconds": 77.93
+  },
+  {
+    "hotspot_id": 52,
+    "road_name": "Konanakunte Main Road",
+    "delay_seconds": 55.68,
+    "delay_severity": "High",
+    "annual_delay_vehicle_hours": 29000.0,
+    "normal_travel_time_seconds": 50.07,
+    "current_travel_time_seconds": 105.75
+  },
+  {
+    "hotspot_id": 53,
+    "road_name": "Jakkur Main Road",
+    "delay_seconds": 55.82,
+    "delay_severity": "High",
+    "annual_delay_vehicle_hours": 29072.92,
+    "normal_travel_time_seconds": 50.2,
+    "current_travel_time_seconds": 106.02
+  },
+  {
+    "hotspot_id": 54,
+    "road_name": "Dr BR Ambedkar Road",
+    "delay_seconds": 158.48,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 6603.33,
+    "normal_travel_time_seconds": 90.23,
+    "current_travel_time_seconds": 248.71
+  },
+  {
+    "hotspot_id": 55,
+    "road_name": "Professor K Venkatachalam Circle",
+    "delay_seconds": 142.45,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 5935.42,
+    "normal_travel_time_seconds": 81.1,
+    "current_travel_time_seconds": 223.55
+  },
+  {
+    "hotspot_id": 56,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "delay_seconds": 282.72,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 11780.0,
+    "normal_travel_time_seconds": 160.97,
+    "current_travel_time_seconds": 443.69
+  },
+  {
+    "hotspot_id": 57,
+    "road_name": "Sarjapura Main Road",
+    "delay_seconds": 54.22,
+    "delay_severity": "High",
+    "annual_delay_vehicle_hours": 28239.58,
+    "normal_travel_time_seconds": 48.76,
+    "current_travel_time_seconds": 102.98
+  },
+  {
+    "hotspot_id": 58,
+    "road_name": "Bellary Road",
+    "delay_seconds": 327.06,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 13627.5,
+    "normal_travel_time_seconds": 186.21,
+    "current_travel_time_seconds": 513.27
+  },
+  {
+    "hotspot_id": 59,
+    "road_name": "Dr Vishwesha Teertha Swamy Gala Road",
+    "delay_seconds": 139.42,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 5809.17,
+    "normal_travel_time_seconds": 79.38,
+    "current_travel_time_seconds": 218.8
+  },
+  {
+    "hotspot_id": 60,
+    "road_name": "3rd Main Road",
+    "delay_seconds": 39.24,
+    "delay_severity": "High",
+    "annual_delay_vehicle_hours": 20437.5,
+    "normal_travel_time_seconds": 35.29,
+    "current_travel_time_seconds": 74.53
+  },
+  {
+    "hotspot_id": 61,
+    "road_name": "Old Airport Road",
+    "delay_seconds": 103.95,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 4331.25,
+    "normal_travel_time_seconds": 59.18,
+    "current_travel_time_seconds": 163.13
+  },
+  {
+    "hotspot_id": 62,
+    "road_name": "Mysore Road",
+    "delay_seconds": 220.38,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 9182.5,
+    "normal_travel_time_seconds": 125.47,
+    "current_travel_time_seconds": 345.85
+  },
+  {
+    "hotspot_id": 63,
+    "road_name": "1st Cross Road",
+    "delay_seconds": 277.67,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 11569.58,
+    "normal_travel_time_seconds": 158.1,
+    "current_travel_time_seconds": 435.77
+  },
+  {
+    "hotspot_id": 64,
+    "road_name": "3rd Cross Road",
+    "delay_seconds": 173.03,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 7209.58,
+    "normal_travel_time_seconds": 98.51,
+    "current_travel_time_seconds": 271.54
+  },
+  {
+    "hotspot_id": 65,
+    "road_name": "Hosur Road",
+    "delay_seconds": 60.76,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 10126.67,
+    "normal_travel_time_seconds": 43.19,
+    "current_travel_time_seconds": 103.95
+  },
+  {
+    "hotspot_id": 66,
+    "road_name": "ITPL Main Road",
+    "delay_seconds": 112.91,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 58807.29,
+    "normal_travel_time_seconds": 101.55,
+    "current_travel_time_seconds": 214.46
+  },
+  {
+    "hotspot_id": 67,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "delay_seconds": 96.66,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 4027.5,
+    "normal_travel_time_seconds": 55.04,
+    "current_travel_time_seconds": 151.7
+  },
+  {
+    "hotspot_id": 68,
+    "road_name": "Hosa Road",
+    "delay_seconds": 298.52,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 12438.33,
+    "normal_travel_time_seconds": 169.96,
+    "current_travel_time_seconds": 468.48
+  },
+  {
+    "hotspot_id": 69,
+    "road_name": "Chinmaya Mission Hospital Road",
+    "delay_seconds": 321.77,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 13407.08,
+    "normal_travel_time_seconds": 183.21,
+    "current_travel_time_seconds": 504.98
+  },
+  {
+    "hotspot_id": 70,
+    "road_name": "Shri Ramalingeshwara Cave Temple Road",
+    "delay_seconds": 203.21,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 8467.08,
+    "normal_travel_time_seconds": 115.71,
+    "current_travel_time_seconds": 318.92
+  },
+  {
+    "hotspot_id": 71,
+    "road_name": "RT Nagar Main Road",
+    "delay_seconds": 92.15,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 47994.79,
+    "normal_travel_time_seconds": 82.87,
+    "current_travel_time_seconds": 175.02
+  },
+  {
+    "hotspot_id": 72,
+    "road_name": "Hosur Road",
+    "delay_seconds": 101.43,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 16905.0,
+    "normal_travel_time_seconds": 72.1,
+    "current_travel_time_seconds": 173.53
+  },
+  {
+    "hotspot_id": 73,
+    "road_name": "Bhadrappa Flyover",
+    "delay_seconds": 280.75,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 11697.92,
+    "normal_travel_time_seconds": 159.85,
+    "current_travel_time_seconds": 440.6
+  },
+  {
+    "hotspot_id": 74,
+    "road_name": "Allalasandra Main Road",
+    "delay_seconds": 19.58,
+    "delay_severity": "Moderate",
+    "annual_delay_vehicle_hours": 10197.92,
+    "normal_travel_time_seconds": 17.61,
+    "current_travel_time_seconds": 37.19
+  },
+  {
+    "hotspot_id": 75,
+    "road_name": "1st Cross Road",
+    "delay_seconds": 139.35,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 5806.25,
+    "normal_travel_time_seconds": 79.34,
+    "current_travel_time_seconds": 218.69
+  },
+  {
+    "hotspot_id": 76,
+    "road_name": "9th Cross Road",
+    "delay_seconds": 276.65,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 11527.08,
+    "normal_travel_time_seconds": 157.51,
+    "current_travel_time_seconds": 434.16
+  },
+  {
+    "hotspot_id": 77,
+    "road_name": "Outer Ring Road",
+    "delay_seconds": 59.06,
+    "delay_severity": "High",
+    "annual_delay_vehicle_hours": 30760.42,
+    "normal_travel_time_seconds": 53.12,
+    "current_travel_time_seconds": 112.18
+  },
+  {
+    "hotspot_id": 78,
+    "road_name": "Vibgyor High School Road",
+    "delay_seconds": 102.64,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 4276.67,
+    "normal_travel_time_seconds": 58.44,
+    "current_travel_time_seconds": 161.08
+  },
+  {
+    "hotspot_id": 79,
+    "road_name": "Mumbai Bengaluru Highway",
+    "delay_seconds": 129.18,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 67281.25,
+    "normal_travel_time_seconds": 116.17,
+    "current_travel_time_seconds": 245.35
+  },
+  {
+    "hotspot_id": 80,
+    "road_name": "J Lingaiah Road",
+    "delay_seconds": 289.51,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 12062.92,
+    "normal_travel_time_seconds": 164.84,
+    "current_travel_time_seconds": 454.35
+  },
+  {
+    "hotspot_id": 81,
+    "road_name": "1st Main Road",
+    "delay_seconds": 79.32,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 41312.5,
+    "normal_travel_time_seconds": 71.33,
+    "current_travel_time_seconds": 150.65
+  },
+  {
+    "hotspot_id": 82,
+    "road_name": "7th Cross Road",
+    "delay_seconds": 243.29,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 10137.08,
+    "normal_travel_time_seconds": 138.53,
+    "current_travel_time_seconds": 381.82
+  },
+  {
+    "hotspot_id": 83,
+    "road_name": "MS Ramaiah Road",
+    "delay_seconds": 231.55,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 9647.92,
+    "normal_travel_time_seconds": 131.84,
+    "current_travel_time_seconds": 363.39
+  },
+  {
+    "hotspot_id": 84,
+    "road_name": "5th Cross Road",
+    "delay_seconds": 286.15,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 11922.92,
+    "normal_travel_time_seconds": 162.92,
+    "current_travel_time_seconds": 449.07
+  },
+  {
+    "hotspot_id": 85,
+    "road_name": "Bannerghatta Main Road",
+    "delay_seconds": 54.7,
+    "delay_severity": "High",
+    "annual_delay_vehicle_hours": 28489.58,
+    "normal_travel_time_seconds": 49.19,
+    "current_travel_time_seconds": 103.89
+  },
+  {
+    "hotspot_id": 86,
+    "road_name": "28th Main Road",
+    "delay_seconds": 51.48,
+    "delay_severity": "High",
+    "annual_delay_vehicle_hours": 26812.5,
+    "normal_travel_time_seconds": 46.29,
+    "current_travel_time_seconds": 97.77
+  },
+  {
+    "hotspot_id": 87,
+    "road_name": "Banaswadi Main Road",
+    "delay_seconds": 59.66,
+    "delay_severity": "High",
+    "annual_delay_vehicle_hours": 31072.92,
+    "normal_travel_time_seconds": 53.65,
+    "current_travel_time_seconds": 113.31
+  },
+  {
+    "hotspot_id": 88,
+    "road_name": "8th Main Road",
+    "delay_seconds": 14.14,
+    "delay_severity": "Low",
+    "annual_delay_vehicle_hours": 7364.58,
+    "normal_travel_time_seconds": 12.72,
+    "current_travel_time_seconds": 26.86
+  },
+  {
+    "hotspot_id": 89,
+    "road_name": "Hosur Road",
+    "delay_seconds": 235.17,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 9798.75,
+    "normal_travel_time_seconds": 133.89,
+    "current_travel_time_seconds": 369.06
+  },
+  {
+    "hotspot_id": 90,
+    "road_name": "C Chowdappa Main Road",
+    "delay_seconds": 136.04,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 70854.17,
+    "normal_travel_time_seconds": 122.34,
+    "current_travel_time_seconds": 258.38
+  },
+  {
+    "hotspot_id": 91,
+    "road_name": "Jayamahal Main Road",
+    "delay_seconds": 51.84,
+    "delay_severity": "High",
+    "annual_delay_vehicle_hours": 27000.0,
+    "normal_travel_time_seconds": 46.63,
+    "current_travel_time_seconds": 98.47
+  },
+  {
+    "hotspot_id": 92,
+    "road_name": "Jalahalli Cross Road",
+    "delay_seconds": 306.65,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 12777.08,
+    "normal_travel_time_seconds": 174.6,
+    "current_travel_time_seconds": 481.25
+  },
+  {
+    "hotspot_id": 93,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "delay_seconds": 122.8,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 5116.67,
+    "normal_travel_time_seconds": 69.92,
+    "current_travel_time_seconds": 192.72
+  },
+  {
+    "hotspot_id": 94,
+    "road_name": "Siddhapura Road",
+    "delay_seconds": 143.35,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 5972.92,
+    "normal_travel_time_seconds": 81.62,
+    "current_travel_time_seconds": 224.97
+  },
+  {
+    "hotspot_id": 95,
+    "road_name": "Old Airport Road",
+    "delay_seconds": 139.12,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 5796.67,
+    "normal_travel_time_seconds": 79.21,
+    "current_travel_time_seconds": 218.33
+  },
+  {
+    "hotspot_id": 96,
+    "road_name": "Old Kanakapura Road",
+    "delay_seconds": 139.41,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 5808.75,
+    "normal_travel_time_seconds": 79.38,
+    "current_travel_time_seconds": 218.79
+  },
+  {
+    "hotspot_id": 97,
+    "road_name": "27th Main Road",
+    "delay_seconds": 43.27,
+    "delay_severity": "High",
+    "annual_delay_vehicle_hours": 22536.46,
+    "normal_travel_time_seconds": 38.91,
+    "current_travel_time_seconds": 82.18
+  },
+  {
+    "hotspot_id": 98,
+    "road_name": "Road Number 1",
+    "delay_seconds": 170.09,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 7087.08,
+    "normal_travel_time_seconds": 96.84,
+    "current_travel_time_seconds": 266.93
+  },
+  {
+    "hotspot_id": 99,
+    "road_name": "Mysore Road",
+    "delay_seconds": 136.93,
+    "delay_severity": "Critical",
+    "annual_delay_vehicle_hours": 5705.42,
+    "normal_travel_time_seconds": 77.96,
+    "current_travel_time_seconds": 214.89
+  }
+]

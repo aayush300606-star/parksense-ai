@@ -1,0 +1,5402 @@
+[
+  {
+    "hotspot_id": 32,
+    "road_name": "Konanakunte Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 72.25,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 62.96,
+        "weight": 0.2,
+        "weighted": 12.59
+      },
+      "violation_intensity": {
+        "value": 1.48,
+        "weight": 0.15,
+        "weighted": 0.22
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 50.64,
+    "pis_priority": "P3-Moderate",
+    "pis_recommendation": "Include in monthly enforcement patrol plan. Install warning signage and awareness campaigns.",
+    "rank": 1,
+    "percentile": 99.0,
+    "tier": "Top 10%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 62.96,
+    "violation_density_score": 1.4757329349221284,
+    "annual_delay_vehicle_hours": 64213.54,
+    "emergency_route_impact": true,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 1.51,
+    "csi_explainability": "CSI\u2122 = 72.2/100 (High). Ranked #1 of 100 citywide (top 1%). Illegal parking on Konanakunte Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 64.2K vehicle-hours of delay. Location context is High (63/100). Signal Junction within 50m. \u26a0 EMERGENCY ROUTE IMPACT: This hotspot blocks a likely emergency vehicle corridor. Parking Impact Score: 50.6/100 (P3-Moderate). Include in monthly enforcement rotation. Install awareness signage.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 37,
+    "road_name": "Kodigehalli Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 72.08,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 73.55,
+        "weight": 0.3,
+        "weighted": 22.06
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 77.1,
+        "weight": 0.15,
+        "weighted": 11.57
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 41.97,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 2,
+    "percentile": 98.0,
+    "tier": "Top 10%",
+    "congestion_impact_score": 73.55,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 77.10143181884135,
+    "annual_delay_vehicle_hours": 4921.88,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.23,
+    "csi_explainability": "CSI\u2122 = 72.1/100 (High). Ranked #2 of 100 citywide (top 2%). Illegal parking on Kodigehalli Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 4.9K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 42.0/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 49,
+    "road_name": "3rd A Cross Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 71.48,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 79.37,
+        "weight": 0.3,
+        "weighted": 23.81
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 18.33,
+        "weight": 0.2,
+        "weighted": 3.67
+      },
+      "violation_intensity": {
+        "value": 100.0,
+        "weight": 0.15,
+        "weighted": 15.0
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 38.22,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 3,
+    "percentile": 97.0,
+    "tier": "Top 10%",
+    "congestion_impact_score": 79.37,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 18.33,
+    "violation_density_score": 100.0,
+    "annual_delay_vehicle_hours": 1535.0,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.32,
+    "csi_explainability": "CSI\u2122 = 71.5/100 (High). Ranked #3 of 100 citywide (top 3%). Illegal parking on 3rd A Cross Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 1.5K vehicle-hours of delay. Cross Junction within 100m. Parking Impact Score: 38.2/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 36,
+    "road_name": "Pusa Thippasandra Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 69.72,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 81.05,
+        "weight": 0.3,
+        "weighted": 24.31
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 41.76,
+        "weight": 0.2,
+        "weighted": 8.35
+      },
+      "violation_intensity": {
+        "value": 20.33,
+        "weight": 0.15,
+        "weighted": 3.05
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 41.22,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 4,
+    "percentile": 96.0,
+    "tier": "Top 10%",
+    "congestion_impact_score": 81.05,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 41.76,
+    "violation_density_score": 20.33380934573205,
+    "annual_delay_vehicle_hours": 23838.54,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 1.51,
+    "csi_explainability": "CSI\u2122 = 69.7/100 (High). Ranked #4 of 100 citywide (top 4%). Illegal parking on Pusa Thippasandra Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 23.8K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 41.2/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 0,
+    "road_name": "5th Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 68.99,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 41.76,
+        "weight": 0.2,
+        "weighted": 8.35
+      },
+      "violation_intensity": {
+        "value": 8.01,
+        "weight": 0.15,
+        "weighted": 1.2
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 65.55,
+    "pis_priority": "P3-Moderate",
+    "pis_recommendation": "Include in monthly enforcement patrol plan. Install warning signage and awareness campaigns.",
+    "rank": 5,
+    "percentile": 95.0,
+    "tier": "Top 10%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 41.76,
+    "violation_density_score": 8.012109408039233,
+    "annual_delay_vehicle_hours": 293708.33,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 100.0,
+    "csi_explainability": "CSI\u2122 = 69.0/100 (High). Ranked #5 of 100 citywide (top 5%). Illegal parking on 5th Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 293.7K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 65.5/100 (P3-Moderate). Include in monthly enforcement rotation. Install awareness signage.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 1,
+    "road_name": "80 Feet Ring Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 68.5,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 41.13,
+        "weight": 0.2,
+        "weighted": 8.23
+      },
+      "violation_intensity": {
+        "value": 5.54,
+        "weight": 0.15,
+        "weighted": 0.83
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 54.86,
+    "pis_priority": "P3-Moderate",
+    "pis_recommendation": "Include in monthly enforcement patrol plan. Install warning signage and awareness campaigns.",
+    "rank": 6,
+    "percentile": 94.0,
+    "tier": "Top 10%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 41.13,
+    "violation_density_score": 5.541477069527834,
+    "annual_delay_vehicle_hours": 260125.0,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 58.18,
+    "csi_explainability": "CSI\u2122 = 68.5/100 (High). Ranked #6 of 100 citywide (top 6%). Illegal parking on 80 Feet Ring Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 260.1K vehicle-hours of delay. Signal Junction within 50m. Parking Impact Score: 54.9/100 (P3-Moderate). Include in monthly enforcement rotation. Install awareness signage.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 74,
+    "road_name": "Allalasandra Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 68.46,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 77.3,
+        "weight": 0.3,
+        "weighted": 23.19
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 45.43,
+        "weight": 0.15,
+        "weighted": 6.81
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 40.43,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 7,
+    "percentile": 93.0,
+    "tier": "Top 10%",
+    "congestion_impact_score": 77.3,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 45.42819211260887,
+    "annual_delay_vehicle_hours": 10197.92,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.59,
+    "csi_explainability": "CSI\u2122 = 68.5/100 (High). Ranked #7 of 100 citywide (top 7%). Illegal parking on Allalasandra Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 10.2K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 40.4/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 4,
+    "road_name": "5th Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 68.17,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 41.76,
+        "weight": 0.2,
+        "weighted": 8.35
+      },
+      "violation_intensity": {
+        "value": 2.54,
+        "weight": 0.15,
+        "weighted": 0.38
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 41.32,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 8,
+    "percentile": 92.0,
+    "tier": "Top 10%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 41.76,
+    "violation_density_score": 2.544617659021445,
+    "annual_delay_vehicle_hours": 96916.67,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 4.67,
+    "csi_explainability": "CSI\u2122 = 68.2/100 (High). Ranked #8 of 100 citywide (top 8%). Illegal parking on 5th Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 96.9K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 41.3/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 88,
+    "road_name": "8th Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 67.83,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 73.55,
+        "weight": 0.3,
+        "weighted": 22.06
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 48.73,
+        "weight": 0.15,
+        "weighted": 7.31
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 40.08,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 9,
+    "percentile": 91.0,
+    "tier": "Top 10%",
+    "congestion_impact_score": 73.55,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 48.73308894864616,
+    "annual_delay_vehicle_hours": 7364.58,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.33,
+    "csi_explainability": "CSI\u2122 = 67.8/100 (High). Ranked #9 of 100 citywide (top 9%). Illegal parking on 8th Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 7.4K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 40.1/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 60,
+    "road_name": "3rd Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 67.41,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 81.05,
+        "weight": 0.3,
+        "weighted": 24.31
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 41.76,
+        "weight": 0.2,
+        "weighted": 8.35
+      },
+      "violation_intensity": {
+        "value": 4.98,
+        "weight": 0.15,
+        "weighted": 0.75
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 39.89,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 10,
+    "percentile": 90.0,
+    "tier": "Top 10%",
+    "congestion_impact_score": 81.05,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 41.76,
+    "violation_density_score": 4.977261866549281,
+    "annual_delay_vehicle_hours": 20437.5,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.33,
+    "csi_explainability": "CSI\u2122 = 67.4/100 (High). Ranked #10 of 100 citywide (top 10%). Illegal parking on 3rd Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 20.4K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 39.9/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 86,
+    "road_name": "28th Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 66.91,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 81.05,
+        "weight": 0.3,
+        "weighted": 24.31
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 41.76,
+        "weight": 0.2,
+        "weighted": 8.35
+      },
+      "violation_intensity": {
+        "value": 1.62,
+        "weight": 0.15,
+        "weighted": 0.24
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 39.65,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 11,
+    "percentile": 89.0,
+    "tier": "Top 25%",
+    "congestion_impact_score": 81.05,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 41.76,
+    "violation_density_score": 1.6219600796751634,
+    "annual_delay_vehicle_hours": 26812.5,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.28,
+    "csi_explainability": "CSI\u2122 = 66.9/100 (High). Ranked #11 of 100 citywide (top 11%). Illegal parking on 28th Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 26.8K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 39.6/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 57,
+    "road_name": "Sarjapura Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 66.9,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 81.05,
+        "weight": 0.3,
+        "weighted": 24.31
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 41.76,
+        "weight": 0.2,
+        "weighted": 8.35
+      },
+      "violation_intensity": {
+        "value": 1.55,
+        "weight": 0.15,
+        "weighted": 0.23
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 39.65,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 12,
+    "percentile": 88.0,
+    "tier": "Top 25%",
+    "congestion_impact_score": 81.05,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 41.76,
+    "violation_density_score": 1.5476312941819959,
+    "annual_delay_vehicle_hours": 28239.58,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.3,
+    "csi_explainability": "CSI\u2122 = 66.9/100 (High). Ranked #12 of 100 citywide (top 12%). Illegal parking on Sarjapura Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 28.2K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 39.6/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 25,
+    "road_name": "Mumbai Bengaluru Highway",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 66.8,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 36.13,
+        "weight": 0.2,
+        "weighted": 7.23
+      },
+      "violation_intensity": {
+        "value": 0.92,
+        "weight": 0.15,
+        "weighted": 0.14
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 39.91,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 13,
+    "percentile": 87.0,
+    "tier": "Top 25%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 36.13,
+    "violation_density_score": 0.9193625475108655,
+    "annual_delay_vehicle_hours": 70520.83,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 1.49,
+    "csi_explainability": "CSI\u2122 = 66.8/100 (High). Ranked #13 of 100 citywide (top 13%). Illegal parking on Mumbai Bengaluru Highway (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 70.5K vehicle-hours of delay. Signal Junction within 50m. Parking Impact Score: 39.9/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 21,
+    "road_name": "ITPL Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 65.7,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 27.26,
+        "weight": 0.2,
+        "weighted": 5.45
+      },
+      "violation_intensity": {
+        "value": 5.38,
+        "weight": 0.15,
+        "weighted": 0.81
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 40.02,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 14,
+    "percentile": 86.0,
+    "tier": "Top 25%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 27.26,
+    "violation_density_score": 5.381047172506652,
+    "annual_delay_vehicle_hours": 68302.08,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 3.92,
+    "csi_explainability": "CSI\u2122 = 65.7/100 (High). Ranked #14 of 100 citywide (top 14%). Illegal parking on ITPL Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 68.3K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 40.0/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 51,
+    "road_name": "4th Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 65.6,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 81.05,
+        "weight": 0.3,
+        "weighted": 24.31
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 18.87,
+        "weight": 0.15,
+        "weighted": 2.83
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 39.28,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 15,
+    "percentile": 85.0,
+    "tier": "Top 25%",
+    "congestion_impact_score": 81.05,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 18.87274237658955,
+    "annual_delay_vehicle_hours": 21369.79,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 1.13,
+    "csi_explainability": "CSI\u2122 = 65.6/100 (High). Ranked #15 of 100 citywide (top 15%). Illegal parking on 4th Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 21.4K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 39.3/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 65,
+    "road_name": "Hosur Road",
+    "road_hierarchy": "Collector",
+    "csi_score": 65.49,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.53,
+        "weight": 0.3,
+        "weighted": 25.06
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 35.83,
+        "weight": 0.2,
+        "weighted": 7.17
+      },
+      "violation_intensity": {
+        "value": 15.1,
+        "weight": 0.15,
+        "weighted": 2.27
+      },
+      "road_priority": {
+        "value": 60.0,
+        "weight": 0.1,
+        "weighted": 6.0
+      }
+    },
+    "pis_score": 37.08,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 16,
+    "percentile": 84.0,
+    "tier": "Top 25%",
+    "congestion_impact_score": 83.53,
+    "speed_reduction_percentage": 58.45,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 35.83,
+    "violation_density_score": 15.101586380338789,
+    "annual_delay_vehicle_hours": 10126.67,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.56,
+    "csi_explainability": "CSI\u2122 = 65.5/100 (High). Ranked #16 of 100 citywide (top 16%). Illegal parking on Hosur Road (Collector) causes 58.5% speed reduction with 100% capacity loss. Projected annual impact: 10.1K vehicle-hours of delay. Uncontrolled Junction within 50m. Parking Impact Score: 37.1/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 26,
+    "road_name": "Mysore Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 65.44,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 53.59,
+        "weight": 0.2,
+        "weighted": 10.72
+      },
+      "violation_intensity": {
+        "value": 5.23,
+        "weight": 0.15,
+        "weighted": 0.78
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 44.28,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 17,
+    "percentile": 83.0,
+    "tier": "Top 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 53.59,
+    "violation_density_score": 5.225876324110599,
+    "annual_delay_vehicle_hours": 16121.67,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 2.32,
+    "csi_explainability": "CSI\u2122 = 65.4/100 (High). Ranked #17 of 100 citywide (top 17%). Illegal parking on Mysore Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 16.1K vehicle-hours of delay. Signal Junction within 50m. Parking Impact Score: 44.3/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 81,
+    "road_name": "1st Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 65.25,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 27.26,
+        "weight": 0.2,
+        "weighted": 5.45
+      },
+      "violation_intensity": {
+        "value": 2.39,
+        "weight": 0.15,
+        "weighted": 0.36
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 39.04,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 18,
+    "percentile": 82.0,
+    "tier": "Top 25%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 27.26,
+    "violation_density_score": 2.3855058449393427,
+    "annual_delay_vehicle_hours": 41312.5,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.81,
+    "csi_explainability": "CSI\u2122 = 65.2/100 (High). Ranked #18 of 100 citywide (top 18%). Illegal parking on 1st Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 41.3K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 39.0/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 23,
+    "road_name": "Whitefield Road",
+    "road_hierarchy": "Collector",
+    "csi_score": 65.19,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.53,
+        "weight": 0.3,
+        "weighted": 25.06
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 40.83,
+        "weight": 0.2,
+        "weighted": 8.17
+      },
+      "violation_intensity": {
+        "value": 6.4,
+        "weight": 0.15,
+        "weighted": 0.96
+      },
+      "road_priority": {
+        "value": 60.0,
+        "weight": 0.1,
+        "weighted": 6.0
+      }
+    },
+    "pis_score": 37.31,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 19,
+    "percentile": 81.0,
+    "tier": "Top 25%",
+    "congestion_impact_score": 83.53,
+    "speed_reduction_percentage": 58.45,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 40.83,
+    "violation_density_score": 6.4046866351205916,
+    "annual_delay_vehicle_hours": 27700.0,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 2.01,
+    "csi_explainability": "CSI\u2122 = 65.2/100 (High). Ranked #19 of 100 citywide (top 19%). Illegal parking on Whitefield Road (Collector) causes 58.5% speed reduction with 100% capacity loss. Projected annual impact: 27.7K vehicle-hours of delay. Uncontrolled Junction within 50m. Parking Impact Score: 37.3/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 69,
+    "road_name": "Chinmaya Mission Hospital Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 65.09,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 54.19,
+        "weight": 0.2,
+        "weighted": 10.84
+      },
+      "violation_intensity": {
+        "value": 2.08,
+        "weight": 0.15,
+        "weighted": 0.31
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 46.0,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 20,
+    "percentile": 80.0,
+    "tier": "Top 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 54.19,
+    "violation_density_score": 2.08042272858286,
+    "annual_delay_vehicle_hours": 13407.08,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.86,
+    "csi_explainability": "CSI\u2122 = 65.1/100 (High). Ranked #20 of 100 citywide (top 20%). Illegal parking on Chinmaya Mission Hospital Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 13.4K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 46.0/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 31,
+    "road_name": "Domlur Inner Ring Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 64.76,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 5.78,
+        "weight": 0.15,
+        "weighted": 0.87
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 40.07,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 21,
+    "percentile": 79.0,
+    "tier": "Top 25%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 5.782320983753821,
+    "annual_delay_vehicle_hours": 80802.08,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 5.8,
+    "csi_explainability": "CSI\u2122 = 64.8/100 (High). Ranked #21 of 100 citywide (top 21%). Illegal parking on Domlur Inner Ring Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 80.8K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 40.1/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 52,
+    "road_name": "Konanakunte Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 64.35,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 81.05,
+        "weight": 0.3,
+        "weighted": 24.31
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 27.26,
+        "weight": 0.2,
+        "weighted": 5.45
+      },
+      "violation_intensity": {
+        "value": 3.88,
+        "weight": 0.15,
+        "weighted": 0.58
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 38.57,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 22,
+    "percentile": 78.0,
+    "tier": "Top 25%",
+    "congestion_impact_score": 81.05,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 27.26,
+    "violation_density_score": 3.8771535940004527,
+    "annual_delay_vehicle_hours": 29000.0,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.55,
+    "csi_explainability": "CSI\u2122 = 64.3/100 (High). Ranked #22 of 100 citywide (top 22%). Illegal parking on Konanakunte Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 29.0K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 38.6/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 47,
+    "road_name": "Outer Ring Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 64.25,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 2.37,
+        "weight": 0.15,
+        "weighted": 0.36
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 39.97,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 23,
+    "percentile": 77.0,
+    "tier": "Top 25%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 2.371425254288825,
+    "annual_delay_vehicle_hours": 115244.79,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 6.32,
+    "csi_explainability": "CSI\u2122 = 64.2/100 (High). Ranked #23 of 100 citywide (top 23%). Illegal parking on Outer Ring Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 115.2K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 40.0/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 3,
+    "road_name": "Srinivagilu Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 64.25,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 2.37,
+        "weight": 0.15,
+        "weighted": 0.36
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 38.69,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 24,
+    "percentile": 76.0,
+    "tier": "Top 25%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 2.3728808596693596,
+    "annual_delay_vehicle_hours": 50515.62,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 1.21,
+    "csi_explainability": "CSI\u2122 = 64.2/100 (High). Ranked #24 of 100 citywide (top 24%). Illegal parking on Srinivagilu Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 50.5K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 38.7/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 2,
+    "road_name": "5th Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 64.25,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 2.4,
+        "weight": 0.15,
+        "weighted": 0.36
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 38.57,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 25,
+    "percentile": 75.0,
+    "tier": "Top 25%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 2.4027468835791748,
+    "annual_delay_vehicle_hours": 38812.5,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.72,
+    "csi_explainability": "CSI\u2122 = 64.2/100 (High). Ranked #25 of 100 citywide (top 25%). Illegal parking on 5th Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 38.8K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 38.6/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 53,
+    "road_name": "Jakkur Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 64.19,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 81.05,
+        "weight": 0.3,
+        "weighted": 24.31
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 9.48,
+        "weight": 0.15,
+        "weighted": 1.42
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 38.64,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 26,
+    "percentile": 74.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 81.05,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 9.48059279080852,
+    "annual_delay_vehicle_hours": 29072.92,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 1.13,
+    "csi_explainability": "CSI\u2122 = 64.2/100 (High). Ranked #26 of 100 citywide (top 26%). Illegal parking on Jakkur Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 29.1K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 38.6/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 66,
+    "road_name": "ITPL Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 64.16,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 1.78,
+        "weight": 0.15,
+        "weighted": 0.27
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 38.7,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 27,
+    "percentile": 73.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 1.7834030795341749,
+    "annual_delay_vehicle_hours": 58807.29,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 1.4,
+    "csi_explainability": "CSI\u2122 = 64.2/100 (High). Ranked #27 of 100 citywide (top 27%). Illegal parking on ITPL Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 58.8K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 38.7/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 12,
+    "road_name": "Magadi Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 64.14,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 1.63,
+        "weight": 0.15,
+        "weighted": 0.24
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 38.47,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 28,
+    "percentile": 72.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 1.632601328256616,
+    "annual_delay_vehicle_hours": 36515.62,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.52,
+    "csi_explainability": "CSI\u2122 = 64.1/100 (High). Ranked #28 of 100 citywide (top 28%). Illegal parking on Magadi Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 36.5K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 38.5/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 71,
+    "road_name": "RT Nagar Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 64.07,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 1.2,
+        "weight": 0.15,
+        "weighted": 0.18
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 38.5,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 29,
+    "percentile": 71.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 1.1987693981842078,
+    "annual_delay_vehicle_hours": 47994.79,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.77,
+    "csi_explainability": "CSI\u2122 = 64.1/100 (High). Ranked #29 of 100 citywide (top 29%). Illegal parking on RT Nagar Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 48.0K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 38.5/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 45,
+    "road_name": "20th Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 64.05,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 1.03,
+        "weight": 0.15,
+        "weighted": 0.15
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 39.26,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 30,
+    "percentile": 70.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 1.0306188034518646,
+    "annual_delay_vehicle_hours": 110750.0,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 3.84,
+    "csi_explainability": "CSI\u2122 = 64.0/100 (High). Ranked #30 of 100 citywide (top 30%). Illegal parking on 20th Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 110.8K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 39.3/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 40,
+    "road_name": "Bagaluru Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 64.05,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 1.02,
+        "weight": 0.15,
+        "weighted": 0.15
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 38.41,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 31,
+    "percentile": 69.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 1.0203941113461397,
+    "annual_delay_vehicle_hours": 37468.75,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.44,
+    "csi_explainability": "CSI\u2122 = 64.0/100 (High). Ranked #31 of 100 citywide (top 31%). Illegal parking on Bagaluru Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 37.5K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 38.4/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 90,
+    "road_name": "C Chowdappa Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 64.03,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 0.95,
+        "weight": 0.15,
+        "weighted": 0.14
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 38.67,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 32,
+    "percentile": 68.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 0.946809564753663,
+    "annual_delay_vehicle_hours": 70854.17,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 1.52,
+    "csi_explainability": "CSI\u2122 = 64.0/100 (High). Ranked #32 of 100 citywide (top 32%). Illegal parking on C Chowdappa Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 70.9K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 38.7/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 16,
+    "road_name": "Sarjapura Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 64.01,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 0.81,
+        "weight": 0.15,
+        "weighted": 0.12
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 38.42,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 33,
+    "percentile": 67.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 0.8110714682515202,
+    "annual_delay_vehicle_hours": 45135.42,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.58,
+    "csi_explainability": "CSI\u2122 = 64.0/100 (High). Ranked #33 of 100 citywide (top 33%). Illegal parking on Sarjapura Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 45.1K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 38.4/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 87,
+    "road_name": "Banaswadi Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 63.97,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 81.05,
+        "weight": 0.3,
+        "weighted": 24.31
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 27.26,
+        "weight": 0.2,
+        "weighted": 5.45
+      },
+      "violation_intensity": {
+        "value": 1.34,
+        "weight": 0.15,
+        "weighted": 0.2
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 38.34,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 34,
+    "percentile": 66.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 81.05,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 27.26,
+    "violation_density_score": 1.3361740825640518,
+    "annual_delay_vehicle_hours": 31072.92,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.34,
+    "csi_explainability": "CSI\u2122 = 64.0/100 (High). Ranked #34 of 100 citywide (top 34%). Illegal parking on Banaswadi Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 31.1K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 38.3/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 85,
+    "road_name": "Bannerghatta Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 63.94,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 81.05,
+        "weight": 0.3,
+        "weighted": 24.31
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 27.26,
+        "weight": 0.2,
+        "weighted": 5.45
+      },
+      "violation_intensity": {
+        "value": 1.18,
+        "weight": 0.15,
+        "weighted": 0.18
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 38.31,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 35,
+    "percentile": 65.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 81.05,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 27.26,
+    "violation_density_score": 1.1806415428933232,
+    "annual_delay_vehicle_hours": 28489.58,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.27,
+    "csi_explainability": "CSI\u2122 = 63.9/100 (High). Ranked #35 of 100 citywide (top 35%). Illegal parking on Bannerghatta Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 28.5K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 38.3/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 10,
+    "road_name": "4th Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 63.89,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 81.05,
+        "weight": 0.3,
+        "weighted": 24.31
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 7.49,
+        "weight": 0.15,
+        "weighted": 1.12
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 38.45,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 36,
+    "percentile": 64.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 81.05,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 7.492440091244531,
+    "annual_delay_vehicle_hours": 28770.83,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.91,
+    "csi_explainability": "CSI\u2122 = 63.9/100 (High). Ranked #36 of 100 citywide (top 36%). Illegal parking on 4th Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 28.8K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 38.5/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 79,
+    "road_name": "Mumbai Bengaluru Highway",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 63.89,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 84.8,
+        "weight": 0.3,
+        "weighted": 25.44
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 0.0,
+        "weight": 0.15,
+        "weighted": 0.0
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 38.44,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 37,
+    "percentile": 63.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 84.8,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 0.0,
+    "annual_delay_vehicle_hours": 67281.25,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.85,
+    "csi_explainability": "CSI\u2122 = 63.9/100 (High). Ranked #37 of 100 citywide (top 37%). Illegal parking on Mumbai Bengaluru Highway (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 67.3K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 38.4/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 77,
+    "road_name": "Outer Ring Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 63.38,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 81.05,
+        "weight": 0.3,
+        "weighted": 24.31
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 4.08,
+        "weight": 0.15,
+        "weighted": 0.61
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 38.16,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 38,
+    "percentile": 62.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 81.05,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 4.076714246880261,
+    "annual_delay_vehicle_hours": 30760.42,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.65,
+    "csi_explainability": "CSI\u2122 = 63.4/100 (High). Ranked #38 of 100 citywide (top 38%). Illegal parking on Outer Ring Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 30.8K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 38.2/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 78,
+    "road_name": "Vibgyor High School Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 63.35,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 30.27,
+        "weight": 0.2,
+        "weighted": 6.05
+      },
+      "violation_intensity": {
+        "value": 22.38,
+        "weight": 0.15,
+        "weighted": 3.36
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 34.63,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 39,
+    "percentile": 61.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 30.27,
+    "violation_density_score": 22.37674164135712,
+    "annual_delay_vehicle_hours": 4276.67,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.58,
+    "csi_explainability": "CSI\u2122 = 63.4/100 (High). Ranked #39 of 100 citywide (top 39%). Illegal parking on Vibgyor High School Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 4.3K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 34.6/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 33,
+    "road_name": "Sarjapura Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 63.27,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 81.05,
+        "weight": 0.3,
+        "weighted": 24.31
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 3.35,
+        "weight": 0.15,
+        "weighted": 0.5
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 38.05,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 40,
+    "percentile": 60.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 81.05,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 3.3495039579836807,
+    "annual_delay_vehicle_hours": 25937.5,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.4,
+    "csi_explainability": "CSI\u2122 = 63.3/100 (High). Ranked #40 of 100 citywide (top 40%). Illegal parking on Sarjapura Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 25.9K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 38.0/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 97,
+    "road_name": "27th Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 63.1,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 81.05,
+        "weight": 0.3,
+        "weighted": 24.31
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 2.19,
+        "weight": 0.15,
+        "weighted": 0.33
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 37.93,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 41,
+    "percentile": 59.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 81.05,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 2.1928245273972595,
+    "annual_delay_vehicle_hours": 22536.46,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.23,
+    "csi_explainability": "CSI\u2122 = 63.1/100 (High). Ranked #41 of 100 citywide (top 41%). Illegal parking on 27th Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 22.5K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 37.9/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 91,
+    "road_name": "Jayamahal Main Road",
+    "road_hierarchy": "Major Arterial",
+    "csi_score": 62.99,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 81.05,
+        "weight": 0.3,
+        "weighted": 24.31
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 22.26,
+        "weight": 0.2,
+        "weighted": 4.45
+      },
+      "violation_intensity": {
+        "value": 1.49,
+        "weight": 0.15,
+        "weighted": 0.22
+      },
+      "road_priority": {
+        "value": 90.0,
+        "weight": 0.1,
+        "weighted": 9.0
+      }
+    },
+    "pis_score": 37.89,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 42,
+    "percentile": 58.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 81.05,
+    "speed_reduction_percentage": 52.65,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 22.26,
+    "violation_density_score": 1.4899573419718568,
+    "annual_delay_vehicle_hours": 27000.0,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.27,
+    "csi_explainability": "CSI\u2122 = 63.0/100 (High). Ranked #42 of 100 citywide (top 42%). Illegal parking on Jayamahal Main Road (Major Arterial) causes 52.6% speed reduction with 100% capacity loss. Projected annual impact: 27.0K vehicle-hours of delay. Uncontrolled Junction within 75m. Parking Impact Score: 37.9/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 8,
+    "road_name": "Kamaraj Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 62.9,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 37.78,
+        "weight": 0.2,
+        "weighted": 7.56
+      },
+      "violation_intensity": {
+        "value": 9.4,
+        "weight": 0.15,
+        "weighted": 1.41
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 45.64,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 43,
+    "percentile": 57.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 37.78,
+    "violation_density_score": 9.397780574783619,
+    "annual_delay_vehicle_hours": 56092.08,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 45.4,
+    "csi_explainability": "CSI\u2122 = 62.9/100 (High). Ranked #43 of 100 citywide (top 43%). Illegal parking on Kamaraj Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 56.1K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 45.6/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 34,
+    "road_name": "Mallathahalli Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 62.83,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 38.51,
+        "weight": 0.2,
+        "weighted": 7.7
+      },
+      "violation_intensity": {
+        "value": 7.93,
+        "weight": 0.15,
+        "weighted": 1.19
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 37.69,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 44,
+    "percentile": 56.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 38.51,
+    "violation_density_score": 7.925293532457175,
+    "annual_delay_vehicle_hours": 6794.58,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.58,
+    "csi_explainability": "CSI\u2122 = 62.8/100 (High). Ranked #44 of 100 citywide (top 44%). Illegal parking on Mallathahalli Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 6.8K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 37.7/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 35,
+    "road_name": "Whitefield Road",
+    "road_hierarchy": "Collector",
+    "csi_score": 62.66,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.53,
+        "weight": 0.3,
+        "weighted": 25.06
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 30.83,
+        "weight": 0.2,
+        "weighted": 6.17
+      },
+      "violation_intensity": {
+        "value": 2.91,
+        "weight": 0.15,
+        "weighted": 0.44
+      },
+      "road_priority": {
+        "value": 60.0,
+        "weight": 0.1,
+        "weighted": 6.0
+      }
+    },
+    "pis_score": 35.88,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 45,
+    "percentile": 55.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 83.53,
+    "speed_reduction_percentage": 58.45,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 30.83,
+    "violation_density_score": 2.9149776623563963,
+    "annual_delay_vehicle_hours": 23995.0,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.85,
+    "csi_explainability": "CSI\u2122 = 62.7/100 (High). Ranked #45 of 100 citywide (top 45%). Illegal parking on Whitefield Road (Collector) causes 58.5% speed reduction with 100% capacity loss. Projected annual impact: 24.0K vehicle-hours of delay. Uncontrolled Junction within 50m. Parking Impact Score: 35.9/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 38,
+    "road_name": "Hosur Road",
+    "road_hierarchy": "Collector",
+    "csi_score": 62.36,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.53,
+        "weight": 0.3,
+        "weighted": 25.06
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 30.83,
+        "weight": 0.2,
+        "weighted": 6.17
+      },
+      "violation_intensity": {
+        "value": 0.88,
+        "weight": 0.15,
+        "weighted": 0.13
+      },
+      "road_priority": {
+        "value": 60.0,
+        "weight": 0.1,
+        "weighted": 6.0
+      }
+    },
+    "pis_score": 36.11,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 46,
+    "percentile": 54.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 83.53,
+    "speed_reduction_percentage": 58.45,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 30.83,
+    "violation_density_score": 0.8815776390151387,
+    "annual_delay_vehicle_hours": 53753.33,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 2.31,
+    "csi_explainability": "CSI\u2122 = 62.4/100 (High). Ranked #46 of 100 citywide (top 46%). Illegal parking on Hosur Road (Collector) causes 58.5% speed reduction with 100% capacity loss. Projected annual impact: 53.8K vehicle-hours of delay. Uncontrolled Junction within 50m. Parking Impact Score: 36.1/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 61,
+    "road_name": "Old Airport Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 62.17,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 32.78,
+        "weight": 0.2,
+        "weighted": 6.56
+      },
+      "violation_intensity": {
+        "value": 11.2,
+        "weight": 0.15,
+        "weighted": 1.68
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 34.03,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 47,
+    "percentile": 53.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 32.78,
+    "violation_density_score": 11.20024162935028,
+    "annual_delay_vehicle_hours": 4331.25,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.32,
+    "csi_explainability": "CSI\u2122 = 62.2/100 (High). Ranked #47 of 100 citywide (top 47%). Illegal parking on Old Airport Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 4.3K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 34.0/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 27,
+    "road_name": "Konadasapura Cross Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 62.14,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 79.37,
+        "weight": 0.3,
+        "weighted": 23.81
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 18.33,
+        "weight": 0.2,
+        "weighted": 3.67
+      },
+      "violation_intensity": {
+        "value": 37.74,
+        "weight": 0.15,
+        "weighted": 5.66
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 34.01,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 48,
+    "percentile": 52.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 79.37,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 18.33,
+    "violation_density_score": 37.74036539683838,
+    "annual_delay_vehicle_hours": 2312.08,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.28,
+    "csi_explainability": "CSI\u2122 = 62.1/100 (High). Ranked #48 of 100 citywide (top 48%). Illegal parking on Konadasapura Cross Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 2.3K vehicle-hours of delay. Cross Junction within 100m. Parking Impact Score: 34.0/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 55,
+    "road_name": "Professor K Venkatachalam Circle",
+    "road_hierarchy": "Residential",
+    "csi_score": 62.0,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 37.78,
+        "weight": 0.2,
+        "weighted": 7.56
+      },
+      "violation_intensity": {
+        "value": 3.41,
+        "weight": 0.15,
+        "weighted": 0.51
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.93,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 49,
+    "percentile": 51.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 37.78,
+    "violation_density_score": 3.4145614170974605,
+    "annual_delay_vehicle_hours": 5935.42,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.23,
+    "csi_explainability": "CSI\u2122 = 62.0/100 (High). Ranked #49 of 100 citywide (top 49%). Illegal parking on Professor K Venkatachalam Circle (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 5.9K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 33.9/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 59,
+    "road_name": "Dr Vishwesha Teertha Swamy Gala Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 61.79,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 32.78,
+        "weight": 0.2,
+        "weighted": 6.56
+      },
+      "violation_intensity": {
+        "value": 8.65,
+        "weight": 0.15,
+        "weighted": 1.3
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.89,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 50,
+    "percentile": 50.0,
+    "tier": "Top 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 32.78,
+    "violation_density_score": 8.648153418487757,
+    "annual_delay_vehicle_hours": 5809.17,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.45,
+    "csi_explainability": "CSI\u2122 = 61.8/100 (High). Ranked #50 of 100 citywide (top 50%). Illegal parking on Dr Vishwesha Teertha Swamy Gala Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 5.8K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 33.9/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 72,
+    "road_name": "Hosur Road",
+    "road_hierarchy": "Collector",
+    "csi_score": 61.72,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.53,
+        "weight": 0.3,
+        "weighted": 25.06
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 25.83,
+        "weight": 0.2,
+        "weighted": 5.17
+      },
+      "violation_intensity": {
+        "value": 3.28,
+        "weight": 0.15,
+        "weighted": 0.49
+      },
+      "road_priority": {
+        "value": 60.0,
+        "weight": 0.1,
+        "weighted": 6.0
+      }
+    },
+    "pis_score": 35.36,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 51,
+    "percentile": 49.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.53,
+    "speed_reduction_percentage": 58.45,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 25.83,
+    "violation_density_score": 3.2752722106165013,
+    "annual_delay_vehicle_hours": 16905.0,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.45,
+    "csi_explainability": "CSI\u2122 = 61.7/100 (High). Ranked #51 of 100 citywide (top 51%). Illegal parking on Hosur Road (Collector) causes 58.5% speed reduction with 100% capacity loss. Projected annual impact: 16.9K vehicle-hours of delay. Uncontrolled Junction within 50m. Parking Impact Score: 35.4/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 14,
+    "road_name": "Palace Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 61.7,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 32.78,
+        "weight": 0.2,
+        "weighted": 6.56
+      },
+      "violation_intensity": {
+        "value": 8.08,
+        "weight": 0.15,
+        "weighted": 1.21
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 34.88,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 52,
+    "percentile": 48.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 32.78,
+    "violation_density_score": 8.081824316259368,
+    "annual_delay_vehicle_hours": 18998.33,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 4.58,
+    "csi_explainability": "CSI\u2122 = 61.7/100 (High). Ranked #52 of 100 citywide (top 52%). Illegal parking on Palace Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 19.0K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 34.9/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 83,
+    "road_name": "MS Ramaiah Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 61.66,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 37.78,
+        "weight": 0.2,
+        "weighted": 7.56
+      },
+      "violation_intensity": {
+        "value": 1.14,
+        "weight": 0.15,
+        "weighted": 0.17
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.8,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 53,
+    "percentile": 47.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 37.78,
+    "violation_density_score": 1.140038980459099,
+    "annual_delay_vehicle_hours": 9647.92,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.33,
+    "csi_explainability": "CSI\u2122 = 61.7/100 (High). Ranked #53 of 100 citywide (top 53%). Illegal parking on MS Ramaiah Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 9.6K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 33.8/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.423620"
+  },
+  {
+    "hotspot_id": 75,
+    "road_name": "1st Cross Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 61.57,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 25.43,
+        "weight": 0.2,
+        "weighted": 5.09
+      },
+      "violation_intensity": {
+        "value": 16.97,
+        "weight": 0.15,
+        "weighted": 2.55
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.89,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 54,
+    "percentile": 46.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 25.43,
+    "violation_density_score": 16.968257970039588,
+    "annual_delay_vehicle_hours": 5806.25,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.82,
+    "csi_explainability": "CSI\u2122 = 61.6/100 (High). Ranked #54 of 100 citywide (top 54%). Illegal parking on 1st Cross Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 5.8K vehicle-hours of delay. Cross Junction within 75m. Parking Impact Score: 33.9/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 54,
+    "road_name": "Dr BR Ambedkar Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 61.54,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 32.78,
+        "weight": 0.2,
+        "weighted": 6.56
+      },
+      "violation_intensity": {
+        "value": 7.01,
+        "weight": 0.15,
+        "weighted": 1.05
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.79,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 55,
+    "percentile": 45.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 32.78,
+    "violation_density_score": 7.010858431766606,
+    "annual_delay_vehicle_hours": 6603.33,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.49,
+    "csi_explainability": "CSI\u2122 = 61.5/100 (High). Ranked #55 of 100 citywide (top 55%). Illegal parking on Dr BR Ambedkar Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 6.6K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 33.8/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 15,
+    "road_name": "Sri DV Gundappa Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 61.39,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 27.59,
+        "weight": 0.2,
+        "weighted": 5.52
+      },
+      "violation_intensity": {
+        "value": 12.91,
+        "weight": 0.15,
+        "weighted": 1.94
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 34.38,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 56,
+    "percentile": 44.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 27.59,
+    "violation_density_score": 12.90666772974889,
+    "annual_delay_vehicle_hours": 12815.83,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 3.13,
+    "csi_explainability": "CSI\u2122 = 61.4/100 (High). Ranked #56 of 100 citywide (top 56%). Illegal parking on Sri DV Gundappa Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 12.8K vehicle-hours of delay. Signal Junction within 50m. Parking Impact Score: 34.4/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 39,
+    "road_name": "Dr Siddaiah Puranik Marg",
+    "road_hierarchy": "Residential",
+    "csi_score": 61.25,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 32.78,
+        "weight": 0.2,
+        "weighted": 6.56
+      },
+      "violation_intensity": {
+        "value": 5.03,
+        "weight": 0.15,
+        "weighted": 0.76
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.89,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 57,
+    "percentile": 43.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 32.78,
+    "violation_density_score": 5.034992419445084,
+    "annual_delay_vehicle_hours": 12799.17,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 1.42,
+    "csi_explainability": "CSI\u2122 = 61.2/100 (High). Ranked #57 of 100 citywide (top 57%). Illegal parking on Dr Siddaiah Puranik Marg (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 12.8K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 33.9/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 67,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 60.94,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 26.76,
+        "weight": 0.2,
+        "weighted": 5.35
+      },
+      "violation_intensity": {
+        "value": 11.04,
+        "weight": 0.15,
+        "weighted": 1.66
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.46,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 58,
+    "percentile": 42.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 26.76,
+    "violation_density_score": 11.036406069906038,
+    "annual_delay_vehicle_hours": 4027.5,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.27,
+    "csi_explainability": "CSI\u2122 = 60.9/100 (High). Ranked #58 of 100 citywide (top 58%). Illegal parking on Dr Rajkumar Puniya Bhoomi Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 4.0K vehicle-hours of delay. Signal Junction within 50m. Parking Impact Score: 33.5/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 64,
+    "road_name": "3rd Cross Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 60.81,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 32.78,
+        "weight": 0.2,
+        "weighted": 6.56
+      },
+      "violation_intensity": {
+        "value": 2.15,
+        "weight": 0.15,
+        "weighted": 0.32
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.4,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 59,
+    "percentile": 41.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 32.78,
+    "violation_density_score": 2.1494959035471655,
+    "annual_delay_vehicle_hours": 7209.58,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.25,
+    "csi_explainability": "CSI\u2122 = 60.8/100 (High). Ranked #59 of 100 citywide (top 59%). Illegal parking on 3rd Cross Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 7.2K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 33.4/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 43,
+    "road_name": "Chikkabellanduru Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 60.78,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 32.78,
+        "weight": 0.2,
+        "weighted": 6.56
+      },
+      "violation_intensity": {
+        "value": 1.91,
+        "weight": 0.15,
+        "weighted": 0.29
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.39,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 60,
+    "percentile": 40.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 32.78,
+    "violation_density_score": 1.9084023886427441,
+    "annual_delay_vehicle_hours": 7678.33,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.27,
+    "csi_explainability": "CSI\u2122 = 60.8/100 (High). Ranked #60 of 100 citywide (top 60%). Illegal parking on Chikkabellanduru Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 7.7K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 33.4/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 76,
+    "road_name": "9th Cross Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 60.73,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 32.78,
+        "weight": 0.2,
+        "weighted": 6.56
+      },
+      "violation_intensity": {
+        "value": 1.56,
+        "weight": 0.15,
+        "weighted": 0.23
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.44,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 61,
+    "percentile": 39.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 32.78,
+    "violation_density_score": 1.562594551853954,
+    "annual_delay_vehicle_hours": 11527.08,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.55,
+    "csi_explainability": "CSI\u2122 = 60.7/100 (High). Ranked #61 of 100 citywide (top 61%). Illegal parking on 9th Cross Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 11.5K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 33.4/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 70,
+    "road_name": "Shri Ramalingeshwara Cave Temple Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 60.72,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 30.27,
+        "weight": 0.2,
+        "weighted": 6.05
+      },
+      "violation_intensity": {
+        "value": 4.87,
+        "weight": 0.15,
+        "weighted": 0.73
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.45,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 62,
+    "percentile": 38.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 30.27,
+    "violation_density_score": 4.874936857109655,
+    "annual_delay_vehicle_hours": 8467.08,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.61,
+    "csi_explainability": "CSI\u2122 = 60.7/100 (High). Ranked #62 of 100 citywide (top 62%). Illegal parking on Shri Ramalingeshwara Cave Temple Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 8.5K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 33.5/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 30,
+    "road_name": "RV Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 60.68,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 32.78,
+        "weight": 0.2,
+        "weighted": 6.56
+      },
+      "violation_intensity": {
+        "value": 1.28,
+        "weight": 0.15,
+        "weighted": 0.19
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.42,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 63,
+    "percentile": 37.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 32.78,
+    "violation_density_score": 1.2800680325754359,
+    "annual_delay_vehicle_hours": 12340.0,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.57,
+    "csi_explainability": "CSI\u2122 = 60.7/100 (High). Ranked #63 of 100 citywide (top 63%). Illegal parking on RV Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 12.3K vehicle-hours of delay. Traffic Circle within 25m. Parking Impact Score: 33.4/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 9,
+    "road_name": "Bengaluru Bellary Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 60.52,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 26.76,
+        "weight": 0.2,
+        "weighted": 5.35
+      },
+      "violation_intensity": {
+        "value": 8.22,
+        "weight": 0.15,
+        "weighted": 1.23
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.53,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 64,
+    "percentile": 36.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 26.76,
+    "violation_density_score": 8.215896562001971,
+    "annual_delay_vehicle_hours": 9927.5,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 1.27,
+    "csi_explainability": "CSI\u2122 = 60.5/100 (High). Ranked #64 of 100 citywide (top 64%). Illegal parking on Bengaluru Bellary Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 9.9K vehicle-hours of delay. Signal Junction within 50m. Parking Impact Score: 33.5/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 6,
+    "road_name": "Sahakar Nagar Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 60.48,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.27,
+        "weight": 0.2,
+        "weighted": 4.05
+      },
+      "violation_intensity": {
+        "value": 16.62,
+        "weight": 0.15,
+        "weighted": 2.49
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 35.24,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 65,
+    "percentile": 35.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.27,
+    "violation_density_score": 16.62074140963849,
+    "annual_delay_vehicle_hours": 18510.0,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 8.2,
+    "csi_explainability": "CSI\u2122 = 60.5/100 (High). Ranked #65 of 100 citywide (top 65%). Illegal parking on Sahakar Nagar Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 18.5K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 35.2/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 29,
+    "road_name": "O Shaughnessy Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 60.44,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 25.27,
+        "weight": 0.2,
+        "weighted": 5.05
+      },
+      "violation_intensity": {
+        "value": 9.64,
+        "weight": 0.15,
+        "weighted": 1.45
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.62,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 66,
+    "percentile": 34.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 25.27,
+    "violation_density_score": 9.64393793198133,
+    "annual_delay_vehicle_hours": 11066.25,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 1.81,
+    "csi_explainability": "CSI\u2122 = 60.4/100 (High). Ranked #66 of 100 citywide (top 66%). Illegal parking on O Shaughnessy Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 11.1K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 33.6/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 92,
+    "road_name": "Jalahalli Cross Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 60.39,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 31.76,
+        "weight": 0.2,
+        "weighted": 6.35
+      },
+      "violation_intensity": {
+        "value": 0.7,
+        "weight": 0.15,
+        "weighted": 0.1
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.27,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 67,
+    "percentile": 33.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 31.76,
+    "violation_density_score": 0.6961242425483172,
+    "annual_delay_vehicle_hours": 12777.08,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.48,
+    "csi_explainability": "CSI\u2122 = 60.4/100 (High). Ranked #67 of 100 citywide (top 67%). Illegal parking on Jalahalli Cross Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 12.8K vehicle-hours of delay. Signal Junction within 50m. Parking Impact Score: 33.3/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 17,
+    "road_name": "MBT Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 60.36,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 26.76,
+        "weight": 0.2,
+        "weighted": 5.35
+      },
+      "violation_intensity": {
+        "value": 7.14,
+        "weight": 0.15,
+        "weighted": 1.07
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 34.83,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 68,
+    "percentile": 32.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 26.76,
+    "violation_density_score": 7.142337263695449,
+    "annual_delay_vehicle_hours": 24340.83,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 6.79,
+    "csi_explainability": "CSI\u2122 = 60.4/100 (High). Ranked #68 of 100 citywide (top 68%). Illegal parking on MBT Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 24.3K vehicle-hours of delay. Signal Junction within 50m. Parking Impact Score: 34.8/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 41,
+    "road_name": "Chikka Banavara RS Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 60.21,
+    "csi_severity": "High",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.27,
+        "weight": 0.2,
+        "weighted": 4.05
+      },
+      "violation_intensity": {
+        "value": 14.79,
+        "weight": 0.15,
+        "weighted": 2.22
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.15,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 69,
+    "percentile": 31.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.27,
+    "violation_density_score": 14.787008831008375,
+    "annual_delay_vehicle_hours": 3918.75,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.33,
+    "csi_explainability": "CSI\u2122 = 60.2/100 (High). Ranked #69 of 100 citywide (top 69%). Illegal parking on Chikka Banavara RS Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 3.9K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 33.1/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 73,
+    "road_name": "Bhadrappa Flyover",
+    "road_hierarchy": "Residential",
+    "csi_score": 59.78,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 24.31,
+        "weight": 0.2,
+        "weighted": 4.86
+      },
+      "violation_intensity": {
+        "value": 6.55,
+        "weight": 0.15,
+        "weighted": 0.98
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.24,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 70,
+    "percentile": 30.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 24.31,
+    "violation_density_score": 6.547648180772512,
+    "annual_delay_vehicle_hours": 11697.92,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 1.46,
+    "csi_explainability": "CSI\u2122 = 59.8/100 (Moderate). Ranked #70 of 100 citywide (top 70%). Illegal parking on Bhadrappa Flyover (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 11.7K vehicle-hours of delay. Flyover Junction within 50m. Parking Impact Score: 33.2/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 96,
+    "road_name": "Old Kanakapura Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 59.74,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 25.27,
+        "weight": 0.2,
+        "weighted": 5.05
+      },
+      "violation_intensity": {
+        "value": 5.02,
+        "weight": 0.15,
+        "weighted": 0.75
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.93,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 71,
+    "percentile": 29.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 25.27,
+    "violation_density_score": 5.016538762946373,
+    "annual_delay_vehicle_hours": 5808.75,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.29,
+    "csi_explainability": "CSI\u2122 = 59.7/100 (Moderate). Ranked #71 of 100 citywide (top 71%). Illegal parking on Old Kanakapura Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 5.8K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 32.9/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 42,
+    "road_name": "Amrutha College Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 59.49,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 25.27,
+        "weight": 0.2,
+        "weighted": 5.05
+      },
+      "violation_intensity": {
+        "value": 3.31,
+        "weight": 0.15,
+        "weighted": 0.5
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.95,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 72,
+    "percentile": 28.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 25.27,
+    "violation_density_score": 3.310097196336693,
+    "annual_delay_vehicle_hours": 11328.75,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.82,
+    "csi_explainability": "CSI\u2122 = 59.5/100 (Moderate). Ranked #72 of 100 citywide (top 72%). Illegal parking on Amrutha College Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 11.3K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 33.0/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 7,
+    "road_name": "Sri Sri Sri Tiruchi Mahaswamiji Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 59.47,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 25.27,
+        "weight": 0.2,
+        "weighted": 5.05
+      },
+      "violation_intensity": {
+        "value": 3.2,
+        "weight": 0.15,
+        "weighted": 0.48
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.89,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 73,
+    "percentile": 27.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 25.27,
+    "violation_density_score": 3.198568136000147,
+    "annual_delay_vehicle_hours": 9909.58,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.62,
+    "csi_explainability": "CSI\u2122 = 59.5/100 (Moderate). Ranked #73 of 100 citywide (top 73%). Illegal parking on Sri Sri Sri Tiruchi Mahaswamiji Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 9.9K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 32.9/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 22,
+    "road_name": "Marathahalli Underpass",
+    "road_hierarchy": "Residential",
+    "csi_score": 59.44,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 23.66,
+        "weight": 0.2,
+        "weighted": 4.73
+      },
+      "violation_intensity": {
+        "value": 5.16,
+        "weight": 0.15,
+        "weighted": 0.77
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.29,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 74,
+    "percentile": 26.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 23.66,
+    "violation_density_score": 5.15824462389718,
+    "annual_delay_vehicle_hours": 16040.42,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 2.28,
+    "csi_explainability": "CSI\u2122 = 59.4/100 (Moderate). Ranked #74 of 100 citywide (top 74%). Illegal parking on Marathahalli Underpass (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 16.0K vehicle-hours of delay. Underpass Junction within 50m. Parking Impact Score: 33.3/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 5,
+    "road_name": "New Horizon College Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 59.33,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 25.27,
+        "weight": 0.2,
+        "weighted": 5.05
+      },
+      "violation_intensity": {
+        "value": 2.29,
+        "weight": 0.15,
+        "weighted": 0.34
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 38.49,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 75,
+    "percentile": 25.0,
+    "tier": "Bottom 50%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 25.27,
+    "violation_density_score": 2.2912196903365185,
+    "annual_delay_vehicle_hours": 67730.83,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 23.25,
+    "csi_explainability": "CSI\u2122 = 59.3/100 (Moderate). Ranked #75 of 100 citywide (top 75%). Illegal parking on New Horizon College Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 67.7K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 38.5/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 98,
+    "road_name": "Road Number 1",
+    "road_hierarchy": "Residential",
+    "csi_score": 59.28,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 25.27,
+        "weight": 0.2,
+        "weighted": 5.05
+      },
+      "violation_intensity": {
+        "value": 1.93,
+        "weight": 0.15,
+        "weighted": 0.29
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.71,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 76,
+    "percentile": 24.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 25.27,
+    "violation_density_score": 1.929998133443618,
+    "annual_delay_vehicle_hours": 7087.08,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.23,
+    "csi_explainability": "CSI\u2122 = 59.3/100 (Moderate). Ranked #76 of 100 citywide (top 76%). Illegal parking on Road Number 1 (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 7.1K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 32.7/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 18,
+    "road_name": "Bellary Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 59.21,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.27,
+        "weight": 0.2,
+        "weighted": 4.05
+      },
+      "violation_intensity": {
+        "value": 8.12,
+        "weight": 0.15,
+        "weighted": 1.22
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.71,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 77,
+    "percentile": 23.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.27,
+    "violation_density_score": 8.122221365408073,
+    "annual_delay_vehicle_hours": 18523.75,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 4.37,
+    "csi_explainability": "CSI\u2122 = 59.2/100 (Moderate). Ranked #77 of 100 citywide (top 77%). Illegal parking on Bellary Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 18.5K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 33.7/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 50,
+    "road_name": "Bellary Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 59.19,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 25.27,
+        "weight": 0.2,
+        "weighted": 5.05
+      },
+      "violation_intensity": {
+        "value": 1.36,
+        "weight": 0.15,
+        "weighted": 0.2
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.24,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 78,
+    "percentile": 22.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 25.27,
+    "violation_density_score": 1.364602204029782,
+    "annual_delay_vehicle_hours": 25679.58,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 2.54,
+    "csi_explainability": "CSI\u2122 = 59.2/100 (Moderate). Ranked #78 of 100 citywide (top 78%). Illegal parking on Bellary Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 25.7K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 33.2/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 11,
+    "road_name": "Neeladri Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 59.17,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.27,
+        "weight": 0.2,
+        "weighted": 4.05
+      },
+      "violation_intensity": {
+        "value": 7.86,
+        "weight": 0.15,
+        "weighted": 1.18
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.3,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 79,
+    "percentile": 21.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.27,
+    "violation_density_score": 7.856943549449472,
+    "annual_delay_vehicle_hours": 15064.58,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 2.81,
+    "csi_explainability": "CSI\u2122 = 59.2/100 (Moderate). Ranked #79 of 100 citywide (top 79%). Illegal parking on Neeladri Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 15.1K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 33.3/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 13,
+    "road_name": "Unnamed Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.9,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.27,
+        "weight": 0.2,
+        "weighted": 4.05
+      },
+      "violation_intensity": {
+        "value": 6.09,
+        "weight": 0.15,
+        "weighted": 0.91
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 34.12,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 80,
+    "percentile": 20.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.27,
+    "violation_density_score": 6.094100784073422,
+    "annual_delay_vehicle_hours": 25510.42,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 6.56,
+    "csi_explainability": "CSI\u2122 = 58.9/100 (Moderate). Ranked #80 of 100 citywide (top 80%). Illegal parking on Unnamed Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 25.5K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 34.1/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 19,
+    "road_name": "Coles Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.83,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.27,
+        "weight": 0.2,
+        "weighted": 4.05
+      },
+      "violation_intensity": {
+        "value": 5.63,
+        "weight": 0.15,
+        "weighted": 0.84
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.5,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 81,
+    "percentile": 19.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.27,
+    "violation_density_score": 5.626401739824772,
+    "annual_delay_vehicle_hours": 21044.17,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 4.19,
+    "csi_explainability": "CSI\u2122 = 58.8/100 (Moderate). Ranked #81 of 100 citywide (top 81%). Illegal parking on Coles Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 21.0K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 33.5/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 82,
+    "road_name": "7th Cross Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.83,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 21.27,
+        "weight": 0.2,
+        "weighted": 4.25
+      },
+      "violation_intensity": {
+        "value": 4.24,
+        "weight": 0.15,
+        "weighted": 0.64
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.64,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 82,
+    "percentile": 18.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 21.27,
+    "violation_density_score": 4.2368540997933914,
+    "annual_delay_vehicle_hours": 10137.08,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.78,
+    "csi_explainability": "CSI\u2122 = 58.8/100 (Moderate). Ranked #82 of 100 citywide (top 82%). Illegal parking on 7th Cross Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 10.1K vehicle-hours of delay. Cross Junction within 75m. Parking Impact Score: 32.6/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 94,
+    "road_name": "Siddhapura Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.81,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 21.1,
+        "weight": 0.2,
+        "weighted": 4.22
+      },
+      "violation_intensity": {
+        "value": 4.33,
+        "weight": 0.15,
+        "weighted": 0.65
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.51,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 83,
+    "percentile": 17.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 21.1,
+    "violation_density_score": 4.333200904479314,
+    "annual_delay_vehicle_hours": 5972.92,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.28,
+    "csi_explainability": "CSI\u2122 = 58.8/100 (Moderate). Ranked #83 of 100 citywide (top 83%). Illegal parking on Siddhapura Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 6.0K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 32.5/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 20,
+    "road_name": "17th Cross Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.75,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.43,
+        "weight": 0.2,
+        "weighted": 4.09
+      },
+      "violation_intensity": {
+        "value": 4.87,
+        "weight": 0.15,
+        "weighted": 0.73
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 33.66,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 84,
+    "percentile": 16.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.43,
+    "violation_density_score": 4.872645545294154,
+    "annual_delay_vehicle_hours": 24255.0,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 4.98,
+    "csi_explainability": "CSI\u2122 = 58.8/100 (Moderate). Ranked #84 of 100 citywide (top 84%). Illegal parking on 17th Cross Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 24.3K vehicle-hours of delay. Cross Junction within 75m. Parking Impact Score: 33.7/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 56,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.65,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.27,
+        "weight": 0.2,
+        "weighted": 4.05
+      },
+      "violation_intensity": {
+        "value": 4.37,
+        "weight": 0.15,
+        "weighted": 0.66
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.64,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 85,
+    "percentile": 15.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.27,
+    "violation_density_score": 4.37439802933866,
+    "annual_delay_vehicle_hours": 11780.0,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 1.08,
+    "csi_explainability": "CSI\u2122 = 58.6/100 (Moderate). Ranked #85 of 100 citywide (top 85%). Illegal parking on Dr Rajkumar Puniya Bhoomi Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 11.8K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 32.6/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 46,
+    "road_name": "18th Cross Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.59,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.43,
+        "weight": 0.2,
+        "weighted": 4.09
+      },
+      "violation_intensity": {
+        "value": 3.78,
+        "weight": 0.15,
+        "weighted": 0.57
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.41,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 86,
+    "percentile": 14.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.43,
+    "violation_density_score": 3.78266283339128,
+    "annual_delay_vehicle_hours": 6185.42,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.27,
+    "csi_explainability": "CSI\u2122 = 58.6/100 (Moderate). Ranked #86 of 100 citywide (top 86%). Illegal parking on 18th Cross Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 6.2K vehicle-hours of delay. Cross Junction within 75m. Parking Impact Score: 32.4/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 95,
+    "road_name": "Old Airport Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.56,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.27,
+        "weight": 0.2,
+        "weighted": 4.05
+      },
+      "violation_intensity": {
+        "value": 3.83,
+        "weight": 0.15,
+        "weighted": 0.57
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.39,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 87,
+    "percentile": 13.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.27,
+    "violation_density_score": 3.8287478792979344,
+    "annual_delay_vehicle_hours": 5796.67,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.24,
+    "csi_explainability": "CSI\u2122 = 58.6/100 (Moderate). Ranked #87 of 100 citywide (top 87%). Illegal parking on Old Airport Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 5.8K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 32.4/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 68,
+    "road_name": "Hosa Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.55,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 21.1,
+        "weight": 0.2,
+        "weighted": 4.22
+      },
+      "violation_intensity": {
+        "value": 2.59,
+        "weight": 0.15,
+        "weighted": 0.39
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.53,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 88,
+    "percentile": 12.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 21.1,
+    "violation_density_score": 2.593706259497943,
+    "annual_delay_vehicle_hours": 12438.33,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.85,
+    "csi_explainability": "CSI\u2122 = 58.5/100 (Moderate). Ranked #88 of 100 citywide (top 88%). Illegal parking on Hosa Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 12.4K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 32.5/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 93,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.53,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.27,
+        "weight": 0.2,
+        "weighted": 4.05
+      },
+      "violation_intensity": {
+        "value": 3.57,
+        "weight": 0.15,
+        "weighted": 0.54
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.36,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 89,
+    "percentile": 11.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.27,
+    "violation_density_score": 3.571263015954966,
+    "annual_delay_vehicle_hours": 5116.67,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.18,
+    "csi_explainability": "CSI\u2122 = 58.5/100 (Moderate). Ranked #89 of 100 citywide (top 89%). Illegal parking on Dr Rajkumar Puniya Bhoomi Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 5.1K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 32.4/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 48,
+    "road_name": "80 Feet Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.52,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.27,
+        "weight": 0.2,
+        "weighted": 4.05
+      },
+      "violation_intensity": {
+        "value": 3.53,
+        "weight": 0.15,
+        "weighted": 0.53
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.76,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 90,
+    "percentile": 10.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.27,
+    "violation_density_score": 3.5316899258605554,
+    "annual_delay_vehicle_hours": 16384.17,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 1.8,
+    "csi_explainability": "CSI\u2122 = 58.5/100 (Moderate). Ranked #90 of 100 citywide (top 90%). Illegal parking on 80 Feet Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 16.4K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 32.8/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 63,
+    "road_name": "1st Cross Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.51,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.43,
+        "weight": 0.2,
+        "weighted": 4.09
+      },
+      "violation_intensity": {
+        "value": 3.24,
+        "weight": 0.15,
+        "weighted": 0.49
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.52,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 91,
+    "percentile": 9.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.43,
+    "violation_density_score": 3.240098684995048,
+    "annual_delay_vehicle_hours": 11569.58,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.85,
+    "csi_explainability": "CSI\u2122 = 58.5/100 (Moderate). Ranked #91 of 100 citywide (top 91%). Illegal parking on 1st Cross Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 11.6K vehicle-hours of delay. Cross Junction within 75m. Parking Impact Score: 32.5/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 24,
+    "road_name": "Dr Rajkumar Puniya Bhoomi Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.51,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.27,
+        "weight": 0.2,
+        "weighted": 4.05
+      },
+      "violation_intensity": {
+        "value": 3.46,
+        "weight": 0.15,
+        "weighted": 0.52
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.47,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 92,
+    "percentile": 8.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.27,
+    "violation_density_score": 3.461276868157138,
+    "annual_delay_vehicle_hours": 10002.08,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.66,
+    "csi_explainability": "CSI\u2122 = 58.5/100 (Moderate). Ranked #92 of 100 citywide (top 92%). Illegal parking on Dr Rajkumar Puniya Bhoomi Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 10.0K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 32.5/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 99,
+    "road_name": "Mysore Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.46,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.27,
+        "weight": 0.2,
+        "weighted": 4.05
+      },
+      "violation_intensity": {
+        "value": 3.11,
+        "weight": 0.15,
+        "weighted": 0.47
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.33,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 93,
+    "percentile": 7.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.27,
+    "violation_density_score": 3.1058501736620303,
+    "annual_delay_vehicle_hours": 5705.42,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.2,
+    "csi_explainability": "CSI\u2122 = 58.5/100 (Moderate). Ranked #93 of 100 citywide (top 93%). Illegal parking on Mysore Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 5.7K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 32.3/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 80,
+    "road_name": "J Lingaiah Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.39,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.27,
+        "weight": 0.2,
+        "weighted": 4.05
+      },
+      "violation_intensity": {
+        "value": 2.66,
+        "weight": 0.15,
+        "weighted": 0.4
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.45,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 94,
+    "percentile": 6.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.27,
+    "violation_density_score": 2.6553609095748927,
+    "annual_delay_vehicle_hours": 12062.92,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.81,
+    "csi_explainability": "CSI\u2122 = 58.4/100 (Moderate). Ranked #94 of 100 citywide (top 94%). Illegal parking on J Lingaiah Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 12.1K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 32.5/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 44,
+    "road_name": "CMR Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.39,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.27,
+        "weight": 0.2,
+        "weighted": 4.05
+      },
+      "violation_intensity": {
+        "value": 2.66,
+        "weight": 0.15,
+        "weighted": 0.4
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.36,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 95,
+    "percentile": 5.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.27,
+    "violation_density_score": 2.658616866219348,
+    "annual_delay_vehicle_hours": 8806.25,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.43,
+    "csi_explainability": "CSI\u2122 = 58.4/100 (Moderate). Ranked #95 of 100 citywide (top 95%). Illegal parking on CMR Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 8.8K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 32.4/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 62,
+    "road_name": "Mysore Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.38,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 21.1,
+        "weight": 0.2,
+        "weighted": 4.22
+      },
+      "violation_intensity": {
+        "value": 1.49,
+        "weight": 0.15,
+        "weighted": 0.22
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.33,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 96,
+    "percentile": 4.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 21.1,
+    "violation_density_score": 1.4896794679108514,
+    "annual_delay_vehicle_hours": 9182.5,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.34,
+    "csi_explainability": "CSI\u2122 = 58.4/100 (Moderate). Ranked #96 of 100 citywide (top 96%). Illegal parking on Mysore Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 9.2K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 32.3/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 58,
+    "road_name": "Bellary Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.3,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.27,
+        "weight": 0.2,
+        "weighted": 4.05
+      },
+      "violation_intensity": {
+        "value": 2.06,
+        "weight": 0.15,
+        "weighted": 0.31
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.43,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 97,
+    "percentile": 3.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.27,
+    "violation_density_score": 2.0582239381427057,
+    "annual_delay_vehicle_hours": 13627.5,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.88,
+    "csi_explainability": "CSI\u2122 = 58.3/100 (Moderate). Ranked #97 of 100 citywide (top 97%). Illegal parking on Bellary Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 13.6K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 32.4/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 84,
+    "road_name": "5th Cross Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.29,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.43,
+        "weight": 0.2,
+        "weighted": 4.09
+      },
+      "violation_intensity": {
+        "value": 1.81,
+        "weight": 0.15,
+        "weighted": 0.27
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.36,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 98,
+    "percentile": 2.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.43,
+    "violation_density_score": 1.8105480981862692,
+    "annual_delay_vehicle_hours": 11922.92,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.63,
+    "csi_explainability": "CSI\u2122 = 58.3/100 (Moderate). Ranked #98 of 100 citywide (top 98%). Illegal parking on 5th Cross Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 11.9K vehicle-hours of delay. Cross Junction within 75m. Parking Impact Score: 32.4/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.82,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 89,
+    "road_name": "Hosur Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.18,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.27,
+        "weight": 0.2,
+        "weighted": 4.05
+      },
+      "violation_intensity": {
+        "value": 1.24,
+        "weight": 0.15,
+        "weighted": 0.19
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.24,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 99,
+    "percentile": 1.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.27,
+    "violation_density_score": 1.2402217772474295,
+    "annual_delay_vehicle_hours": 9798.75,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.35,
+    "csi_explainability": "CSI\u2122 = 58.2/100 (Moderate). Ranked #99 of 100 citywide (top 99%). Illegal parking on Hosur Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 9.8K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 32.2/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  },
+  {
+    "hotspot_id": 28,
+    "road_name": "Gnana Bharathi Road",
+    "road_hierarchy": "Residential",
+    "csi_score": 58.09,
+    "csi_severity": "Moderate",
+    "csi_components": {
+      "traffic_congestion": {
+        "value": 83.12,
+        "weight": 0.3,
+        "weighted": 24.94
+      },
+      "capacity_loss": {
+        "value": 100.0,
+        "weight": 0.25,
+        "weighted": 25.0
+      },
+      "context_importance": {
+        "value": 20.27,
+        "weight": 0.2,
+        "weighted": 4.05
+      },
+      "violation_intensity": {
+        "value": 0.66,
+        "weight": 0.15,
+        "weighted": 0.1
+      },
+      "road_priority": {
+        "value": 40.0,
+        "weight": 0.1,
+        "weighted": 4.0
+      }
+    },
+    "pis_score": 32.35,
+    "pis_priority": "P4-Low",
+    "pis_recommendation": "Monitor via CCTV or periodic checks. Record for trend analysis.",
+    "rank": 100,
+    "percentile": 0.0,
+    "tier": "Bottom 25%",
+    "congestion_impact_score": 83.12,
+    "speed_reduction_percentage": 63.73,
+    "capacity_loss_percentage": 100.0,
+    "context_importance_score": 20.27,
+    "violation_density_score": 0.6644547009750853,
+    "annual_delay_vehicle_hours": 17906.67,
+    "emergency_route_impact": false,
+    "peak_hour": 10,
+    "peak_hour_label": "10:00 - 11:00",
+    "peak_day": "Wednesday",
+    "temporal_recurrence_score": 0.94,
+    "csi_explainability": "CSI\u2122 = 58.1/100 (Moderate). Ranked #100 of 100 citywide (top 100%). Illegal parking on Gnana Bharathi Road (Residential) causes 63.7% speed reduction with 100% capacity loss. Projected annual impact: 17.9K vehicle-hours of delay. Uncontrolled Junction within 38m. Parking Impact Score: 32.4/100 (P4-Low). Monitor via periodic checks. Record for trend analysis.",
+    "confidence": 0.65,
+    "generated_at": "2026-06-21 07:20:12.424620"
+  }
+]

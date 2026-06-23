@@ -1,0 +1,50 @@
+C:\Users\Aayus\Desktop\hackearth\backend\ai	emporal_pattern_engine.py:43: DtypeWarning: Columns (19,20,21,22,23) have mixed types. Specify dtype option on import or set low_memory=False.\r
+  df = pd.read_csv(TemporalPatternEngine.CLEANED_DATA_PATH)\r
+Traceback (most recent call last):\r
+  File "C:\Users\Aayus\Desktop\hackearth\backend\main.py", line 89, in startup_event\r
+    DigitalTwinService.generate_all()\r
+  File "C:\Users\Aayus\Desktop\hackearth\backend\services\digital_twin_service.py", line 56, in generate_all\r
+    hotspot_scenarios = MultiScenarioEngine.run_all_scenarios(csi, pis, total_road_width)\r
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\r
+  File "C:\Users\Aayus\Desktop\hackearth\backend\ai\multi_scenario_engine.py", line 16, in run_all_scenarios\r
+    sim = DigitalTwinEngine.simulate(csi_data, pis_data, total_road_width, s_id)\r
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\r
+  File "C:\Users\Aayus\Desktop\hackearth\backend\ai\digital_twin_engine.py", line 28, in simulate\r
+    baseline = BaselineStateEngine.capture_baseline(csi_data, pis_data)\r
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\r
+  File "C:\Users\Aayus\Desktop\hackearth\backend\ai\baseline_state_engine.py", line 16, in capture_baseline\r
+    "effective_width_m": csi_data['effective_width_m'],\r
+                         ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^\r
+KeyError: 'effective_width_m'\r
+--- 
+<truncated 1480 bytes>
+ve CSI Intelligence generated for 100 hotspots.\r
+--- Initializing PIS Impact Engine ---\r
+Parking Impact Score (PIS) Intelligence generated for 100 hotspots.\r
+--- Initializing AI Prediction Engine ---\r
+  Bootstrapping synthetic historical dataset for ML training...\r
+  Training ML Models (Random Forest / Gradient Boosting)...\r
+  Predicting horizon: 1h...\r
+  Predicting horizon: 6h...\r
+  Predicting horizon: 24h...\r
+  Predicting horizon: 7d...\r
+Prediction Engine generated forecasts for 100 locations.\r
+--- Initializing Digital Twin Simulation Engine ---\r
+  Running multi-scenario simulations for all hotspots...\r
+Pipeline initialization failed (maybe dataset is missing?): 'effective_width_m'\r
+Traceback (most recent call last):\r
+  File "C:\Users\Aayus\Desktop\hackearth	est_digital_twin.py", line 45, in <module>\r
+    asyncio.run(main())\r
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 190, in run\r
+    return runner.run(main)\r
+           ^^^^^^^^^^^^^^^^\r
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 118, in run\r
+    return self._loop.run_until_complete(task)\r
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\r
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 654, in run_until_complete\r
+    return future.result()\r
+           ^^^^^^^^^^^^^^^\r
+  File "C:\Users\Aayus\Desktop\hackearth	est_digital_twin.py", line 12, in main\r
+    with open('backend/data/processed/scenario_analysis.json', 'r') as f:\r
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\r
+FileNotFoundError: [Errno 2] No such file or directory: 'backend/data/processed/scenario_analysis.json'\r
