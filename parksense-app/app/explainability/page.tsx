@@ -48,7 +48,7 @@ export default function ExplainabilityPage() {
                 <Tooltip 
                   cursor={{fill: '#f1f5f9'}} 
                   contentStyle={{ borderRadius: '8px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }}
-                  formatter={(value: any) => [Number(value).toFixed(3), 'Mean |SHAP|']}
+                  formatter={(value: any) => [Number(value || 0).toFixed(3), 'Mean |SHAP|']}
                 />
                 <Bar dataKey="value" radius={[0, 4, 4, 0]}>
                   {shapData.global_importance.map((entry: any, index: number) => (
@@ -78,7 +78,7 @@ export default function ExplainabilityPage() {
                 <Tooltip 
                   cursor={{fill: '#f1f5f9'}} 
                   contentStyle={{ borderRadius: '8px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }}
-                  formatter={(value: any) => [Number(value).toFixed(3), 'Impact on Prediction']}
+                  formatter={(value: any) => [Number(value || 0).toFixed(3), 'Impact on Prediction']}
                 />
                 <Bar dataKey="shap_value" radius={[0, 4, 4, 0]}>
                   {localExp.map((entry: any, index: number) => (

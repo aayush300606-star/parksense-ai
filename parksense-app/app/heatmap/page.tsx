@@ -123,7 +123,7 @@ export default function HeatmapPage() {
               </div>
               <div className="flex justify-between items-center pb-3 border-b border-slate-100">
                 <span className="text-sm font-medium text-slate-500">Average CSI</span>
-                <span className={`text-sm font-bold ${trafficColor}`}>{averageCsi.toFixed(1)}</span>
+                <span className={`text-sm font-bold ${trafficColor}`}>{Number(averageCsi || 0).toFixed(1)}</span>
               </div>
               <div className="flex justify-between items-center pb-3 border-b border-slate-100">
                 <span className="text-sm font-medium text-slate-500">Network Condition</span>

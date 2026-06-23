@@ -11,6 +11,35 @@ def get_all_predictions():
     """Returns AI forecasts (1h, 6h, 24h, 7d) for all hotspots."""
     return PredictionService.get_all_predictions()
 
+@router.get("/legacy/predictions.json")
+def get_legacy_predictions():
+    """Returns predictions in the legacy flat format expected by the frontend."""
+    predictions = PredictionService.get_all_predictions()
+    legacy_preds = []
+    for p in predictions:
+        forecasts = p.get('forecasts', {})
+        drivers = p.get('key_prediction_drivers', [])
+        key_factor = drivers[0]['feature'] if drivers else 'Historical pattern'
+        # Convert hotspot_probability from 0-100 percentage back to 0-1 ratio for legacy UI
+        prob_1h = forecasts.get('1h', {}).get('hotspot_probability', 0) / 100.0
+        prob_6h = forecasts.get('6h', {}).get('hotspot_probability', 0) / 100.0
+        prob_24h = forecasts.get('24h', {}).get('hotspot_probability', 0) / 100.0
+        # Calculate mock confidence based on inverse CSI
+        conf = 1.0 - (forecasts.get('24h', {}).get('predicted_csi', 0) / 100.0)
+        if conf < 0.5: conf = 0.85
+        
+        legacy_preds.append({
+            "lat": p.get("latitude", 0),
+            "lng": p.get("longitude", 0),
+            "location_name": p.get("road_name", "Unknown"),
+            "prob_1h": prob_1h,
+            "prob_6h": prob_6h,
+            "prob_24h": prob_24h,
+            "confidence": conf,
+            "key_factor": key_factor
+        })
+    return legacy_preds
+
 @router.get("/predictions/shap")
 def get_shap_values():
     """Returns SHAP values for explainable AI."""

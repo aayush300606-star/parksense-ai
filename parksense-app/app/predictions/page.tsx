@@ -10,7 +10,7 @@ export default function PredictionsPage() {
   const [timeWindow, setTimeWindow] = useState<"1h" | "6h" | "24h">("24h");
 
   useEffect(() => {
-    fetch(`${API_BASE_URL}/api/predictions`)
+    fetch(`${API_BASE_URL}/api/legacy/predictions.json`)
       .then(res => res.json())
       .then(data => setPredictions(Array.isArray(data) ? data : []))
       .catch(() => setPredictions([]));
@@ -62,7 +62,7 @@ export default function PredictionsPage() {
                   <div className="flex-1">
                     <div className="flex justify-between text-xs mb-2">
                       <span className="text-slate-500 font-semibold uppercase tracking-wider">Risk Prob</span>
-                      <span className="font-bold text-amber-600">{(p[getProbKey(timeWindow)] * 100).toFixed(1)}%</span>
+                      <span className="font-bold text-amber-600">{Number((p[getProbKey(timeWindow)] * 100) || 0).toFixed(1)}%</span>
                     </div>
                     <div className="w-full bg-slate-100 rounded-full h-2 shadow-inner overflow-hidden">
                       <div className="bg-gradient-to-r from-amber-400 to-amber-500 h-2 rounded-full" style={{ width: `${Math.min(100, p[getProbKey(timeWindow)] * 100)}%` }}></div>
@@ -71,7 +71,7 @@ export default function PredictionsPage() {
                   
                   <div className="text-right flex-shrink-0 border-l border-slate-100 pl-6">
                     <div className="text-[10px] text-slate-400 uppercase tracking-wider font-bold mb-1">Model Conf</div>
-                    <div className="text-sm font-bold text-emerald-600">{(p.confidence * 100).toFixed(1)}%</div>
+                    <div className="text-sm font-bold text-emerald-600">{Number((p.confidence * 100) || 0).toFixed(1)}%</div>
                   </div>
                 </div>
               </div>

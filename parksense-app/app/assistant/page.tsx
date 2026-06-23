@@ -151,7 +151,7 @@ export default function AnalystWorkspace() {
                     <div className="flex items-center gap-1.5 ml-2 mt-1">
                       <CheckCircle2 className="w-3.5 h-3.5 text-emerald-500" />
                       <span className="text-xs font-medium text-slate-500">
-                        AI Confidence: {(msg.confidence * 100).toFixed(0)}%
+                        AI Confidence: {(Number((msg.confidence * 100) || 0).toFixed(0)}%
                       </span>
                     </div>
                   )}

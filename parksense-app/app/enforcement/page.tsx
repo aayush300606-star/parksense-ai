@@ -92,7 +92,7 @@ export default function EnforcementCommand() {
                     <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider sm:mb-1">Projected ROI Score</div>
                     <div className="flex items-baseline gap-1">
                       <div className={`text-3xl font-bold ${plan.roi_score > 70 ? 'text-rose-600' : plan.roi_score > 40 ? 'text-amber-600' : 'text-blue-600'}`}>
-                        {plan.roi_score.toFixed(1)}
+                        {Number(plan.roi_score || 0).toFixed(1)}
                       </div>
                       <div className="text-sm font-medium text-slate-400">/ 100</div>
                     </div>
